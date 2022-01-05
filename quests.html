@@ -24,7 +24,13 @@ title: Quests
               {% for quest in site.data.quests %}
                 <tr class="gradeA">
                   <td>{{ quest.Name }}</td>
-                  <td class="center">{{ quest.Members }}</td>
+                  <td class="center">
+                    {% if quest.Members %}
+                      <img src="img/20px-P2P_icon.png" /> Yes
+                    {% else %}
+                      <img src="img/20px-F2P_icon.png" /> No
+                    {% endif %}
+                  </td>
                   <td>{{ quest.Difficulty }}</td>
                   <td class="center">{{ quest.QP }}</td>
                   <td class="center">{{ quest.Possible }}</td>
