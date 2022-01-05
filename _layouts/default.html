@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hitpoint Hierachy's 10HP Guide</title>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+  <link href="css/custom-styles.css" rel="stylesheet" type="text/css" />
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.5.95/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap.min.js"></script>
+  <script src="js/jquery.metisMenu.js"></script>
+  <script src="js/custom-scripts.js"></script>
+</head>
+<body>
+  <div id="wrapper">
+    
+    <nav class="navbar navbar-default top-navbar" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">10HP Guide</a>
+      </div>
+    </nav>
+    
+    {% include sidebar.html %}
+    
+    <div id="page-wrapper">
+      <div id="page-inner">
+        
+        {{ content }}
+        
+        <footer><p>All right reserved. Copyright &copy; 2022 Hitpoint Hierachy. Template by: <a href="http://webthemez.com">WebThemez</a></p></footer>
+      
+      </div>
+    </div>
+  </div>
+  
+</body>
+
+</html>
