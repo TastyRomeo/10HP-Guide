@@ -1,0 +1,6 @@
+wormbrain:
+  name: 'Wormbrain'
+  immunity:
+    recoil: No
+    poison: No
+    dart: No
