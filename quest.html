@@ -9,10 +9,8 @@ title: Quests
 </div>
 <script>
   let params = new URLSearchParams( window.location.search );
-  let id = 0;
   if ( params.has( "id" ) ) {
-    id = params.get( "id ");
-    $( "#questGuide" ).load( "quests/"+id );
+    $( "#questGuide" ).load( "quests/"+params.get( "id ") );
   } else {
     $( "#questGuide" ).html( "404!");
   }
