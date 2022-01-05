@@ -1698,7 +1698,7 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Hunt for Surok (miniquest)'
+    Name: 'Hunt for Surok, The (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
@@ -1734,7 +1734,7 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Lost Toys (miniquest)'
+    Name: 'Lost Toys, The (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
@@ -1836,7 +1836,7 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Vault of Shadows (miniquest)'
+    Name: 'Vault of Shadows, The (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
