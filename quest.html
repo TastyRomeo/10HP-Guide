@@ -8,5 +8,12 @@ title: Quests
   </div>
 </div>
 <script>
-  $( "#questGuide" ).load( "quests/1" );
+  let params = new URLSearchParams( window.location.search );
+  let id = 0;
+  if ( params.has( "id" ) ) {
+    id = params.get( "id ");
+    $( "#questGuide" ).load( "quests/"+id );
+  } else {
+    $( "#questGuide" ).html( "404!");
+  }
 </script>
