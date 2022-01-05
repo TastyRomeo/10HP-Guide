@@ -1,5 +1,6 @@
 wormbrain:
   name: 'Wormbrain'
+  level: 1
   immunity:
     recoil: No
     poison: No
