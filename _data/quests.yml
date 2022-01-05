@@ -1523,31 +1523,31 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'Boric''s Task I'
+    Name: 'Boric''s Task I (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Boric''s Task II'
+    Name: 'Boric''s Task II (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Boric''s Task III'
+    Name: 'Boric''s Task III (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Curse of Zaros'
+    Name: 'Curse of Zaros, The (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Damage Control'
+    Name: 'Damage Control (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
@@ -1559,187 +1559,187 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task I'
+    Name: 'Doric''s Task I (miniquest)'
     Members: No
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task II'
+    Name: 'Doric''s Task II (miniquest)'
     Members: No
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task III'
+    Name: 'Doric''s Task III (miniquest)'
     Members: No
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task IV'
+    Name: 'Doric''s Task IV (miniquest)'
     Members: No
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task V'
+    Name: 'Doric''s Task V (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task VI'
+    Name: 'Doric''s Task VI (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task VII'
+    Name: 'Doric''s Task VII (miniquest)'
     Members: Yes
     Difficulty: Master
     QP: '0'
     Possible: Yes
 -
-    Name: 'Doric''s Task VIII'
+    Name: 'Doric''s Task VIII (miniquest)'
     Members: Yes
     Difficulty: Master
     QP: '0'
     Possible: Yes
 -
-    Name: 'Enter the Abyss'
+    Name: 'Enter the Abyss (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'Eye for an Eye'
+    Name: 'Eye for an Eye (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Eye of Het I'
+    Name: 'Eye of Het I (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Eye of Het II'
+    Name: 'Eye of Het II (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Father and Son'
+    Name: 'Father and Son (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Final Destination'
+    Name: 'Final Destination (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Flag Fall'
+    Name: 'Flag Fall (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'From Tiny Acorns'
+    Name: 'From Tiny Acorns (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'The General''s Shadow'
+    Name: 'General''s Shadow, The  (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'Ghosts from the Past'
+    Name: 'Ghosts from the Past (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'A Guild of Our Own'
+    Name: 'Guild of Our Own, A (miniquest)'
     Members: Yes
     Difficulty: Master
     QP: '0'
     Possible: Yes
 -
-    Name: Harbinger
+    Name: 'Harbinger (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Head of the Family'
+    Name: 'Head of the Family (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Helping Laniakea'
+    Name: 'Helping Laniakea (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Hopespear''s Will'
+    Name: 'Hopespear''s Will (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Hunt for Surok'
+    Name: 'The Hunt for Surok (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'In Memory of the Myreque'
+    Name: 'In Memory of the Myreque (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: No
 -
-    Name: 'Jed Hunter'
+    Name: 'Jed Hunter (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Koschei''s Troubles'
+    Name: 'Koschei''s Troubles (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: No
 -
-    Name: 'Lair of Tarn Razorlor'
+    Name: 'Lair of Tarn Razorlor (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
     Possible: Yes
 -
-    Name: 'Lost Her Marbles'
+    Name: 'Lost Her Marbles (miniquest)'
     Members: Yes
     Difficulty: Intermediate
     QP: '0'
     Possible: Yes
 -
-    Name: 'The Lost Toys'
+    Name: 'The Lost Toys (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: No
 -
-    Name: 'Mahjarrat Memories'
+    Name: 'Mahjarrat Memories (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
@@ -1751,7 +1751,7 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'One Foot in the Grave'
+    Name: 'One Foot in the Grave (miniquest)'
     Members: Yes
     Difficulty: Master
     QP: '0'
@@ -1769,37 +1769,37 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'Rebuilding Edgeville'
+    Name: 'Rebuilding Edgeville (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: No
 -
-    Name: 'Sheep Shearer'
+    Name: 'Sheep Shearer (miniquest)'
     Members: No
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Sins of the Father'
+    Name: 'Sins of the Father (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Spiritual Enlightenment'
+    Name: 'Spiritual Enlightenment (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Tales of Nomad'
+    Name: 'Tales of Nomad (miniquest)'
     Members: Yes
     Difficulty: Master
     QP: '0'
     Possible: No
 -
-    Name: 'Tales of the God Wars'
+    Name: 'Tales of the God Wars (miniquest)'
     Members: Yes
     Difficulty: Experienced
     QP: '0'
@@ -1823,13 +1823,13 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'Tortle Combat'
+    Name: 'Tortle Combat (miniquest)'
     Members: Yes
     Difficulty: Novice
     QP: '0'
     Possible: Yes
 -
-    Name: 'Tuai Leit''s Own'
+    Name: 'Tuai Leit''s Own (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
@@ -1847,13 +1847,13 @@
     QP: '0'
     Possible: Yes
 -
-    Name: 'Wandering Ga''al'
+    Name: 'Wandering Ga''al (miniquest)'
     Members: Yes
     Difficulty: Grandmaster
     QP: '0'
     Possible: Yes
 -
-    Name: 'Witch''s Potion'
+    Name: 'Witch''s Potion (miniquest)'
     Members: No
     Difficulty: Novice
     QP: '0'
