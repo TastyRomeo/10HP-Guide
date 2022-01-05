@@ -10,7 +10,7 @@ title: Quests
       </div>
       <div class="panel-body">
         <div class="table-responsive">
-          <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+          <table class="table table-striped table-bordered table-hover" id="quest-table">
             <thead>
               <tr>
                 <th>Rendering engine</th>
@@ -423,6 +423,11 @@ title: Quests
                                         </tr>
             </tbody>
           </table>
+          <script>
+            $(function () {
+                $('#quest-table').dataTable();
+            });
+          </script>
         </div>
                             
       </div>
