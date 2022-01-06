@@ -1,6 +1,10 @@
 wormbrain:
   name: 'Wormbrain'
   level: 1
+  LP: 50
+  MaxHit: 4
+  CombatXP: 24.9
+  HPXP: 8.3
   immunity:
     recoil: No
     poison: No
