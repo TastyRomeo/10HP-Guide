@@ -1,4 +1,4 @@
-<div class="panel panel-primary">
+<div class="panel {% if {{ include.monster.level }} < 75 %}panel-success{% elsif {{ include.monster.level }} < 150 %}panel-warning{% else %}panel-danger{% endif %}">
   <div class="panel-heading" style="text-align:center">
     <span style="font-weight:bold">{{ include.monster.name }}</span> (level: {{ include.monster.level }})
   </div>
