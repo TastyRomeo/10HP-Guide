@@ -21,6 +21,9 @@
           <th style="width:20%;text-align:center;font-weight:bold">
             HP XP
           </th>
+          <th style="width:20%;text-align:center;font-weight:bold">
+            Taggable
+          </th>
         </tr>
       </thead>
       <tbody>
@@ -38,7 +41,7 @@
             {{ include.monster.HPXP }}
           </td>
           <td style="width:20%;text-align:center;">
-            {% if include.monster.Taggable == nil %}
+            {% unless include.monster.Taggable == nil %}
               {{ include.monster.Taggable }}
             {% else %}
               Yes
