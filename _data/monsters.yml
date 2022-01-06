@@ -42,7 +42,7 @@ zombiemelzar:
 melzarthemad:
   name: 'Melzar the Mad'
   level: 39
-  LP: 1,400
+  LP: '1,400'
   MaxHit: 112
   CombatXP: 51.5
   HPXP: 20.2
@@ -51,7 +51,7 @@ melzarthemad:
 lesserdemonmelzar:
   name: "Lesser Demon"
   level: 56
-  LP: 2,000
+  LP: '2,000'
   MaxHit: 160
   CombatXP: 103.8
   HPXP: 34.2
