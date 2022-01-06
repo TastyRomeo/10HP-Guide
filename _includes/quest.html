@@ -64,7 +64,7 @@
       </div>
       <div class="panel-body">
         <span style="font-weight:bold">Experience</span>
-        {% if include.quest.skillRew %}
+        {% if include.quest.skillRew or include.quest.lampsRew %}
           <ul>
           {% for rew in include.quest.skillRew %}
             {% if rew != 0 %}
