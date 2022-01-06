@@ -54,7 +54,15 @@ title: Quests
           </table>
           <script>
             $(function () {
-                $('#quest-table').dataTable();
+                $('#quest-table').dataTable({
+                  "aoColumns": [
+			              { "sType": "html" },
+			              null,
+                    null,
+                    { "sType": "numeric" },
+                    null
+		              ]
+                });
             });
           </script>
         </div>
