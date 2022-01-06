@@ -4,7 +4,6 @@
     Difficulty: Intermediate
     QP: '1'
     Possible: Yes
-    Id: 'allfiredup'
 -
     Name: 'Animal Magnetism'
     Members: Yes
@@ -17,6 +16,7 @@
     Difficulty: Intermediate
     QP: '1'
     Possible: Yes
+    Id: 'anothersliceofham'
 -
     Name: 'As a First Resort'
     Members: Yes
