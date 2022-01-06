@@ -71,27 +71,56 @@
               <li>
                 {{ rew }}
                 {% if {{forloop.index}} == 1 %}
-                  Attack
+                  Attack <img src="img/attack.png" />
                 {% elsif {{forloop.index}} == 2 %}
-                  Strength
+                  Strength <img src="img/strength.png" />
                 {% elsif {{forloop.index}} == 3 %}
-                  Defence
+                  Defence <img src="img/defence.png" /> 
                 {% elsif {{forloop.index}} == 4 %}
-                  Magic
+                  Magic <img src="img/magic.png" />
                 {% elsif {{forloop.index}} == 5 %}
-                  Ranged
+                  Ranged <img src="img/ranged.png" />
                 {% elsif {{forloop.index}} == 6 %}
-                  Constitution
+                  Constitution <img src="img/constitution.png" />
                 {% elsif {{forloop.index}} == 7 %}
-                  Prayer
+                  Prayer <img src="img/prayer.png" />
                 {% elsif {{forloop.index}} == 8 %}
-                  Summoning
+                  Summoning <img src="img/summoning.png" />
                 {% elsif {{forloop.index}} == 9 %}
-                  Combat
+                  Combat <img src="img/multicombat.png" />
                 {% elsif {{forloop.index}} == 8 %}
-                  <!-- Prismatic -->
+                  <img src="img/prismatic.png" />
                 {% endif %}
                 XP
+              </li>
+            {% endif %}
+          {% endfor %}
+          {% for rew in include.quest.lampsRew %}
+            {% if rew != 0 %}
+              <li>
+                {{ rew }}
+                {% if {{forloop.index}} == 1 %}
+                  Attack <img src="img/attack.png" />
+                {% elsif {{forloop.index}} == 2 %}
+                  Strength <img src="img/strength.png" />
+                {% elsif {{forloop.index}} == 3 %}
+                  Defence <img src="img/defence.png" /> 
+                {% elsif {{forloop.index}} == 4 %}
+                  Magic <img src="img/magic.png" />
+                {% elsif {{forloop.index}} == 5 %}
+                  Ranged <img src="img/ranged.png" />
+                {% elsif {{forloop.index}} == 6 %}
+                  Constitution <img src="img/constitution.png" />
+                {% elsif {{forloop.index}} == 7 %}
+                  Prayer <img src="img/prayer.png" />
+                {% elsif {{forloop.index}} == 8 %}
+                  Summoning <img src="img/summoning.png" />
+                {% elsif {{forloop.index}} == 9 %}
+                  Combat <img src="img/multicombat.png" />
+                {% elsif {{forloop.index}} == 8 %}
+                  <img src="img/prismatic.png" />
+                {% endif %}
+                XP lamp
               </li>
             {% endif %}
           {% endfor %}
