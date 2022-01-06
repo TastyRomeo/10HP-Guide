@@ -5,23 +5,34 @@
   <div class="panel-body">
     <p>Information on Life Points, Combat XP drop, HP XP Drop and Max hit goes here.</p>
   </div>
-  <div class="panel-footer">
-    {% if include.monster.immunity.recoil %}
-      Rec. Imm.
-    {% else %}
-      Not Rec. Imm.
-    {% endif %}
-    |
-    {% if include.monster.immunity.poison %}
-      Pois. Imm.
-    {% else %}
-      Not Pois. Imm.
-    {% endif %}
-    |
-    {% if include.monster.immunity.dart %}
-      DTD Imm.
-    {% else %}
-      Not DTD Imm.
-    {% endif %}
+  <div class="panel-footer" style="text-align:center;font-weight:bold">
+    Immunities
+  </div>
+  <div class="panel-body">
+    <table style="width:100%">
+      <tr>
+        <td style="width:calc(100% / 3)">
+          {% if include.monster.immunity.recoil %}
+            Rec. Imm.
+          {% else %}
+            Not Rec. Imm.
+          {% endif %}
+        </td>
+        <td style="width:calc(100% / 3)">
+          {% if include.monster.immunity.poison %}
+            Pois. Imm.
+          {% else %}
+            Not Pois. Imm.
+          {% endif %}
+        </td>
+        <td style="width:calc(100% / 3)">
+          {% if include.monster.immunity.dart %}
+            DTD Imm.
+          {% else %}
+            Not DTD Imm.
+          {% endif %}
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
