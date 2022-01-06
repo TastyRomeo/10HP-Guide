@@ -9,3 +9,11 @@ dragonslayer:
   lampsRew: [ 0, '18,650', '18,650', 0, 0, 0, 0, 0 ]
   # otherRew:
   methods: [ "TFK / 51%", "Kill" ]
+
+anothersliceofham:
+  name: 'Another Slice of H.A.M.'
+  questReq: [ 'Death to the Dorgeshuun', 'The Dig Site', 'The Giant Dwarf' ]
+  skillReq: [ 15, 0, 0, 0, 0, 0, 25, 0 ]
+  skillRew: [ 0, 0, 0, 0, 0, 0, '3,000', 0 ]
+  methods: [ 'Recoil', 'Kill' ]
+  
