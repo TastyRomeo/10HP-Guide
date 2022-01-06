@@ -10,29 +10,29 @@
         Requirements
       </div>
       <div class="panel-body">
-        <span style="font-weight:bold">Quests</span>
-        {% if quest.questReq %}
+        <p><span style="font-weight:bold">Quests</span></p>
+        {% if include.quest.questReq %}
           <ul>
-          {% for req in quest.questReq %}
+          {% for req in include.quest.questReq %}
             <li>
               {{ req }}
             </li>
           {% endfor %}
           </ul>
         {% else %}
-          none
+          <p>none</p>
         {% endif %}
         <span style="font-weight:bold">Combat levels</span>
-        {% if quest.skillReq %}
+        {% if include.quest.skillReq %}
           <ul>
-          {% for req in quest.skillReq %}
+          {% for req in include.quest.skillReq %}
             <li>
               {{ req }}
             </li>
           {% endfor %}
           </ul>
         {% else %}
-          none
+          <p>none</p>
         {% endif %}
       </div>
     </div>
@@ -44,28 +44,28 @@
       </div>
       <div class="panel-body">
         <span style="font-weight:bold">Experience</span>
-        {% if quest.skillRew %}
+        {% if include.quest.skillRew %}
           <ul>
-          {% for rew in quest.skillRew %}
+          {% for rew in include.quest.skillRew %}
             <li>
               {{ rew }}
             </li>
           {% endfor %}
           </ul>
         {% else %}
-          none
+          <p>none</p>
         {% endif %}
         <span style="font-weight:bold">Other</span>
-        {% if quest.otherRew %}
+        {% if include.quest.otherRew %}
           <ul>
-          {% for rew in quest.otherRew %}
+          {% for rew in include.quest.otherRew %}
             <li>
               {{ rew }}
             </li>
           {% endfor %}
           </ul>
         {% else %}
-          none
+          <p>none</p>
         {% endif %}
       </div>
     </div>
