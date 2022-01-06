@@ -49,9 +49,11 @@
         {% if include.quest.skillRew %}
           <ul>
           {% for rew in include.quest.skillRew %}
-            <li>
-              {{ rew }}
-            </li>
+            {% if rew != 0 %}
+              <li>
+                {{ rew }}
+              </li>
+            {% endif %}
           {% endfor %}
           </ul>
         {% else %}
@@ -61,11 +63,9 @@
         {% if include.quest.otherRew %}
           <ul>
           {% for rew in include.quest.otherRew %}
-            {% if rew != 0 %}
-              <li>
-                {{ rew }}
-              </li>
-            {% endif %}
+            <li>
+              {{ rew }}
+            </li>
           {% endfor %}
           </ul>
         {% else %}
