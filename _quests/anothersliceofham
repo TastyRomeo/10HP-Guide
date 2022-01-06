@@ -2,7 +2,7 @@
 permalink: "/quests/anothersliceofham"
 layout: null
 ---
-{% include quest.html quest=site.data.questData.dragonslayer %}
+{% include quest.html quest=site.data.questData.anothersliceofham %}
 <hr style="border-top: 2px solid #09192A">
 <h4>Ambush</h4>
 <div class="row">
