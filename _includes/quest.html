@@ -22,6 +22,7 @@
         {% else %}
           none<br />
         {% endif %}
+        <br />
         <span style="font-weight:bold">Combat levels</span><br />
         {% if include.quest.skillReq %}
           <ul>
@@ -95,6 +96,7 @@
           <p>none</p>
         {% endif %}
         {% if include.quest.otherRew %}
+          <br />
           <span style="font-weight:bold">Other</span>
           <ul>
           {% for rew in include.quest.otherRew %}
