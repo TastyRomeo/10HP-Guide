@@ -2,5 +2,5 @@ dragonslayer:
   name: Dragon Slayer
   # questReq: 
   # skillReq: [ 0, 0, 0, 0, 0, 0, 0 ]
-  skillRew: [ 0, 18650, 18650, 0, 0, 0, 0, 0 ]
+  skillRew: [ 0, '18,650', '18,650', 0, 0, 0, 0, 0 ]
   # otherRew:
