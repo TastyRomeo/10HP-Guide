@@ -2,43 +2,101 @@
   <div class="panel-heading" style="text-align:center">
     <span style="font-weight:bold">{{ include.monster.name }}</span> (level: {{ include.monster.level }})
   </div>
+  <div class="panel-footer" style="text-align:center;font-weight:bold;">
+    Combat info
+  </div>
   <div class="panel-body">
-    <p>Information on Life Points, Combat XP drop, HP XP Drop and Max hit goes here.</p>
+    <table style="width:100%">
+      <thead>
+        <tr>
+          <th style="width:calc(100% / 3);text-align:center;font-weight:bold">
+            LP
+          </th>
+          <th style="width:calc(100% / 3);text-align:center;font-weight:bold">
+            Max Hit
+          </th>
+          <th style="width:calc(100% / 3);text-align:center;font-weight:bold">
+            Combat XP
+          </th>
+          <th style="width:calc(100% / 3);text-align:center;font-weight:bold">
+            HP XP
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="width:calc(100% / 3);text-align:center;">
+            {{ include.monster.LP }}
+          </td>
+          <td style="width:calc(100% / 3);text-align:center;">
+            {{ include.monster.MaxHit }}
+          </td>
+          <td style="width:calc(100% / 3);text-align:center;">
+            {{ include.monster.CombatXP }}
+          </td>
+          <td style="width:calc(100% / 3);text-align:center;">
+            {{ include.monster.HPXP }}
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
   <div class="panel-footer" style="text-align:center;font-weight:bold;">
     Immunities
   </div>
   <div class="panel-body">
     <table style="width:100%">
+      <thead>
+        <tr>
+          <th style="width:calc(100% / 3);text-align:center;">
+            {% if include.monster.immunity.recoil %}
+              <img src="img/recoil_immune.png" />
+            {% else %}
+              <img src="img/recoil.png" />
+            {% endif %}
+          </th>
+          <th style="width:calc(100% / 3);text-align:center;">
+            {% if include.monster.immunity.poison %}
+              <img src="img/poison_immune.png" />
+              Immune
+            {% else %}
+              <img src="img/poison.png" />
+            {% endif %}
+          </th>
+          <th style="width:calc(100% / 3);text-align:center;">
+            {% if include.monster.immunity.dart %}
+              <img src="img/dart_immune.png" />
+            {% else %}
+              <img src="img/dart.png" />
+            {% endif %}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
       <tr>
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.recoil %}
-            <img src="img/recoil_immune.png" /><br />
             Immune
           {% else %}
-            <img src="img/recoil.png" /><br />
             Not immune
           {% endif %}
         </td>
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.poison %}
-            <img src="img/poison_immune.png" /><br />
             Immune
           {% else %}
-            <img src="img/poison.png" /><br />
             Not immune
           {% endif %}
         </td>
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.dart %}
-            <img src="img/dart_immune.png" /><br />
             Immune
           {% else %}
-            <img src="img/dart.png" /><br />
             Not immune
           {% endif %}
         </td>
       </tr>
+      </tbody>
     </table>
   </div>
 </div>
