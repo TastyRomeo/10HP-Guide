@@ -55,3 +55,10 @@ lesserdemonmelzar:
   MaxHit: 160
   CombatXP: 103.8
   HPXP: 34.2
+elvarg:
+  name: 'Elvarg'
+  level: 63
+  LP: '10,000'
+  MaxHit: '1,500'
+  CombatXP: 0
+  HPXP: 0
