@@ -9,33 +9,40 @@
     <table style="width:100%">
       <thead>
         <tr>
-          <th style="width:25%;text-align:center;font-weight:bold">
+          <th style="width:20%;text-align:center;font-weight:bold">
             LP
           </th>
-          <th style="width:25%;text-align:center;font-weight:bold">
+          <th style="width:20%;text-align:center;font-weight:bold">
             Max Hit
           </th>
-          <th style="width:25%;text-align:center;font-weight:bold">
+          <th style="width:20%;text-align:center;font-weight:bold">
             Combat XP
           </th>
-          <th style="width:25%;text-align:center;font-weight:bold">
+          <th style="width:20%;text-align:center;font-weight:bold">
             HP XP
           </th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td style="width:25%;text-align:center;">
+          <td style="width:20%;text-align:center;">
             {{ include.monster.LP }}
           </td>
-          <td style="width:25%;text-align:center;">
+          <td style="width:20%;text-align:center;">
             {{ include.monster.MaxHit }}
           </td>
-          <td style="width:25%;text-align:center;">
+          <td style="width:20%;text-align:center;">
             {{ include.monster.CombatXP }}
           </td>
-          <td style="width:25%;text-align:center;">
+          <td style="width:20%;text-align:center;">
             {{ include.monster.HPXP }}
+          </td>
+          <td style="width:20%;text-align:center;">
+            {% if include.monster.Taggable == nil %}
+              {{ include.monster.Taggable }}
+            {% else %}
+              Yes
+            {% endif %}
           </td>
         </tr>
       </tbody>
