@@ -10,7 +10,7 @@
         Requirements
       </div>
       <div class="panel-body">
-        <p><span style="font-weight:bold">Quests</span></p>
+        <span style="font-weight:bold">Quests</span><br />
         {% if include.quest.questReq %}
           <ul>
           {% for req in include.quest.questReq %}
@@ -20,9 +20,9 @@
           {% endfor %}
           </ul>
         {% else %}
-          <p>none</p>
+          none<br />
         {% endif %}
-        <span style="font-weight:bold">Combat levels</span>
+        <span style="font-weight:bold">Combat levels</span><br />
         {% if include.quest.skillReq %}
           <ul>
           {% for req in include.quest.skillReq %}
@@ -94,8 +94,8 @@
         {% else %}
           <p>none</p>
         {% endif %}
-        <span style="font-weight:bold">Other</span>
         {% if include.quest.otherRew %}
+          <span style="font-weight:bold">Other</span>
           <ul>
           {% for rew in include.quest.otherRew %}
             <li>
@@ -103,8 +103,6 @@
             </li>
           {% endfor %}
           </ul>
-        {% else %}
-          <p>none</p>
         {% endif %}
       </div>
     </div>
