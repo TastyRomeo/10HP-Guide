@@ -20,7 +20,7 @@
           {% endfor %}
           </ul>
         {% else %}
-          none<br />
+          None<br />
         {% endif %}
         <br />
         <span style="font-weight:bold">Combat levels</span><br />
@@ -56,7 +56,7 @@
           {% endfor %}
           </ul>
         {% else %}
-          none
+          None
         {% endif %}
       </div>
     </div>
@@ -67,7 +67,7 @@
         Rewards
       </div>
       <div class="panel-body">
-        <span style="font-weight:bold">Experience</span>
+        <span style="font-weight:bold">Experience</span><br />
         {% if include.quest.skillRew or include.quest.lampsRew %}
           <ul>
           {% for rew in include.quest.skillRew %}
@@ -130,11 +130,11 @@
           {% endfor %}
           </ul>
         {% else %}
-          none
+          None
         {% endif %}
         {% if include.quest.otherRew %}
           <br />
-          <span style="font-weight:bold">Other</span>
+          <span style="font-weight:bold">Other</span><br />
           <ul>
           {% for rew in include.quest.otherRew %}
             <li>
@@ -160,6 +160,8 @@
               </li>
             {% endfor %}
           </ul>
+        {% else %}
+          None
         {% endif %}
       </div>
     </div>
