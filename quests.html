@@ -56,11 +56,14 @@ title: Quests
           </table>
           <script>
             $(function () {
-              $('#quest-table').dataTable();
+              $('#quest-table').dataTable({
+                "columnDefs": [
+                  { type: "html", target: 0 }
+                ]
+              });
             });
           </script>
-        </div>
-                            
+        </div>      
       </div>
     </div>
   </div>
