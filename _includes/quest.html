@@ -69,6 +69,24 @@
             {% if rew != 0 %}
               <li>
                 {{ rew }}
+                {% if {{forloop.index}} == 1 %}
+                  Attack
+                {% elsif {{forloop.index}} == 2 %}
+                  Strength
+                {% elsif {{forloop.index}} == 3 %}
+                  Defence
+                {% elsif {{forloop.index}} == 4 %}
+                  Magic
+                {% elsif {{forloop.index}} == 5 %}
+                  Ranged
+                {% elsif {{forloop.index}} == 6 %}
+                  Constitution
+                {% elsif {{forloop.index}} == 7 %}
+                  Prayer
+                {% elsif {{forloop.index}} == 8 %}
+                  Summoning
+                {% endif %}
+                XP
               </li>
             {% endif %}
           {% endfor %}
