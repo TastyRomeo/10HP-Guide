@@ -32,3 +32,26 @@ skeletonmelzar:
   MaxHit: 36
   CombatXP: 30.9
   HPXP: 10.1
+zombiemelzar:
+  name: 'Zombie'
+  level: 14
+  LP: 900
+  MaxHit: 36
+  CombatXP: 30.9
+  HPXP: 10.1
+melzarthemad:
+  name: 'Melzar the Mad'
+  level: 39
+  LP: 1,400
+  MaxHit: 112
+  CombatXP: 51.5
+  HPXP: 20.2
+  immunity:
+    poison: Yes
+lesserdemonmelzar:
+  name: "Lesser Demon"
+  level: 56
+  LP: 2,000
+  MaxHit: 160
+  CombatXP: 103.8
+  HPXP: 34.2
