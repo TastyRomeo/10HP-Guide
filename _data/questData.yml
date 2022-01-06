@@ -4,4 +4,4 @@ dragonslayer:
   # skillReq: [ 0, 0, 0, 0, 0, 0, 0 ]
   skillRew: [ 0, '18,650', '18,650', 0, 0, 0, 0, 0 ]
   # otherRew:
-  methods: [ "TFK / 51%", "K" ]
+  methods: [ "TFK / 51%", "Kill" ]
