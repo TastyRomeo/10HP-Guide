@@ -28,7 +28,24 @@
           {% for req in include.quest.skillReq %}
             {% if req != 0 %}
               <li>
-                {{ req }}
+                {{ req }} 
+                {% if {{forloop.index}} == 1 %}
+                  Attack
+                {% elseif {{forloop.index}} == 2 %}
+                  Strength
+                {% elseif {{forloop.index}} == 3 %}
+                  Defence
+                {% elseif {{forloop.index}} == 4 %}
+                  Magic
+                {% elseif {{forloop.index}} == 5 %}
+                  Ranged
+                {% elseif {{forloop.index}} == 6 %}
+                  Constitution
+                {% elseif {{forloop.index}} == 7 %}
+                  Prayer
+                {% elseif {{forloop.index}} == 8 %}
+                  Summoning
+                {% endif %}
               </li>
             {% endif %}
           {% endfor %}
