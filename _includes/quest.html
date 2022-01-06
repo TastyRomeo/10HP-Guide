@@ -52,7 +52,7 @@
           {% endfor %}
           </ul>
         {% else %}
-          <p>none</p>
+          none
         {% endif %}
       </div>
     </div>
@@ -86,6 +86,10 @@
                   Prayer
                 {% elsif {{forloop.index}} == 8 %}
                   Summoning
+                {% elsif {{forloop.index}} == 9 %}
+                  Combat
+                {% elsif {{forloop.index}} == 8 %}
+                  <!-- Prismatic -->
                 {% endif %}
                 XP
               </li>
@@ -115,6 +119,7 @@
         Methods
       </div>
       <div class="panel-body">
+        
         <ul>
         </ul>
       </div>
