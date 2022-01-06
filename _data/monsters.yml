@@ -9,3 +9,26 @@ wormbrain:
     recoil: No
     poison: No
     dart: No
+zombierat:
+  name: 'Zombie Rat'
+  level: 2
+  LP: 100
+  MaxHit: 8
+  CombatXP: 24.9
+  HPXP: 8.2
+ghostmelzar:
+  name: 'Ghost'
+  level: 12
+  LP: 450
+  MaxHit: 36
+  CombatXP: 30.9
+  HPXP: 10.1
+  immunity: 
+    poison: Yes
+skeletonmelzar:
+  name: 'Skeleton'
+  level: 12
+  LP: 450
+  MaxHit: 36
+  CombatXP: 30.9
+  HPXP: 10.1
