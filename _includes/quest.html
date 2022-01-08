@@ -73,6 +73,17 @@
         {% else %}
           None
         {% endif %}
+        {% if include.quest.otherReq %}
+          <br />
+          <span style="font-weight:bold">Other</span><br />
+          <ul>
+            {% for req in include.quest.otherReq %}
+              <li>
+                {{ req }}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
       </div>
     </div>
   </div>
