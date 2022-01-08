@@ -14,7 +14,7 @@
         {% if include.quest.questReq %}
           <ul>
           {% for req in include.quest.questReq %}
-            <li>{% if req.Id %}<a href="quest?id={{ req.Id }}">{{ req.name }}</a>{% else %}{{ req.name }}{% endif %}</li>
+            <li>{% if req.id %}<a href="quest?id={{ req.id }}">{{ req.name }}</a>{% else %}{{ req.name }}{% endif %}</li>
           {% endfor %}
           </ul>
         {% else %}
