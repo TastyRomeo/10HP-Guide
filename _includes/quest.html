@@ -14,9 +14,7 @@
         {% if include.quest.questReq %}
           <ul>
           {% for req in include.quest.questReq %}
-            <li>
-              {{ req }}
-            </li>
+            <li>{% if req.Id %}<a href="quest?id={{ req.Id }}">{{ req.name }}</a>{% else %}{{ req.name }}{% endif %}</li>
           {% endfor %}
           </ul>
         {% else %}
@@ -139,52 +137,52 @@
             {% endif %}
             {% if include.quest.lampsRew.att %}
               <li>
-                {{ include.quest.lampsRew.att }} <img src="img/attack.png" alt=""/> Attack XP
+                {{ include.quest.lampsRew.att }} <img src="img/attack.png" alt=""/> Attack XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.str %}
               <li>
-                {{ include.quest.lampsRew.str }} <img src="img/strength.png" alt=""/> Strength XP
+                {{ include.quest.lampsRew.str }} <img src="img/strength.png" alt=""/> Strength XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.def %}
               <li>
-                {{ include.quest.lampsRew.def }} <img src="img/defence.png" alt=""/> Defence XP
+                {{ include.quest.lampsRew.def }} <img src="img/defence.png" alt=""/> Defence XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.mgc %}
               <li>
-                {{ include.quest.lampsRew.mgc }} <img src="img/magic.png" alt=""/> Magic XP
+                {{ include.quest.lampsRew.mgc }} <img src="img/magic.png" alt=""/> Magic XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.rng %}
               <li>
-                {{ include.quest.lampsRew.rng }} <img src="img/ranged.png" alt=""/> Ranged XP
+                {{ include.quest.lampsRew.rng }} <img src="img/ranged.png" alt=""/> Ranged XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.con %}
               <li>
-                {{ include.quest.lampsRew.con }} <img src="img/constitution.png" alt=""/> Constitution XP
+                {{ include.quest.lampsRew.con }} <img src="img/constitution.png" alt=""/> Constitution XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.pry %}
               <li>
-                {{ include.quest.lampsRew.pry }} <img src="img/prayer.png" alt=""/> Prayer XP
+                {{ include.quest.lampsRew.pry }} <img src="img/prayer.png" alt=""/> Prayer XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.sum %}
               <li>
-                {{ include.quest.lampsRew.sum }} <img src="img/summoning.png" alt=""/> Summoning XP
+                {{ include.quest.lampsRew.sum }} <img src="img/summoning.png" alt=""/> Summoning XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.cmb %}
               <li>
-                {{ include.quest.lampsRew.cmb }} <img src="img/multicombat.png" alt=""/> Combat XP
+                {{ include.quest.lampsRew.cmb }} <img src="img/multicombat.png" alt=""/> Combat XP lamp
               </li>
             {% endif %}
             {% if include.quest.lampsRew.any %}
               <li>
-                {{ include.quest.lampsRew.any }} <img src="img/prismatic.png" alt=""/> XP
+                {{ include.quest.lampsRew.any }} <img src="img/prismatic.png" alt=""/> XP lamp
               </li>
             {% endif %}
           </ul>
