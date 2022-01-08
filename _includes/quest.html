@@ -28,47 +28,47 @@
           <ul>
             {% if include.quest.skillReq.att %}
               <li>
-                {{ include.quest.skillReq.att }}<img src="img/attack.png" alt=""/> Attack
+                {{ include.quest.skillReq.att }} <img src="img/attack.png" alt=""/> Attack
               </li>
             {% endif %}
             {% if include.quest.skillReq.str %}
               <li>
-                {{ include.quest.skillReq.str }}<img src="img/strength.png" alt=""/> Strength
+                {{ include.quest.skillReq.str }} <img src="img/strength.png" alt=""/> Strength
               </li>
             {% endif %}
             {% if include.quest.skillReq.def %}
               <li>
-                {{ include.quest.skillReq.def }}<img src="img/defence.png" alt=""/> Defence
+                {{ include.quest.skillReq.def }} <img src="img/defence.png" alt=""/> Defence
               </li>
             {% endif %}
             {% if include.quest.skillReq.mgc %}
               <li>
-                {{ include.quest.skillReq.mgc }}<img src="img/magic.png" alt=""/> Magic
+                {{ include.quest.skillReq.mgc }} <img src="img/magic.png" alt=""/> Magic
               </li>
             {% endif %}
             {% if include.quest.skillReq.rng %}
               <li>
-                {{ include.quest.skillReq.rng }}<img src="img/ranged.png" alt=""/> Ranged
+                {{ include.quest.skillReq.rng }} <img src="img/ranged.png" alt=""/> Ranged
               </li>
             {% endif %}
             {% if include.quest.skillReq.con %}
               <li>
-                {{ include.quest.skillReq.con }}<img src="img/constitution.png" alt=""/> Constitution
+                {{ include.quest.skillReq.con }} <img src="img/constitution.png" alt=""/> Constitution
               </li>
             {% endif %}
             {% if include.quest.skillReq.pry %}
               <li>
-                {{ include.quest.skillReq.pry }}<img src="img/prayer.png" alt=""/> Prayer
+                {{ include.quest.skillReq.pry }} <img src="img/prayer.png" alt=""/> Prayer
               </li>
             {% endif %}
             {% if include.quest.skillReq.sum %}
               <li>
-                {{ include.quest.skillReq.sum }}<img src="img/summoning.png" alt=""/> Summoning
+                {{ include.quest.skillReq.sum }} <img src="img/summoning.png" alt=""/> Summoning
               </li>
             {% endif %}
             {% if include.quest.skillReq.cmb %}
               <li>
-                {{ include.quest.skillReq.cmb }}<img src="img/multicombat.png" alt=""/> Combat
+                {{ include.quest.skillReq.cmb }} <img src="img/multicombat.png" alt=""/> Combat
               </li>
             {% endif %}
           </ul>
@@ -87,64 +87,106 @@
         <span style="font-weight:bold">Experience</span><br />
         {% if include.quest.skillRew or include.quest.lampsRew %}
           <ul>
-          {% for rew in include.quest.skillRew %}
-            {% if rew != 0 %}
+            {% if include.quest.skillRew.att %}
               <li>
-                {{ rew }}
-                {% if {{forloop.index}} == 1 %}
-                  <img src="img/attack.png" alt=""/> Attack
-                {% elsif {{forloop.index}} == 2 %}
-                  <img src="img/strength.png" alt=""/> Strength
-                {% elsif {{forloop.index}} == 3 %}
-                  <img src="img/defence.png" alt=""/> Defence 
-                {% elsif {{forloop.index}} == 4 %}
-                  <img src="img/magic.png" alt=""/> Magic
-                {% elsif {{forloop.index}} == 5 %}
-                  <img src="img/ranged.png" alt=""/> Ranged
-                {% elsif {{forloop.index}} == 6 %}
-                  <img src="img/constitution.png" alt=""/> Constitution 
-                {% elsif {{forloop.index}} == 7 %}
-                  <img src="img/prayer.png" alt=""/> Prayer
-                {% elsif {{forloop.index}} == 8 %}
-                  <img src="img/summoning.png" alt=""/> Summoning 
-                {% elsif {{forloop.index}} == 9 %}
-                  <img src="img/multicombat.png" alt=""/> Combat 
-                {% else %}
-                  <img src="img/prismatic.png" alt=""/>
-                {% endif %}
-                XP
+                {{ include.quest.skillRew.att }} <img src="img/attack.png" alt=""/> Attack XP
               </li>
             {% endif %}
-          {% endfor %}
-          {% for rew in include.quest.lampsRew %}
-            {% if rew != 0 %}
+            {% if include.quest.skillRew.str %}
               <li>
-                {{ rew }}
-                {% if {{forloop.index}} == 1 %}
-                  <img src="img/attack.png" alt=""/> Attack
-                {% elsif {{forloop.index}} == 2 %}
-                  <img src="img/strength.png" alt=""/> Strength
-                {% elsif {{forloop.index}} == 3 %}
-                  <img src="img/defence.png" alt=""/> Defence 
-                {% elsif {{forloop.index}} == 4 %}
-                  <img src="img/magic.png" alt=""/> Magic
-                {% elsif {{forloop.index}} == 5 %}
-                  <img src="img/ranged.png" alt=""/> Ranged
-                {% elsif {{forloop.index}} == 6 %}
-                  <img src="img/constitution.png" alt=""/> Constitution 
-                {% elsif {{forloop.index}} == 7 %}
-                  <img src="img/prayer.png" alt=""/> Prayer
-                {% elsif {{forloop.index}} == 8 %}
-                  <img src="img/summoning.png" alt=""/> Summoning 
-                {% elsif {{forloop.index}} == 9 %}
-                  <img src="img/multicombat.png" alt=""/> Combat 
-                {% else %}
-                  <img src="img/prismatic.png" alt=""/>
-                {% endif %}
-                XP lamp
+                {{ include.quest.skillRew.str }} <img src="img/strength.png" alt=""/> Strength XP
               </li>
             {% endif %}
-          {% endfor %}
+            {% if include.quest.skillRew.def %}
+              <li>
+                {{ include.quest.skillRew.def }} <img src="img/defence.png" alt=""/> Defence XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.mgc %}
+              <li>
+                {{ include.quest.skillRew.mgc }} <img src="img/magic.png" alt=""/> Magic XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.rng %}
+              <li>
+                {{ include.quest.skillRew.rng }} <img src="img/ranged.png" alt=""/> Ranged XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.con %}
+              <li>
+                {{ include.quest.skillRew.con }} <img src="img/constitution.png" alt=""/> Constitution XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.pry %}
+              <li>
+                {{ include.quest.skillRew.pry }} <img src="img/prayer.png" alt=""/> Prayer XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.sum %}
+              <li>
+                {{ include.quest.skillRew.sum }} <img src="img/summoning.png" alt=""/> Summoning XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.cmb %}
+              <li>
+                {{ include.quest.skillRew.cmb }} <img src="img/multicombat.png" alt=""/> Combat XP
+              </li>
+            {% endif %}
+            {% if include.quest.skillRew.any %}
+              <li>
+                {{ include.quest.skillRew.any }} <img src="img/prismatic.png" alt=""/> XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.att %}
+              <li>
+                {{ include.quest.lampsRew.att }} <img src="img/attack.png" alt=""/> Attack XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.str %}
+              <li>
+                {{ include.quest.lampsRew.str }} <img src="img/strength.png" alt=""/> Strength XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.def %}
+              <li>
+                {{ include.quest.lampsRew.def }} <img src="img/defence.png" alt=""/> Defence XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.mgc %}
+              <li>
+                {{ include.quest.lampsRew.mgc }} <img src="img/magic.png" alt=""/> Magic XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.rng %}
+              <li>
+                {{ include.quest.lampsRew.rng }} <img src="img/ranged.png" alt=""/> Ranged XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.con %}
+              <li>
+                {{ include.quest.lampsRew.con }} <img src="img/constitution.png" alt=""/> Constitution XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.pry %}
+              <li>
+                {{ include.quest.lampsRew.pry }} <img src="img/prayer.png" alt=""/> Prayer XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.sum %}
+              <li>
+                {{ include.quest.lampsRew.sum }} <img src="img/summoning.png" alt=""/> Summoning XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.cmb %}
+              <li>
+                {{ include.quest.lampsRew.cmb }} <img src="img/multicombat.png" alt=""/> Combat XP
+              </li>
+            {% endif %}
+            {% if include.quest.lampsRew.any %}
+              <li>
+                {{ include.quest.lampsRew.any }} <img src="img/prismatic.png" alt=""/> XP
+              </li>
+            {% endif %}
           </ul>
         {% else %}
           None
