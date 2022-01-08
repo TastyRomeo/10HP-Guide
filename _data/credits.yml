@@ -1,12 +1,12 @@
-tastyromeo:
+-
   name: 'Tasty Romeo'
-soclose:
+- 
   name: 'So Close'
   alts:
     - 'Pokemking'
     - 'Way Too Far'
     - 'Yet So Far'
-crodious:
+- 
   name: 'Crodious'
   alts:
     - 'Cordious'
