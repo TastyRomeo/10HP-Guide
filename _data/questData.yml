@@ -33,6 +33,7 @@ dragonslayer:
     - "Kill"
   
 priestinperil:
+  name: 'Priest in Peril'
   lampsRew:
     pry: '1,406'
   
