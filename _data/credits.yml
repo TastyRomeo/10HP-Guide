@@ -1,13 +1,35 @@
+- 
+  name: 'Andy Grammar'
 -
-  name: 'Tasty Romeo'
+  name: 'Azire'
+-
+  name: 'Antier'
+-
+  name: 'Blackston'
+-
+  name: 'Charmseeker'
+- 
+  name: 'Crodious'
+  alts:
+    - 'Acknowledge'
+    - 'Cordious'
+-
+  name: 'Eyehave9hp'
+- 
+  name: 'Metif'
+- 
+  name: 'Mihawk'
+-
+  name: 'Pocket Cucco'
+  
 - 
   name: 'So Close'
   alts:
     - 'Pokemking'
     - 'Way Too Far'
     - 'Yet So Far'
+
+-
+  name: 'Tasty Romeo'
 - 
-  name: 'Crodious'
-  alts:
-    - 'Cordious'
-    - 'Acknowledge'
+  name: 'waaah'
