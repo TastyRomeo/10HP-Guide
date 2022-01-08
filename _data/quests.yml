@@ -1,1863 +1,1865 @@
 -
-    Name: 'All Fired Up'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'All Fired Up'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
+    id: allfiredup
+    
 -
-    Name: 'Animal Magnetism'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Animal Magnetism'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Another Slice of H.A.M.'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Another Slice of H.A.M.'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
-    Id: 'anothersliceofham'
+    possible: Yes
+    id: 'anothersliceofham'
 -
-    Name: 'As a First Resort'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'As a First Resort'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Azzanadra''s Quest'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Azzanadra''s Quest'
+    members: Yes
+    difficulty: Experienced
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Back to my Roots'
-    Members: Yes
-    Difficulty: Master
+    name: 'Back to my Roots'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Back to the Freezer'
-    Members: Yes
-    Difficulty: Master
+    name: 'Back to the Freezer'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Beneath Cursed Tides'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Beneath Cursed Tides'
+    members: No
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Between a Rock...'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Between a Rock...'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Big Chompy Bird Hunting'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Big Chompy Bird Hunting'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Biohazard
-    Members: Yes
-    Difficulty: Novice
+    name: Biohazard
+    members: Yes
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Birthright of the Dwarves'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Birthright of the Dwarves'
+    members: Yes
+    difficulty: Grandmaster
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Blood Pact, The'
-    Members: No
-    Difficulty: Novice
+    name: 'Blood Pact, The'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Blood Runs Deep'
-    Members: Yes
-    Difficulty: Master
+    name: 'Blood Runs Deep'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Branches of Darkmeyer, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Branches of Darkmeyer, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Bringing Home the Bacon'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Bringing Home the Bacon'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Brink of Extinction, The'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Brink of Extinction, The'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Broken Home'
-    Members: No
-    Difficulty: Novice
+    name: 'Broken Home'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Buyers and Cellars'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Buyers and Cellars'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Cabin Fever'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Cabin Fever'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Call of the Ancestors'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Call of the Ancestors'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Carnillean Rising'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Carnillean Rising'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Catapult Construction'
-    Members: Yes
-    Difficulty: Master
+    name: 'Catapult Construction'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Chef''s Assistant'
-    Members: No
-    Difficulty: Novice
+    name: 'Chef''s Assistant'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Children of Mah'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Children of Mah'
+    members: Yes
+    difficulty: Grandmaster
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Chosen Commander, The'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Chosen Commander, The'
+    members: Yes
+    difficulty: Experienced
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'City of Senntisten'
-    Members: Yes
-    Difficulty: Master
+    name: 'City of Senntisten'
+    members: Yes
+    difficulty: Master
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Clock Tower'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Clock Tower'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Clockwork Syringe, A'
-    Members: Yes
-    Difficulty: Master
+    name: 'Clockwork Syringe, A'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Cold War'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Cold War'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Contact!
-    Members: Yes
-    Difficulty: Master
+    name: Contact!
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Cook''s Assistant'
-    Members: No
-    Difficulty: Novice
+    name: 'Cook''s Assistant'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Creature of Fenkenstrain'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Creature of Fenkenstrain'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Crocodile Tears'
-    Members: Yes
-    Difficulty: Master
+    name: 'Crocodile Tears'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Curse of Arrav, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Curse of Arrav, The'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Curse of the Black Stone'
-    Members: Yes
-    Difficulty: Master
+    name: 'Curse of the Black Stone'
+    members: Yes
+    difficulty: Master
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Darkness of Hallowvale, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Darkness of Hallowvale, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Deadliest Catch'
-    Members: Yes
-    Difficulty: Master
+    name: 'Deadliest Catch'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dealing with Scabaras'
-    Members: Yes
-    Difficulty: Master
+    name: 'Dealing with Scabaras'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Death of Chivalry, The'
-    Members: No
-    Difficulty: Novice
+    name: 'Death of Chivalry, The'
+    members: No
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Death Plateau'
-    Members: No
-    Difficulty: Novice
+    name: 'Death Plateau'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Death to the Dorgeshuun'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Death to the Dorgeshuun'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Defender of Varrock'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Defender of Varrock'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Demon Slayer'
-    Members: No
-    Difficulty: Novice
+    name: 'Demon Slayer'
+    members: No
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Desert Treasure'
-    Members: Yes
-    Difficulty: Master
+    name: 'Desert Treasure'
+    members: Yes
+    difficulty: Master
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Desperate Measures'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Desperate Measures'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Desperate Times'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Desperate Times'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Devious Minds'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Devious Minds'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Diamond in the Rough'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Diamond in the Rough'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dig Site, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Dig Site, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster'
-    Members: Yes
-    Difficulty: Special
+    name: 'Dimension of Disaster'
+    members: Yes
+    difficulty: Special
     QP: '10'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster: Coin of the Realm'
-    Members: Yes
-    Difficulty: Special
+    name: 'Dimension of Disaster: Coin of the Realm'
+    members: Yes
+    difficulty: Special
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster: Curse of Arrav'
-    Members: Yes
-    Difficulty: Master
+    name: 'Dimension of Disaster: Curse of Arrav'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster: Defender of Varrock'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Dimension of Disaster: Defender of Varrock'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster: Demon Slayer'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Dimension of Disaster: Demon Slayer'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dimension of Disaster: Shield of Arrav'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Dimension of Disaster: Shield of Arrav'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dishonour among Thieves'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Dishonour among Thieves'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Do No Evil'
-    Members: Yes
-    Difficulty: Master
+    name: 'Do No Evil'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dragon Slayer'
-    Members: No
-    Difficulty: Experienced
+    name: 'Dragon Slayer'
+    members: No
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
-    Id: 'dragonslayer'
+    possible: Yes
+    id: 'dragonslayer'
 -
-    Name: 'Dream Mentor'
-    Members: Yes
-    Difficulty: Master
+    name: 'Dream Mentor'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Druidic Ritual'
-    Members: No
-    Difficulty: Novice
+    name: 'Druidic Ritual'
+    members: No
+    difficulty: Novice
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Dwarf Cannon'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Dwarf Cannon'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eadgar''s Ruse'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Eadgar''s Ruse'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eagles'' Peak'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Eagles'' Peak'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Elder Kiln, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Elder Kiln, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Elemental Workshop I'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Elemental Workshop I'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Elemental Workshop II'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Elemental Workshop II'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Elemental Workshop III'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Elemental Workshop III'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Elemental Workshop IV'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Elemental Workshop IV'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Enakhra''s Lament'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Enakhra''s Lament'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Enlightened Journey'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Enlightened Journey'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Ernest the Chicken'
-    Members: No
-    Difficulty: Novice
+    name: 'Ernest the Chicken'
+    members: No
+    difficulty: Novice
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Evil Dave''s Big Day Out'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Evil Dave''s Big Day Out'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eyes of Glouphrie, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Eyes of Glouphrie, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fairy Tale I - Growing Pains, A'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Fairy Tale I - Growing Pains, A'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fairy Tale II - Cure a Queen, A'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Fairy Tale II - Cure a Queen, A'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fairy Tale III - Battle at Ork''s Rift, A'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Fairy Tale III - Battle at Ork''s Rift, A'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Family Crest'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Family Crest'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fate of the Gods'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Fate of the Gods'
+    members: Yes
+    difficulty: Grandmaster
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Feud, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Feud, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fight Arena'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Fight Arena'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Firemaker''s Curse, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Firemaker''s Curse, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Fishing Contest'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Fishing Contest'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Forgettable Tale of a Drunken Dwarf'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Forgettable Tale of a Drunken Dwarf'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Forgiveness of a Chaos Dwarf'
-    Members: Yes
-    Difficulty: Master
+    name: 'Forgiveness of a Chaos Dwarf'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fremennik Isles, The'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Fremennik Isles, The'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fremennik Trials, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Fremennik Trials, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Fur ''n Seek'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Fur ''n Seek'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Garden of Tranquillity'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Garden of Tranquillity'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Gertrude''s Cat'
-    Members: No
-    Difficulty: Novice
+    name: 'Gertrude''s Cat'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Ghosts Ahoy'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Ghosts Ahoy'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Giant Dwarf, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Giant Dwarf, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Glorious Memories'
-    Members: Yes
-    Difficulty: Master
+    name: 'Glorious Memories'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Goblin Diplomacy'
-    Members: No
-    Difficulty: Novice
+    name: 'Goblin Diplomacy'
+    members: No
+    difficulty: Novice
     QP: '5'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Golem, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Golem, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Gower Quest'
-    Members: No
-    Difficulty: Experienced
+    name: 'Gower Quest'
+    members: No
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Grand Tree, The'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Grand Tree, The'
+    members: Yes
+    difficulty: Experienced
     QP: '5'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Great Brain Robbery, The'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Great Brain Robbery, The'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Grim Tales'
-    Members: Yes
-    Difficulty: Master
+    name: 'Grim Tales'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: No
+    possible: No
 -
-    Name: 'Gunnar''s Ground'
-    Members: No
-    Difficulty: Novice
+    name: 'Gunnar''s Ground'
+    members: No
+    difficulty: Novice
     QP: '5'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hand in the Sand, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Hand in the Sand, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Haunted Mine'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Haunted Mine'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hazeel Cult'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Hazeel Cult'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Heart of Stone'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Heart of Stone'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Heartstealer
-    Members: No
-    Difficulty: Novice
+    name: Heartstealer
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hero''s Welcome'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Hero''s Welcome'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Heroes'' Quest'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Heroes'' Quest'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Holy Grail'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Holy Grail'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Horror from the Deep'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Horror from the Deep'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hunt for Red Raktuber'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Hunt for Red Raktuber'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Icthlarin''s Little Helper'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Icthlarin''s Little Helper'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Imp Catcher'
-    Members: No
-    Difficulty: Novice
+    name: 'Imp Catcher'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Impressing the Locals'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Impressing the Locals'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'In Aid of the Myreque'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'In Aid of the Myreque'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'In Pyre Need'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'In Pyre Need'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'In Search of the Myreque'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'In Search of the Myreque'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Jack of Spades, The'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Jack of Spades, The'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Jungle Potion'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Jungle Potion'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Kennith''s Concerns'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Kennith''s Concerns'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Kindred Spirits'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Kindred Spirits'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'King of the Dwarves'
-    Members: Yes
-    Difficulty: Master
+    name: 'King of the Dwarves'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'King''s Ransom'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'King''s Ransom'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Knight''s Sword, The'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Knight''s Sword, The'
+    members: No
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Land of the Goblins'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Land of the Goblins'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Legacy of Seergaze'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Legacy of Seergaze'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Legends'' Quest'
-    Members: Yes
-    Difficulty: Master
+    name: 'Legends'' Quest'
+    members: Yes
+    difficulty: Master
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Let Them Eat Pie'
-    Members: No
-    Difficulty: Novice
+    name: 'Let Them Eat Pie'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Light Within, The'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Light Within, The'
+    members: Yes
+    difficulty: Grandmaster
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Lord of Vampyrium, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Lord of Vampyrium, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Lost City'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Lost City'
+    members: Yes
+    difficulty: Experienced
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Lost Tribe, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Lost Tribe, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Love Story'
-    Members: Yes
-    Difficulty: Master
+    name: 'Love Story'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Lunar Diplomacy'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Lunar Diplomacy'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Making History'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Making History'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Meeting History'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Meeting History'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Merlin''s Crystal'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Merlin''s Crystal'
+    members: Yes
+    difficulty: Intermediate
     QP: '6'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Mighty Fall, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Mighty Fall, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Missing My Mummy'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Missing My Mummy'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Missing, Presumed Death'
-    Members: No
-    Difficulty: Novice
+    name: 'Missing, Presumed Death'
+    members: No
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Monk''s Friend'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Monk''s Friend'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Monkey Madness'
-    Members: Yes
-    Difficulty: Master
+    name: 'Monkey Madness'
+    members: Yes
+    difficulty: Master
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Mountain Daughter'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Mountain Daughter'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Mourning''s End Part I'
-    Members: Yes
-    Difficulty: Master
+    name: 'Mourning''s End Part I'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Mourning''s End Part II'
-    Members: Yes
-    Difficulty: Master
+    name: 'Mourning''s End Part II'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Murder Mystery'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Murder Mystery'
+    members: Yes
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'My Arm''s Big Adventure'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'My Arm''s Big Adventure'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Myths of the White Lands'
-    Members: No
-    Difficulty: Novice
+    name: 'Myths of the White Lands'
+    members: No
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Nature Spirit'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Nature Spirit'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Needle Skips, The'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Needle Skips, The'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Nomad''s Elegy'
-    Members: Yes
-    Difficulty: Master
+    name: 'Nomad''s Elegy'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: No
+    possible: No
 -
-    Name: 'Nomad''s Requiem'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Nomad''s Requiem'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: No
+    possible: No
 -
-    Name: 'Observatory Quest'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Observatory Quest'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Olaf''s Quest'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Olaf''s Quest'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Slime'
-    Members: No
-    Difficulty: Novice
+    name: 'Once Upon a Slime'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Time in Gielinor'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Once Upon a Time in Gielinor'
+    members: Yes
+    difficulty: Novice
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Time in Gielinor: Finale'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Once Upon a Time in Gielinor: Finale'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Time in Gielinor: Flashback'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Once Upon a Time in Gielinor: Flashback'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Time in Gielinor: Foreshadowing'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Once Upon a Time in Gielinor: Foreshadowing'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Once Upon a Time in Gielinor: Fortunes'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Once Upon a Time in Gielinor: Fortunes'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'One of a Kind'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'One of a Kind'
+    members: Yes
+    difficulty: Grandmaster
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'One Piercing Note'
-    Members: No
-    Difficulty: Novice
+    name: 'One Piercing Note'
+    members: No
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'One Small Favour'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'One Small Favour'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Our Man in the North'
-    Members: Yes
-    Difficulty: Master
+    name: 'Our Man in the North'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Path of Glouphrie, The'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Path of Glouphrie, The'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Perils of Ice Mountain'
-    Members: No
-    Difficulty: Novice
+    name: 'Perils of Ice Mountain'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: '''Phite Club'
-    Members: Yes
-    Difficulty: Master
+    name: '''Phite Club'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Pieces of Hate'
-    Members: Yes
-    Difficulty: Master
+    name: 'Pieces of Hate'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Pirate''s Treasure'
-    Members: No
-    Difficulty: Novice
+    name: 'Pirate''s Treasure'
+    members: No
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Plague City'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Plague City'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Plague''s End'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Plague''s End'
+    members: Yes
+    difficulty: Grandmaster
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Priest in Peril'
-    Members: No
-    Difficulty: Novice
+    name: 'Priest in Peril'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
-    Id: 'priestinperil'
+    possible: Yes
+    id: 'priestinperil'
 -
-    Name: 'Prisoner of Glouphrie, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Prisoner of Glouphrie, The'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Quiet Before the Swarm'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Quiet Before the Swarm'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rag and Bone Man'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Rag and Bone Man'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rat Catchers'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Rat Catchers'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster'
-    Members: Yes
-    Difficulty: Special
+    name: 'Recipe for Disaster'
+    members: Yes
+    difficulty: Special
     QP: '10'
-    Possible: No
+    possible: No
 -
-    Name: 'Recipe for Disaster: Another Cook''s Quest'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Recipe for Disaster: Another Cook''s Quest'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Defeating the Culinaromancer'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Recipe for Disaster: Defeating the Culinaromancer'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: No
+    possible: No
 -
-    Name: 'Recipe for Disaster: Freeing Evil Dave'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Recipe for Disaster: Freeing Evil Dave'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Freeing King Awowogei'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Recipe for Disaster: Freeing King Awowogei'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Freeing Pirate Pete'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Recipe for Disaster: Freeing Pirate Pete'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Freeing Sir Amik Varze'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Recipe for Disaster: Freeing Sir Amik Varze'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: No
+    possible: No
 -
-    Name: 'Recipe for Disaster: Freeing Skrach Uglogwee'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Recipe for Disaster: Freeing Skrach Uglogwee'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Freeing the Goblin Generals'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Recipe for Disaster: Freeing the Goblin Generals'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recipe for Disaster: Freeing the Lumbridge Sage'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Recipe for Disaster: Freeing the Lumbridge Sage'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: No
+    possible: No
 -
-    Name: 'Recipe for Disaster: Freeing the Mountain Dwarf'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Recipe for Disaster: Freeing the Mountain Dwarf'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Recruitment Drive'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Recruitment Drive'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Regicide
-    Members: Yes
-    Difficulty: Master
+    name: Regicide
+    members: Yes
+    difficulty: Master
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Restless Ghost, The'
-    Members: No
-    Difficulty: Novice
+    name: 'Restless Ghost, The'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Ritual of the Mahjarrat'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Ritual of the Mahjarrat'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: No
+    possible: No
 -
-    Name: 'River of Blood'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'River of Blood'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: No
+    possible: No
 -
-    Name: 'Rocking Out'
-    Members: Yes
-    Difficulty: Master
+    name: 'Rocking Out'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Roving Elves'
-    Members: Yes
-    Difficulty: Master
+    name: 'Roving Elves'
+    members: Yes
+    difficulty: Master
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Royal Trouble'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Royal Trouble'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rum Deal'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Rum Deal'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rune Mechanics'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Rune Mechanics'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rune Memories'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Rune Memories'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rune Mysteries'
-    Members: No
-    Difficulty: Novice
+    name: 'Rune Mysteries'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Salt in the Wound'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Salt in the Wound'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: No
+    possible: No
 -
-    Name: 'Scorpion Catcher'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Scorpion Catcher'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Sea Slug'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Sea Slug'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Shades of Mort''ton'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Shades of Mort''ton'
+    members: Yes
+    difficulty: Intermediate
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Shadow of the Storm'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Shadow of the Storm'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Shadow over Ashdale, A'
-    Members: No
-    Difficulty: Novice
+    name: 'Shadow over Ashdale, A'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Sheep Herder'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Sheep Herder'
+    members: Yes
+    difficulty: Novice
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Shield of Arrav'
-    Members: No
-    Difficulty: Novice
+    name: 'Shield of Arrav'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Shilo Village'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Shilo Village'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Sliske''s Endgame'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Sliske''s Endgame'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: No
+    possible: No
 -
-    Name: 'Slug Menace, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Slug Menace, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Smoking Kills'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Smoking Kills'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Some Like It Cold'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Some Like It Cold'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Song from the Depths'
-    Members: No
-    Difficulty: Novice
+    name: 'Song from the Depths'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Soul''s Bane, A'
-    Members: No
-    Difficulty: Novice
+    name: 'Soul''s Bane, A'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Spirit of Summer'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Spirit of Summer'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Spirits of the Elid'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Spirits of the Elid'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Stolen Hearts'
-    Members: No
-    Difficulty: Novice
+    name: 'Stolen Hearts'
+    members: No
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Summer''s End'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Summer''s End'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Swan Song'
-    Members: Yes
-    Difficulty: Master
+    name: 'Swan Song'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Swept Away'
-    Members: No
-    Difficulty: Novice
+    name: 'Swept Away'
+    members: No
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tai Bwo Wannai Trio'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tai Bwo Wannai Trio'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tail of Two Cats, A'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tail of Two Cats, A'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tale of the Muspah, The'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Tale of the Muspah, The'
+    members: Yes
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tears of Guthix'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tears of Guthix'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Temple at Senntisten, The'
-    Members: Yes
-    Difficulty: Master
+    name: 'Temple at Senntisten, The'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Temple of Ikov'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Temple of Ikov'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Throne of Miscellania'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Throne of Miscellania'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: TokTz-Ket-Dill
-    Members: Yes
-    Difficulty: Experienced
+    name: TokTz-Ket-Dill
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tourist Trap, The'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tourist Trap, The'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tower of Life'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Tower of Life'
+    members: Yes
+    difficulty: Novice
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tree Gnome Village'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tree Gnome Village'
+    members: Yes
+    difficulty: Intermediate
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tribal Totem'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Tribal Totem'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Troll Romance'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Troll Romance'
+    members: Yes
+    difficulty: Experienced
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Troll Stronghold'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Troll Stronghold'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Underground Pass'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Underground Pass'
+    members: Yes
+    difficulty: Experienced
     QP: '5'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Vampyre Slayer'
-    Members: No
-    Difficulty: Novice
+    name: 'Vampyre Slayer'
+    members: No
+    difficulty: Novice
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Violet is Blue'
-    Members: No
-    Difficulty: Novice
+    name: 'Violet is Blue'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Violet is Blue Too'
-    Members: No
-    Difficulty: Novice
+    name: 'Violet is Blue Too'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Void Dance, A'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Void Dance, A'
+    members: Yes
+    difficulty: Experienced
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Void Stares Back, The'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Void Stares Back, The'
+    members: Yes
+    difficulty: Grandmaster
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Wanted!
-    Members: Yes
-    Difficulty: Intermediate
+    name: Wanted!
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: Watchtower
-    Members: Yes
-    Difficulty: Intermediate
+    name: Watchtower
+    members: Yes
+    difficulty: Intermediate
     QP: '4'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Waterfall Quest'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Waterfall Quest'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'What Lies Below'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'What Lies Below'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'What''s Mine is Yours'
-    Members: No
-    Difficulty: Novice
+    name: 'What''s Mine is Yours'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'While Guthix Sleeps'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'While Guthix Sleeps'
+    members: Yes
+    difficulty: Grandmaster
     QP: '5'
-    Possible: No
+    possible: No
 -
-    Name: 'Witch''s House'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Witch''s House'
+    members: No
+    difficulty: Intermediate
     QP: '4'
-    Possible: No
+    possible: No
 -
-    Name: 'Within the Light'
-    Members: Yes
-    Difficulty: Master
+    name: 'Within the Light'
+    members: Yes
+    difficulty: Master
     QP: '2'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Wolf Whistle'
-    Members: No
-    Difficulty: Novice
+    name: 'Wolf Whistle'
+    members: No
+    difficulty: Novice
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'World Wakes, The'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'World Wakes, The'
+    members: Yes
+    difficulty: Grandmaster
     QP: '3'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'You Are It'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'You Are It'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Zogre Flesh Eaters'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Zogre Flesh Eaters'
+    members: Yes
+    difficulty: Intermediate
     QP: '1'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Bar Crawl (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Bar Crawl (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Battle of the Monolith (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Battle of the Monolith (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Benedict''s World Tour (miniquest)'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Benedict''s World Tour (miniquest)'
+    members: No
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Boric''s Task I (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Boric''s Task I (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Boric''s Task II (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Boric''s Task II (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Boric''s Task III (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Boric''s Task III (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Curse of Zaros, The (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Curse of Zaros, The (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Damage Control (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Damage Control (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Desert Slayer Dungeon (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Desert Slayer Dungeon (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task I (miniquest)'
-    Members: No
-    Difficulty: Novice
+    name: 'Doric''s Task I (miniquest)'
+    members: No
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task II (miniquest)'
-    Members: No
-    Difficulty: Novice
+    name: 'Doric''s Task II (miniquest)'
+    members: No
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task III (miniquest)'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Doric''s Task III (miniquest)'
+    members: No
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task IV (miniquest)'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Doric''s Task IV (miniquest)'
+    members: No
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task V (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Doric''s Task V (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task VI (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Doric''s Task VI (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task VII (miniquest)'
-    Members: Yes
-    Difficulty: Master
+    name: 'Doric''s Task VII (miniquest)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Doric''s Task VIII (miniquest)'
-    Members: Yes
-    Difficulty: Master
+    name: 'Doric''s Task VIII (miniquest)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Enter the Abyss (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Enter the Abyss (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eye for an Eye (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Eye for an Eye (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eye of Het I (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Eye of Het I (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Eye of Het II (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Eye of Het II (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Father and Son (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Father and Son (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Final Destination (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Final Destination (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Flag Fall (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Flag Fall (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'From Tiny Acorns (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'From Tiny Acorns (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'General''s Shadow, The  (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'General''s Shadow, The  (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Ghosts from the Past (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Ghosts from the Past (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Guild of Our Own, A (miniquest)'
-    Members: Yes
-    Difficulty: Master
+    name: 'Guild of Our Own, A (miniquest)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Harbinger (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Harbinger (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Head of the Family (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Head of the Family (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Helping Laniakea (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Helping Laniakea (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hopespear''s Will (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Hopespear''s Will (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Hunt for Surok, The (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Hunt for Surok, The (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'In Memory of the Myreque (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'In Memory of the Myreque (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Jed Hunter (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Jed Hunter (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Koschei''s Troubles (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Koschei''s Troubles (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Lair of Tarn Razorlor (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Lair of Tarn Razorlor (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Lost Her Marbles (miniquest)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Lost Her Marbles (miniquest)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Lost Toys, The (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Lost Toys, The (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Mahjarrat Memories (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Mahjarrat Memories (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Nadir (saga)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Nadir (saga)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'One Foot in the Grave (miniquest)'
-    Members: Yes
-    Difficulty: Master
+    name: 'One Foot in the Grave (miniquest)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Purple Cat (miniquest)'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Purple Cat (miniquest)'
+    members: No
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Raksha, the Shadow Colossus (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Raksha, the Shadow Colossus (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Rebuilding Edgeville (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Rebuilding Edgeville (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Sheep Shearer (miniquest)'
-    Members: No
-    Difficulty: Novice
+    name: 'Sheep Shearer (miniquest)'
+    members: No
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Sins of the Father (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Sins of the Father (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Spiritual Enlightenment (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Spiritual Enlightenment (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tales of Nomad (miniquest)'
-    Members: Yes
-    Difficulty: Master
+    name: 'Tales of Nomad (miniquest)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Tales of the God Wars (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Tales of the God Wars (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: No
+    possible: No
 -
-    Name: 'Thok It To ''Em (saga)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Thok It To ''Em (saga)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Thok Your Block Off (saga)'
-    Members: Yes
-    Difficulty: Master
+    name: 'Thok Your Block Off (saga)'
+    members: Yes
+    difficulty: Master
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Three''s Company (saga)'
-    Members: No
-    Difficulty: Intermediate
+    name: 'Three''s Company (saga)'
+    members: No
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tortle Combat (miniquest)'
-    Members: Yes
-    Difficulty: Novice
+    name: 'Tortle Combat (miniquest)'
+    members: Yes
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Tuai Leit''s Own (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Tuai Leit''s Own (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Vault of Shadows, The (miniquest)'
-    Members: Yes
-    Difficulty: Experienced
+    name: 'Vault of Shadows, The (miniquest)'
+    members: Yes
+    difficulty: Experienced
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Vengeance (saga)'
-    Members: Yes
-    Difficulty: Intermediate
+    name: 'Vengeance (saga)'
+    members: Yes
+    difficulty: Intermediate
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Wandering Ga''al (miniquest)'
-    Members: Yes
-    Difficulty: Grandmaster
+    name: 'Wandering Ga''al (miniquest)'
+    members: Yes
+    difficulty: Grandmaster
     QP: '0'
-    Possible: Yes
+    possible: Yes
 -
-    Name: 'Witch''s Potion (miniquest)'
-    Members: No
-    Difficulty: Novice
+    name: 'Witch''s Potion (miniquest)'
+    members: No
+    difficulty: Novice
     QP: '0'
-    Possible: Yes
+    possible: Yes
