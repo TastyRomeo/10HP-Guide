@@ -21,9 +21,8 @@ anothersliceofham:
 
 dragonslayer:
   name: Dragon Slayer
-  # questReq: 
-  # skillReq: [ 0, 0, 0, 0, 0, 0, 0 ]
-  # skillRew: [ 0, '18,650', '18,650', 0, 0, 0, 0, 0 ]
+  otherReq:
+    - '33 Quest Points'
   lampsRew: 
     str: '18,650'
     def: '18,650'
