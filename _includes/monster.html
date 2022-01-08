@@ -32,17 +32,17 @@
             {{ include.monster.LP }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.MaxHit }}
+            {{ include.monster.maxHit }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.CombatXP }}
+            {{ include.monster.combatXP }}
           </td>
           <td style="width:20%;text-align:center;">
             {{ include.monster.HPXP }}
           </td>
           <td style="width:20%;text-align:center;">
-            {% unless include.monster.Taggable == nil %}
-              {{ include.monster.Taggable }}
+            {% unless include.monster.taggable == nil %}
+              {{ include.monster.taggable }}
             {% else %}
               Yes
             {% endunless %}
