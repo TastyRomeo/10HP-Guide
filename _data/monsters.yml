@@ -82,3 +82,17 @@ monkofzamorakpaterdomus:
   immunity:
     poison: Yes
   taggable: No
+hamguard:
+  name: 'Guard'
+  level: 36
+  LP: '1,300'
+  maxHit: 104
+  combatXP: 56.1
+  HPXP: 18.5
+sigmunddttd:
+  name: 'Sigmund'
+  level: 42
+  LP: '1,500'
+  maxHit: 120
+  combatXP: 66.9
+  HPXP: 22
