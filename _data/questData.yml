@@ -1,7 +1,7 @@
 allfiredup:
-  name: All Fired Up
+  name: 'All Fired Up'
   questReq:
-    - name: Priest in peril
+    - name: 'Priest in Peril'
       id: priestinperil
 
 anothersliceofham:
@@ -25,7 +25,7 @@ anothersliceofham:
 deathtothedorgeshuun:
   name: 'Death to the Dorgeshuun'
   questReq:
-    - name: The Lost Tribe
+    - name: 'The Lost Tribe'
       id: thelosttribe
   lampsRew:
     cmb: '2,000'
@@ -36,7 +36,7 @@ thedigsite:
   name: 'The Dig Site'
 
 dragonslayer:
-  name: Dragon Slayer
+  name: 'Dragon Slayer'
   otherReq:
     - '33 Quest Points'
   lampsRew: 
@@ -48,7 +48,7 @@ dragonslayer:
     - "Kill"
 
 thegiantdwarf:
-  name: 'The Giant Dwarf
+  name: 'The Giant Dwarf'
   skillReq:
     mgc: 33
   skillRew:
@@ -60,7 +60,7 @@ goblindiplomacy:
 thelosttribe:
   name: 'The Lost Tribe'
   questReq:
-    - name: Goblin Diplomacy
+    - name: 'Goblin Diplomacy'
       id: goblindiplomacy
 
   
