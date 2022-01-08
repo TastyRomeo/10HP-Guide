@@ -2,14 +2,17 @@ allfiredup:
   name: All Fired Up
   questReq:
     - name: Priest in peril
-      Id: priestinperil
+      id: priestinperil
 
 anothersliceofham:
   name: 'Another Slice of H.A.M.'
   questReq: 
     - name: 'Death to the Dorgeshuun'
+      id: deathtothedorgeshuun
     - name: 'The Dig Site'
+      id: thedigsite
     - name: 'The Giant Dwarf'
+      id: thegiantdwarf
   skillReq: 
     att: 15
     pry: 25
@@ -18,6 +21,19 @@ anothersliceofham:
   methods: 
     - 'Recoil'
     - 'Kill'
+    
+deathtothedorgeshuun:
+  name: 'Death to the Dorgeshuun'
+  questReq:
+    - name: The Lost Tribe
+      id: thelosttribe
+  lampsRew:
+    cmb: '2,000'
+  methods:
+    - 'Recoil'
+
+thedigsite:
+  name: 'The Dig Site'
 
 dragonslayer:
   name: Dragon Slayer
@@ -30,6 +46,23 @@ dragonslayer:
   methods:
     - "TFK / 51%"
     - "Kill"
+
+thegiantdwarf:
+  name: 'The Giant Dwarf
+  skillReq:
+    mgc: 33
+  skillRew:
+    mgc: '1,500'
+
+goblindiplomacy:
+  name: 'Goblin Diplomacy'
+  
+thelosttribe:
+  name: 'The Lost Tribe'
+  questReq:
+    - name: Goblin Diplomacy
+      id: goblindiplomacy
+
   
 priestinperil:
   name: 'Priest in Peril'
