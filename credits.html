@@ -1,0 +1,26 @@
+---
+layout: default
+title: Credits
+---
+Most of the information on this website was gathered from the <a href="https://secure.runescape.com/m=forum/sl=0/forums?98,99,790,66064681" target="_blank">Possible Quests - 10HP</a>-thread on the official RuneScape forums. A big thank you goes out to everyone who contributed to said thread.<br /><br />
+
+Thanks are also in order to everyone, both members and guests, in the Hitpoint Hierachy discord and clan chat.<br /><br />
+
+In particular, thank you to the following people:
+<ul>
+  {% for person in site.data.credits %}
+  <li>
+    {{ person.name }}
+    {% if person.alts %}
+      ( AKA 
+      {% for alt in person.alts %}
+        {% if forloop.index > 1 %}
+          , {{ alt }}
+        {% else %}
+          {{ alt }}
+        {% endif %}
+      {% endfor %}
+      )
+    {% endif %}
+  </li>
+</ul>
