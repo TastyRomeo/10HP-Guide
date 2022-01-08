@@ -1,11 +1,29 @@
 - 
+  name: '10HP Michael'
+-
+  name: '10HP Player'
+- 
+  name: '10HP Purist'
+- 
+  name: '200m HP Exp'
+  alts: 
+    - 'Frost Fox'
+- 
   name: 'Andy Grammar'
--
-  name: 'Azire'
--
+  alts:
+    - 'way too many names to be listed. Get a hold of yourself, Andy!'
+- 
   name: 'Antier'
 -
+  name: 'Azire'
+  alts:
+    - 'Aztraeuz'
+-
   name: 'Blackston'
+- 
+  name: 'Brtyl'
+- 
+  name: 'CbtSkiller'
 -
   name: 'Charmseeker'
 - 
@@ -13,14 +31,44 @@
   alts:
     - 'Acknowledge'
     - 'Cordious'
+- 
+  name: 'Detective'
+-
+  name: 'Dragonsp0re'
+- 
+  name: 'Dragonsseed'
+-
+  name: 'Dugtrio'
+-
+  name: 'Elfen Lied'
+-
+  name: 'Elvirah Lane'
 -
   name: 'Eyehave9hp'
 - 
-  name: 'Loves Poetry'
+  name: 'Flahfanoel'
+- 
+  name: 'Guppy'
+- 
+  name: 'Heskel'
+-
+  name: 'iKennyBennyi'
+- 
+  name: 'Lava Miner'
 - 
   name: 'Metif'
+  alts:
+    - 'Meros'
 - 
   name: 'Mihawk'
+-
+  name: 'Minmaximust'
+  alts:
+    - 'Sir Wall Ace'
+-
+  name: 'Moist Owl'
+- 
+  name: 'Nyu'
 -
   name: 'Pocket Cucco'
   
@@ -36,5 +84,13 @@
   alts:
     - 'Rusty Romeo'
     - 'Yhdeksan'
+-
+  name: 'The Nothing'
+-
+  name: 'Toyoil'
+- 
+  name: 'Voted'
 - 
   name: 'waaah'
+- 
+  name: 'Zatox'
