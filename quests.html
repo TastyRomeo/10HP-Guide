@@ -23,7 +23,7 @@ title: Quests
             <tbody>
               {% for quest in site.data.quests %}
                 <tr class="gradeA">
-                  <td>{% if quest.id %}<a href="quest?id={{ quest.id }}">{{ quest.Name }}</a>{% else %}{{ quest.name }}{% endif %}</td>
+                  <td>{% if quest.id %}<a href="quest?id={{ quest.id }}">{{ quest.name }}</a>{% else %}{{ quest.name }}{% endif %}</td>
                   <td class="center">
                     {% if quest.members %}
                       <img src="img/20px-P2P_icon.png" alt=""/> Yes
