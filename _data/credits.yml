@@ -16,6 +16,8 @@
 -
   name: 'Eyehave9hp'
 - 
+  name: 'Loves Poetry'
+- 
   name: 'Metif'
 - 
   name: 'Mihawk'
@@ -31,5 +33,8 @@
 
 -
   name: 'Tasty Romeo'
+  alts:
+    - 'Rusty Romeo'
+    - 'Yhdeksan'
 - 
   name: 'waaah'
