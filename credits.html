@@ -9,18 +9,19 @@ Thanks are also in order to everyone, both members and guests, in the Hitpoint H
 In particular, thank you to the following people:
 <ul>
   {% for person in site.data.credits %}
-  <li>
-    {{ person.name }}
-    {% if person.alts %}
-      ( AKA 
-      {% for alt in person.alts %}
-        {% if forloop.index > 1 %}
-          , {{ alt }}
-        {% else %}
-          {{ alt }}
-        {% endif %}
-      {% endfor %}
-      )
-    {% endif %}
-  </li>
+    <li>
+      {{ person.name }}
+      {% if person.alts %}
+        ( AKA 
+        {% for alt in person.alts %}
+          {% if forloop.index > 1 %}
+            , {{ alt }}
+          {% else %}
+            {{ alt }}
+          {% endif %}
+        {% endfor %}
+        )
+      {% endif %}
+    </li>
+  {% endfor %}
 </ul>
