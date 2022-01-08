@@ -252,6 +252,7 @@
     difficulty: Intermediate
     QP: '1'
     possible: Yes
+    id: deathtothedorgeshuun
 -
     name: 'Defender of Varrock'
     members: Yes
@@ -300,6 +301,7 @@
     difficulty: Intermediate
     QP: '2'
     possible: Yes
+    id: thedigsite
 -
     name: 'Dimension of Disaster'
     members: Yes
@@ -553,6 +555,7 @@
     difficulty: Intermediate
     QP: '2'
     possible: Yes
+    id: thegiantdwarf
 -
     name: 'Glorious Memories'
     members: Yes
@@ -787,6 +790,7 @@
     difficulty: Intermediate
     QP: '1'
     possible: Yes
+    id: thelosttribe
 -
     name: 'Love Story'
     members: Yes
