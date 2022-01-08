@@ -36,4 +36,7 @@ priestinperil:
   name: 'Priest in Peril'
   lampsRew:
     pry: '1,406'
+  methods:
+    - 'Recoil + Defensive ability'
+    - 'Recoil + Defensive ability / 51%'
   
