@@ -6,20 +6,14 @@ Most of the information on this website was gathered from the <a href="https://s
 
 Thanks are also in order to everyone, both members and guests, in the Hitpoint Hierachy discord and clan chat.<br /><br />
 
-In particular, thank you to the following people:
+An incomplete list of people who contributed:
 <ul>
   {% for person in site.data.credits %}
     <li>
       {{ person.name }}
       {% if person.alts %}
         ( AKA 
-        {% for alt in person.alts %}
-          {% if forloop.index > 1 %}
-            , {{ alt }}
-          {% else %}
-            {{ alt }}
-          {% endif %}
-        {% endfor %}
+        {% for alt in person.alts %}{% if forloop.index > 1 %}, {{ alt }}{% else %}{{ alt }}{% endif %}{% endfor %}
         )
       {% endif %}
     </li>
