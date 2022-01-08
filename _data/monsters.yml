@@ -2,8 +2,8 @@ wormbrain:
   name: 'Wormbrain'
   level: 1
   LP: 50
-  MaxHit: 4
-  CombatXP: 24.9
+  maxHit: 4
+  combatXP: 24.9
   HPXP: 8.3
   immunity:
     recoil: No
@@ -13,15 +13,15 @@ zombierat:
   name: 'Zombie Rat'
   level: 2
   LP: 100
-  MaxHit: 8
-  CombatXP: 24.9
+  maxHit: 8
+  combatXP: 24.9
   HPXP: 8.2
 ghostmelzar:
   name: 'Ghost'
   level: 12
   LP: 450
-  MaxHit: 36
-  CombatXP: 30.9
+  maxHit: 36
+  combatXP: 30.9
   HPXP: 10.1
   immunity: 
     poison: Yes
@@ -29,22 +29,22 @@ skeletonmelzar:
   name: 'Skeleton'
   level: 12
   LP: 450
-  MaxHit: 36
-  CombatXP: 30.9
+  maxHit: 36
+  combatXP: 30.9
   HPXP: 10.1
 zombiemelzar:
   name: 'Zombie'
   level: 14
   LP: 900
-  MaxHit: 36
-  CombatXP: 30.9
+  maxHit: 36
+  combatXP: 30.9
   HPXP: 10.1
 melzarthemad:
   name: 'Melzar the Mad'
   level: 39
   LP: '1,400'
-  MaxHit: 112
-  CombatXP: 51.5
+  maxHit: 112
+  combatXP: 51.5
   HPXP: 20.2
   immunity:
     poison: Yes
@@ -52,13 +52,33 @@ lesserdemonmelzar:
   name: "Lesser Demon"
   level: 56
   LP: '2,000'
-  MaxHit: 160
-  CombatXP: 103.8
+  maxHit: 160
+  combatXP: 103.8
   HPXP: 34.2
 elvarg:
   name: 'Elvarg'
   level: 63
   LP: '10,000'
-  MaxHit: '1,500'
-  CombatXP: 0
+  maxHit: '1,500'
+  combatXP: 0
   HPXP: 0
+cerberus:
+  name: 'Cerberus'
+  level: 33
+  LP: '1,200'
+  maxHit: 96
+  combatXP: 51.9
+  HPXP: 17.1
+  immunity:
+    poison: Yes
+  taggable: No
+monkofzamorakpaterdomus:
+  name: 'Monk of Zamorak'
+  level: 23
+  LP: 850
+  maxHit: 68
+  combatXP: 39.6
+  HPXP: 13
+  immunity:
+    poison: Yes
+  taggable: No
