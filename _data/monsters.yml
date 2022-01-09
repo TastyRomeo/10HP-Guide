@@ -213,6 +213,8 @@ mercenaryjoe:
   maxHit: 14
   combatXP: 0
   HPXP: 0
+  immunity:
+    poison: Yes
   
 skullsmercenary: 
   name: 'Skulls Mercenary'
