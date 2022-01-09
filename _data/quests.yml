@@ -11,6 +11,7 @@
     difficulty: Intermediate
     QP: '1'
     possible: Yes
+    id: animalmagnetism
 -
     name: 'Another Slice of H.A.M.'
     members: Yes
