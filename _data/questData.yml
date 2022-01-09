@@ -3,6 +3,11 @@ allfiredup:
   questReq:
     - name: 'Priest in Peril'
       id: priestinperil
+      
+animalmagnetism:
+  name: 'Animal Magnetism'
+  skillReq:
+    rng: 30
 
 anothersliceofham:
   name: 'Another Slice of H.A.M.'
