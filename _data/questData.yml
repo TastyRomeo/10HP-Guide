@@ -59,13 +59,25 @@ thegiantdwarf:
 
 goblindiplomacy:
   name: 'Goblin Diplomacy'
+
+landofthegoblins:
+  name: 'Land of the Goblins'
+  questReq:
+    - name: 'Another Slice of H.A.M.'
+      id: anothersliceofham
+    - name: 'Fishing Contest'
+      id: fishingcontest
+  skillReq:
+    pry: 30
   
 thelosttribe:
   name: 'The Lost Tribe'
   questReq:
     - name: 'Goblin Diplomacy'
       id: goblindiplomacy
-
+  skillRew:
+    str: '3,000'
+    pry: '2,000'
   
 priestinperil:
   name: 'Priest in Peril'
