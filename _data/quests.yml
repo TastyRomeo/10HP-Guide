@@ -547,6 +547,7 @@
     difficulty: Novice
     QP: '1'
     possible: Yes
+    id: 'gertrudescat'
 -
     name: 'Ghosts Ahoy'
     members: Yes
