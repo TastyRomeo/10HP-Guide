@@ -94,4 +94,8 @@ priestinperil:
   
 therestlessghost:
   name: 'The Restless Ghost'
+  lampsRew:
+    pry: '125'
+  otherRew:
+    - '5 ancient bones'
   
