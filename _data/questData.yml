@@ -111,3 +111,10 @@ therestlessghost:
   otherRew:
     - '5 ancient bones'
   
+stolenhearts:
+  name: 'Stolen Hearts'
+  lampsRew:
+    con: '250'
+    cmb: '250'
+  methods:
+    - 'Kill'
