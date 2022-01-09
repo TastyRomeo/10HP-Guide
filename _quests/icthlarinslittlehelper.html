@@ -1,0 +1,36 @@
+---
+permalink: "/quests/icthlarinslittlehelper"
+layout: null
+---
+{% include quest.html quest=site.data.questData.icthlarinslittlehelper %}
+<hr style="border-top: 2px solid #09192A">
+<h4>Demigod</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You will have to fight one of four desert demigods, depending on which canopic jar you have: Apmeken, Crondis, Het or Scabaras. They can be dispatches easily with recoil and poison. However, they will despawn rather quickly, so ironmen or skillers may want to use a Deathtouched Dart instead.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.apmeken %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.crondis %}
+  </div>
+    <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.het %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.scabaras %}
+  </div>
+</div>
+<hr style="border-top: 2px solid #09192A">
+<h4>Priest</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    The final enemy is a possessed priest. He is essentially identical to the demigods in methods, damage output and despawn time. However, he has much less LP, so a Deathtouched Dart shouldn't be necessary.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.possessedpriest %}
+  </div>
+</div>
