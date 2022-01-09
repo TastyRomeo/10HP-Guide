@@ -675,6 +675,7 @@
     difficulty: Intermediate
     QP: '2'
     possible: Yes
+    id: 'icthlarinslittlehelper'
 -
     name: 'Imp Catcher'
     members: No
