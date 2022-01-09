@@ -77,7 +77,7 @@ fishingcontest:
   name: 'Fishing Contest'
   
 gertrudescat:
-  name: 'Gertrude''s cat'
+  name: 'Gertrude''s Cat'
 
 thegiantdwarf:
   name: 'The Giant Dwarf'
@@ -88,6 +88,17 @@ thegiantdwarf:
 
 goblindiplomacy:
   name: 'Goblin Diplomacy'
+  
+icthlarinslittlehelper:
+  name: 'Icthlarin''s Little Helper'
+  questReq:
+    - name: 'Diamond in the Rough'
+      id: diamondintherough
+    - name: 'Gertrude''s Cat'
+      id: gertrudescat
+  methods:
+    - 'Kill / Poison / DTD'
+    - 'Kill / Poison'
 
 landofthegoblins:
   name: 'Land of the Goblins'
