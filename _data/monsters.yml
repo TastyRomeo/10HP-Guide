@@ -205,3 +205,19 @@ skeletonwarlock:
   maxHit: 20
   combatXP: 40
   HPXP: 13.2
+
+mercenaryjoe: 
+  name: 'Mercenary Joe'
+  level: 2
+  LP: 500
+  maxHit: 14
+  combatXP: 0
+  HPXP: 0
+  
+skullsmercenary: 
+  name: 'Skulls Mercenary'
+  level: 2
+  LP: 400
+  maxHit: 14
+  combatXP: 0
+  HPXP: 0
