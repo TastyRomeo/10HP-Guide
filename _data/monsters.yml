@@ -262,3 +262,44 @@ heru:
   immunity:
     poison: Yes
     
+apmeken:
+  name: 'Apmeken'
+  level: 56
+  LP: '8,000'
+  maxHit: 384
+  combatXP: 103.8
+  HPXP: 34.2
+  
+crondis:
+  name: 'Crondis'
+  level: 57
+  LP: '12,000'
+  maxHit: 394
+  combatXP: 108.9
+  HPXP: 35.9
+  
+het:
+  name: 'Het'
+  level: 56
+  LP: '8,000'
+  maxHit: 160
+  combatXP: 259.5
+  HPXP: 85.6
+  
+scabaras:
+  name: 'Scabaras'
+  level: 58
+  LP: '9,000'
+  maxHit: 403
+  combatXP: 114.6
+  HPXP: 37.8
+  
+possessedpriest:
+  name: 'Possessed Priest'
+  level: 56
+  LP: '2,000'
+  maxHit: 160
+  combatXP: 103.8
+  HPXP: 34.2
+  
+  
