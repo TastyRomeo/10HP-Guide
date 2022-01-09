@@ -6,6 +6,13 @@ allfiredup:
       
 animalmagnetism:
   name: 'Animal Magnetism'
+  questReq:
+    - name: 'Ernest the Chicken'
+      id: 'ernestthechicken'
+    - name: 'Priest in Peril'
+      id: 'priestinperil'
+    - name: 'The Restless Ghost'
+      id: 'therestlessghost'
   skillReq:
     rng: 30
 
