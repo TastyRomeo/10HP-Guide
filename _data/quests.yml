@@ -1307,6 +1307,7 @@
     difficulty: Novice
     QP: '3'
     possible: Yes
+    id: stolenhearts
 -
     name: 'Summer''s End'
     members: Yes
