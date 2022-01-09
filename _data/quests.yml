@@ -1143,6 +1143,7 @@
     difficulty: Novice
     QP: '1'
     possible: Yes
+    id: 'therestlessghost'
 -
     name: 'Ritual of the Mahjarrat'
     members: Yes
