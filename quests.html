@@ -31,7 +31,7 @@ title: Quests
                       <img src="img/20px-F2P_icon.png" alt=""/> No
                     {% endif %}
                   </td>
-                  <td data-order="{% if quest.difficulty=="Novice" %}1{% elsif quest.difficulty=="Intermediate" %}2{% elsif quest.difficulty=="Experienced" %}3{% elsif quest.difficulty=="Master" %}4{% elsif quest.difficulty=="Grandmaster" %}5{% elsif quest.difficulty=="Special" %}9">
+                  <td data-order="{% if quest.difficulty=="Novice" %}1{% elsif quest.difficulty=="Intermediate" %}2{% elsif quest.difficulty=="Experienced" %}3{% elsif quest.difficulty=="Master" %}4{% elsif quest.difficulty=="Grandmaster" %}5{% elsif quest.difficulty=="Special" %}9{% endif %}">
 			  {{ quest.difficulty }}
 		  </td>
                   <td class="center">{{ quest.QP }}</td>
