@@ -749,6 +749,7 @@
     difficulty: Experienced
     QP: '1'
     possible: Yes
+    id: landofthegoblins
 -
     name: 'Legacy of Seergaze'
     members: Yes
