@@ -69,6 +69,8 @@ landofthegoblins:
       id: fishingcontest
   skillReq:
     pry: 30
+  methods:
+    - 'Kill'
   
 thelosttribe:
   name: 'The Lost Tribe'
