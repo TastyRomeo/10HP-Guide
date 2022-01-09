@@ -197,3 +197,11 @@ skeletondraynormanor:
   maxHit: 32
   combatXP: 29.7
   HPXP: 9.8
+
+skeletonwarlock:
+  name: 'Skeleton Warlock'
+  level: 7
+  LP: 500
+  maxHit: 20
+  combatXP: 40
+  HPXP: 13.2
