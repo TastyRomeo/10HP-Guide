@@ -1,0 +1,18 @@
+---
+permalink: "/quests/stolenhearts"
+layout: null
+---
+{% include quest.html quest=site.data.questData.stolenhearts %}
+<hr style="border-top: 2px solid #09192A">
+<h4>Skulls Mercenaries</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    Together with Ozan and Leela, you have to defeat Joe and two Skulls mercenaries. Simply kill them, they do not give Combat XP.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.joe %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.skullsmercenary %}
+  </div>
+</div>
