@@ -435,6 +435,7 @@
     difficulty: Novice
     QP: '4'
     possible: Yes
+    id: 'ernestthechicken'
 -
     name: 'Evil Dave''s Big Day Out'
     members: Yes
