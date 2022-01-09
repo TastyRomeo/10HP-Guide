@@ -43,6 +43,17 @@ deathtothedorgeshuun:
     cmb: '2,000'
   methods:
     - 'Recoil'
+    
+diamondintherough:
+  name: 'Diamond in the Rough'
+  questReq:
+    - name: 'Stolen Hearts'
+      id: stolenhearts
+  lampsRew:
+    con: '250'
+    cmb: '250'
+  methods:
+    - 'Kill'
 
 thedigsite:
   name: 'The Dig Site'
