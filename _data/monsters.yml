@@ -94,5 +94,26 @@ sigmunddttd:
   level: 42
   LP: '1,500'
   maxHit: 120
-  combatXP: 66.9
-  HPXP: 22
+  combatXP: 0
+  HPXP: 0
+hammage:
+  name: 'H.A.M. Mage'
+  level: 28
+  LP: '2,000'
+  maxHit: 144
+  combatXP: 66.6
+  HPXP: 21.9
+hamarcher:
+  name: 'H.A.M. Archer'
+  level: 28
+  LP: '2,000'
+  maxHit: 96
+  combatXP: 66.6
+  HPXP: 21.9
+sigmundasoh:
+  name: 'Sigmund'
+  level: 70
+  LP: '5,000'
+  maxHit: 240
+  combatXP: 0
+  HPXP: 0
