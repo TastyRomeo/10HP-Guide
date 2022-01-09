@@ -46,6 +46,9 @@ dragonslayer:
   methods:
     - "TFK / 51%"
     - "Kill"
+    
+fishingcontest:
+  name: 'Fishing Contest'
 
 thegiantdwarf:
   name: 'The Giant Dwarf'
