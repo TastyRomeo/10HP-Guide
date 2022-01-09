@@ -9,6 +9,7 @@ wormbrain:
     recoil: No
     poison: No
     dart: No
+    
 zombierat:
   name: 'Zombie Rat'
   level: 2
@@ -16,6 +17,7 @@ zombierat:
   maxHit: 8
   combatXP: 24.9
   HPXP: 8.2
+  
 ghostmelzar:
   name: 'Ghost'
   level: 12
@@ -25,6 +27,7 @@ ghostmelzar:
   HPXP: 10.1
   immunity: 
     poison: Yes
+    
 skeletonmelzar:
   name: 'Skeleton'
   level: 12
@@ -32,6 +35,7 @@ skeletonmelzar:
   maxHit: 36
   combatXP: 30.9
   HPXP: 10.1
+  
 zombiemelzar:
   name: 'Zombie'
   level: 14
@@ -39,6 +43,7 @@ zombiemelzar:
   maxHit: 36
   combatXP: 30.9
   HPXP: 10.1
+  
 melzarthemad:
   name: 'Melzar the Mad'
   level: 39
@@ -48,6 +53,7 @@ melzarthemad:
   HPXP: 20.2
   immunity:
     poison: Yes
+    
 lesserdemonmelzar:
   name: "Lesser Demon"
   level: 56
@@ -55,6 +61,7 @@ lesserdemonmelzar:
   maxHit: 160
   combatXP: 103.8
   HPXP: 34.2
+  
 elvarg:
   name: 'Elvarg'
   level: 63
@@ -62,6 +69,7 @@ elvarg:
   maxHit: '1,500'
   combatXP: 0
   HPXP: 0
+  
 cerberus:
   name: 'Cerberus'
   level: 33
@@ -72,6 +80,7 @@ cerberus:
   immunity:
     poison: Yes
   taggable: No
+  
 monkofzamorakpaterdomus:
   name: 'Monk of Zamorak'
   level: 23
@@ -82,6 +91,7 @@ monkofzamorakpaterdomus:
   immunity:
     poison: Yes
   taggable: No
+  
 hamguard:
   name: 'Guard'
   level: 36
@@ -89,6 +99,7 @@ hamguard:
   maxHit: 104
   combatXP: 56.1
   HPXP: 18.5
+  
 sigmunddttd:
   name: 'Sigmund'
   level: 42
@@ -96,6 +107,7 @@ sigmunddttd:
   maxHit: 120
   combatXP: 0
   HPXP: 0
+  
 hammage:
   name: 'H.A.M. Mage'
   level: 28
@@ -103,6 +115,7 @@ hammage:
   maxHit: 144
   combatXP: 66.6
   HPXP: 21.9
+  
 hamarcher:
   name: 'H.A.M. Archer'
   level: 28
@@ -110,6 +123,7 @@ hamarcher:
   maxHit: 96
   combatXP: 66.6
   HPXP: 21.9
+  
 sigmundasoh:
   name: 'Sigmund'
   level: 70
@@ -117,3 +131,61 @@ sigmundasoh:
   maxHit: 240
   combatXP: 0
   HPXP: 0
+  
+snothead:
+  name: 'Snothead'
+  level: 19
+  LP: 700
+  maxHit: 56
+  CombatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
+snailfeet:
+  name: 'Snailfeet'
+  level: 25
+  LP: 900
+  maxHit: 72
+  CombatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
+mosschin:
+  name: 'Mosschin'
+  level: 30
+  LP: '1,100'
+  maxHit: 88
+  CombatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
+redeyes:
+  name: 'Redeyes'
+  level: 36
+  LP: '1,300'
+  maxHit: 104
+  CombatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
+strongbones:
+  name: 'Strongbones'
+  level: 36
+  LP: '1,300'
+  maxHit: 104
+  CombatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
+skoblin:
+  name: 'Skoblin'
+  level: 14
+  LP: 500
+  maxHit: 40
+  CombatXP: 32.1
+  HPXP: 10.5
