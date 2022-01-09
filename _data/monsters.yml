@@ -137,7 +137,7 @@ snothead:
   level: 19
   LP: 700
   maxHit: 56
-  CombatXP: 0
+  combatXP: 0
   HPXP: 0
   immunity:
     poison: Yes
@@ -147,7 +147,7 @@ snailfeet:
   level: 25
   LP: 900
   maxHit: 72
-  CombatXP: 0
+  combatXP: 0
   HPXP: 0
   immunity:
     poison: Yes
@@ -157,7 +157,7 @@ mosschin:
   level: 30
   LP: '1,100'
   maxHit: 88
-  CombatXP: 0
+  combatXP: 0
   HPXP: 0
   immunity:
     poison: Yes
@@ -167,7 +167,7 @@ redeyes:
   level: 36
   LP: '1,300'
   maxHit: 104
-  CombatXP: 0
+  combatXP: 0
   HPXP: 0
   immunity:
     poison: Yes
@@ -177,7 +177,7 @@ strongbones:
   level: 36
   LP: '1,300'
   maxHit: 104
-  CombatXP: 0
+  combatXP: 0
   HPXP: 0
   immunity:
     poison: Yes
@@ -187,5 +187,5 @@ skoblin:
   level: 14
   LP: 500
   maxHit: 40
-  CombatXP: 32.1
+  combatXP: 32.1
   HPXP: 10.5
