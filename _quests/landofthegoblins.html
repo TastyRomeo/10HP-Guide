@@ -1,0 +1,28 @@
+---
+permalink: "/quests/landofthegoblins"
+layout: null
+---
+{% include quest.html quest=site.data.questData.landofthegoblins %}
+<hr style="border-top: 2px solid #09192A">
+<h4>Ambush</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    During the ambush, simply recoil the H.A.M. mage and archer.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.hammage %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.hamarcher %}
+  </div>
+</div>
+<hr style="border-top: 2px solid #09192A">
+<h4>Sigmund</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You will have to kill Sigmund normally - luckily, he gives no Combat XP. Note that you must stack adrenaline to 100% and use the ancient mace special attack.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.sigmundasoh %}
+  </div>
+</div>
