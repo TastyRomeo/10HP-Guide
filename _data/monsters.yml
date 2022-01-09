@@ -189,3 +189,11 @@ skoblin:
   maxHit: 40
   combatXP: 32.1
   HPXP: 10.5
+  
+skeletondraynormanor:
+  name: 'Skeleton'
+  level: 11
+  LP: 400
+  maxHit: 32
+  combatXP: 29.7
+  HPXP: 9.8
