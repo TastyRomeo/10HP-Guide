@@ -223,3 +223,42 @@ skullsmercenary:
   maxHit: 14
   combatXP: 0
   HPXP: 0
+
+banditditr:
+  name: 'Bandit'
+  level: 2
+  LP: 100
+  maxHit: 72
+  combatXP: 0
+  HPXP: 0
+  
+banditking:
+  name: 'Bandit king'
+  level: 3
+  LP: 200
+  maxHit: 72
+  combatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+  
+apep:
+  name: 'Apep'
+  level: 5
+  LP: 500
+  maxHit: 72
+  combatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+  
+heru:
+  name: 'Apep'
+  level: 5
+  LP: 500
+  maxHit: 91
+  combatXP: 0
+  HPXP: 0
+  immunity:
+    poison: Yes
+    
