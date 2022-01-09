@@ -501,6 +501,7 @@
     difficulty: Novice
     QP: '1'
     possible: Yes
+    id: 'fishingcontest'
 -
     name: 'Forgettable Tale of a Drunken Dwarf'
     members: Yes
