@@ -309,6 +309,7 @@ giantscarab:
   maxHit: 372
   combatXP: 0
   HPXP: 0
+  taggable: No
   
 locustrider:
   name: 'Locust Rider'
