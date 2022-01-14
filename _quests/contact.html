@@ -1,0 +1,24 @@
+---
+permalink: "/quests/contact"
+layout: null
+---
+{% include quest.html quest=site.data.questData.contact %}
+<hr style="border-top: 2px solid #09192A">
+<h4>Giant scarab</h4>
+<div class="row">
+  <div class="col-md-12 col-sm-12">
+    You will have to a very poisonous Giant Scarab. As it is an untaggable monster, it will not regain its LP when left alone. Thus, the easiest strategy is to poison it and hide in the tunnels. Alternatively, you can just recoil it. Historically, the Giant scarab gave no Combat XP. However, it is not known if this is still the case.<br /><br />
+    During the fight, the Giant scarab will summon Scarab mages and Locust riders. Ignore them.
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.giantscarab %}
+  </div>
+    <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.locustrider %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.scarabmage %}
+  </div>
+</div>
