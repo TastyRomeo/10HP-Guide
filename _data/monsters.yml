@@ -302,4 +302,28 @@ possessedpriest:
   combatXP: 103.8
   HPXP: 34.2
   
+giantscarab:
+  name: 'Giant Scarab'
+  level: 86
+  LP: '20,000'
+  maxHit: 372
+  combatXP: 0
+  HPXP: 0
+  
+locustrider:
+  name: 'Locust Rider'
+  level: 75
+  LP: '2,700'
+  maxHit: 810
+  combatXP: 201.3
+  HPXP: 66.4
+  
+scarabmage:
+  name: 'Scarab Mage'
+  level: 75
+  LP: '2,700'
+  maxHit: 810
+  combatXP: 201.3
+  HPXP: 66.4
+  
   
