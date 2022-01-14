@@ -187,6 +187,7 @@
     difficulty: Master
     QP: '1'
     possible: Yes
+    id: 'contact'
 -
     name: 'Cook''s Assistant'
     members: No
