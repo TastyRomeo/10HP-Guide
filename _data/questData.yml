@@ -34,6 +34,16 @@ anothersliceofham:
     - 'Recoil'
     - 'Kill'
     
+contact:
+  name: 'Contact!'
+  questReq:
+    - name: 'Icthlarin''s Little Helper'
+      id: icthlarinslittlehelper
+  lampsRew:
+    cmb: '14,000'
+  methods:
+    - 'Recoil'
+    
 deathtothedorgeshuun:
   name: 'Death to the Dorgeshuun'
   questReq:
