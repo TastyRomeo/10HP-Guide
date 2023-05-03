@@ -436,6 +436,7 @@
     name: 'Dimension of Disaster: Demon Slayer'
     members: Yes
     QP: '3'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dimension of Disaster: Shield of Arrav'
@@ -800,7 +801,7 @@
     name: 'God Emissaries (miniquest)'
     members: Yes
     QP: '0'
-    date: '201-04-18'
+    date: '2013-05-29'
     possible: Yes
 -
     name: 'Golem, The'
