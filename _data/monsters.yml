@@ -138,8 +138,8 @@ hamguard:
   immunity:
     recoil: false
     poison: true
-    dart: ?
-  taggable: ?
+    dart: '?'
+  taggable: '?'
   
 sigmunddttd:
   name: 'Sigmund'
