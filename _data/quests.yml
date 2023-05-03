@@ -2242,6 +2242,8 @@ vampyreslayer:
     QP: '3'
     date: '2001-01-28'
     possible: Yes
+    skillRew:
+      cmb: '4,825'
 
 thevaultofshadows:
     name: 'Vault of Shadows, The'
