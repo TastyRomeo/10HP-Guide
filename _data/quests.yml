@@ -1,287 +1,322 @@
 -
+    name: 'Aftermath'
+    members: Yes
+    QP: '0'
+    possible: Yes
+    date: '2022-07-04'
+    id: 'aftermath'
+-
     name: 'All Fired Up'
     members: Yes
     QP: '1'
     possible: Yes
-    id: allfiredup
+    date: '2008-08-26'
+    id: 'allfiredup'
 -
     name: 'Animal Magnetism'
     members: Yes
     QP: '1'
     possible: Yes
-    id: animalmagnetism
+    date: '2006-12-12'
+    id: 'animalmagnetism'
 -
     name: 'Another Slice of H.A.M.'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
     possible: Yes
+    date: '2007-04-24'
     id: 'anothersliceofham'
 -
     name: 'As a First Resort'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2008-01-29'
     possible: Yes
 -
     name: 'Azzanadra''s Quest'
     members: Yes
-    difficulty: Experienced
     QP: '3'
+    date: '2021-02-22'
     possible: Yes
 -
     name: 'Back to my Roots'
     members: Yes
     difficulty: Master
     QP: '1'
+    date: '2007-10-09'
     possible: Yes
 -
     name: 'Back to the Freezer'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2017-02-27'
+    possible: Yes
+-
+    name: 'Bar Crawl (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2002-03-25'
+    possible: Yes
+-
+    name: 'Battle of the Monolith'
+    members: Yes
+    QP: '0'
+    date: '2021-05-24'
     possible: Yes
 -
     name: 'Beneath Cursed Tides'
     members: No
-    difficulty: Intermediate
     QP: '1'
+    date: '2015-12-14'
     possible: Yes
 -
     name: 'Between a Rock...'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2005-03-21'
     possible: Yes
 -
     name: 'Big Chompy Bird Hunting'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2004-05-18'
     possible: Yes
 -
-    name: Biohazard
+    name: 'Biohazard'
     members: Yes
-    difficulty: Novice
     QP: '3'
+    date: '2002-10-23'
     possible: Yes
 -
     name: 'Birthright of the Dwarves'
     members: Yes
-    difficulty: Grandmaster
     QP: '2'
+    date: '2013-10-02'
     possible: Yes
 -
     name: 'Blood Pact, The'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2010-03-15'
     possible: Yes
 -
     name: 'Blood Runs Deep'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2009-12-15'
     possible: Yes
 -
     name: 'Branches of Darkmeyer, The'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2011-08-31'
     possible: Yes
 -
     name: 'Bringing Home the Bacon'
     members: Yes
     difficulty: Novice
     QP: '1'
+    date: '2013-07-09'
     possible: Yes
 -
     name: 'Brink of Extinction, The'
     members: Yes
-    difficulty: Grandmaster
     QP: '3'
+    date: '2012-12-04'
     possible: Yes
 -
     name: 'Broken Home'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2014-10-27'
     possible: Yes
 -
     name: 'Buyers and Cellars'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2010-04-28'
     possible: Yes
 -
     name: 'Cabin Fever'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2006-02-07'
     possible: Yes
 -
     name: 'Call of the Ancestors'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2015-10-12'
     possible: Yes
 -
     name: 'Carnillean Rising'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2012-07-03'
     possible: Yes
 -
     name: 'Catapult Construction'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2008-02-13'
     possible: Yes
 -
     name: 'Chef''s Assistant'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2019-02-11'
     possible: Yes
 -
     name: 'Children of Mah'
     members: Yes
-    difficulty: Grandmaster
     QP: '2'
+    date: '2016-11-21'
     possible: Yes
 -
     name: 'Chosen Commander, The'
     members: Yes
-    difficulty: Experienced
     QP: '3'
+    date: '2009-03-17'
     possible: Yes
 -
     name: 'City of Senntisten'
     members: Yes
-    difficulty: Master
     QP: '3'
+    date: '2021-06-21'
     possible: Yes
 -
     name: 'Clock Tower'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2002-06-17'
     possible: Yes
 -
     name: 'Clockwork Syringe, A'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2011-03-28'
     possible: Yes
 -
     name: 'Cold War'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2007-01-29'
     possible: Yes
 -
-    name: Contact!
+    name: 'Contact!'
     members: Yes
-    difficulty: Master
     QP: '1'
     possible: Yes
+    date: '2007-01-10'
     id: 'contact'
 -
     name: 'Cook''s Assistant'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2001-01-04'
     possible: Yes
 -
     name: 'Creature of Fenkenstrain'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-01-31'
     possible: Yes
 -
     name: 'Crocodile Tears'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2017-06-05'
     possible: Yes
 -
     name: 'Curse of Arrav, The'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2009-07-21'
     possible: Yes
 -
     name: 'Curse of the Black Stone'
     members: Yes
-    difficulty: Master
     QP: '4'
+    date: '2019-02-25'
     possible: Yes
 -
     name: 'Darkness of Hallowvale, The'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2006-09-04'
+    possible: Yes
+-   
+    name: 'Daughter of Chaos'
+    members: Yes
+    QP: '1'
+    date: '2022-08-01'
     possible: Yes
 -
     name: 'Deadliest Catch'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2011-06-07'
     possible: Yes
 -
     name: 'Dealing with Scabaras'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2008-01-02'
     possible: Yes
 -
     name: 'Death of Chivalry, The'
     members: No
-    difficulty: Novice
     QP: '3'
+    date: '2013-08-13'
     possible: Yes
 -
     name: 'Death Plateau'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2012-01-31'
     possible: Yes
 -
     name: 'Death to the Dorgeshuun'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
     possible: Yes
-    id: deathtothedorgeshuun
+    date: '2006-06-21'
+    id: 'deathtothedorgeshuun'
 -
     name: 'Defender of Varrock'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2008-09-29'
     possible: Yes
 -
     name: 'Demon Slayer'
     members: No
-    difficulty: Novice
     QP: '3'
+    date: '2013-01-28'
     possible: Yes
 -
     name: 'Desert Treasure'
     members: Yes
-    difficulty: Master
     QP: '3'
+    date: '2005-04-18'
+    possible: Yes
+-
+    name: 'Desperate Creatures'
+    members: Yes
+    QP: '0'
+    date: '2020-09-21'
     possible: Yes
 -
     name: 'Desperate Measures'
     members: Yes
-    difficulty: Intermediate
     QP: '3'
+    date: '2020-07-27'
     possible: Yes
 -
     name: 'Desperate Times'
     members: Yes
-    difficulty: Intermediate
     QP: '3'
+    date: '2019-05-13'
     possible: Yes
 -
     name: 'Devious Minds'
@@ -1519,18 +1554,6 @@
     members: Yes
     difficulty: Intermediate
     QP: '1'
-    possible: Yes
--
-    name: 'Bar Crawl (miniquest)'
-    members: Yes
-    difficulty: Intermediate
-    QP: '0'
-    possible: Yes
--
-    name: 'Battle of the Monolith (miniquest)'
-    members: Yes
-    difficulty: Intermediate
-    QP: '0'
     possible: Yes
 -
     name: 'Benedict''s World Tour (miniquest)'
