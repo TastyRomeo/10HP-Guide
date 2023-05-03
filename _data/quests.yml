@@ -1,267 +1,326 @@
--
+aftermath:
     name: 'Aftermath'
     members: Yes
     QP: '0'
     possible: Yes
     date: '2022-07-04'
-    id: 'aftermath'
--
+  
+allfiredup:
     name: 'All Fired Up'
     members: Yes
     QP: '1'
     possible: Yes
     date: '2008-08-26'
-    id: 'allfiredup'
--
+    questReq:
+      - priestinperil
+
+animalmagnetism:
     name: 'Animal Magnetism'
     members: Yes
     QP: '1'
     possible: Yes
     date: '2006-12-12'
-    id: 'animalmagnetism'
--
+    questReq:
+      - ernestthechicken
+      - priestinperil
+      - therestlessghost
+    skillreq:
+      rng: 30
+
+anothersliceofham:
     name: 'Another Slice of H.A.M.'
     members: Yes
     QP: '1'
     possible: Yes
     date: '2007-04-24'
-    id: 'anothersliceofham'
--
+    questReq: 
+      - deathtothedorgeshuun
+      - thedigsite
+      - thegiantdwarf
+    skillReq: 
+      att: 15
+      pry: 25
+    skillRew:
+      pry: '3,000'
+
+asafirstresort:
     name: 'As a First Resort'
     members: Yes
     QP: '1'
     date: '2008-01-29'
     possible: Yes
--
+    
+azzanadrasquest:
     name: 'Azzanadra''s Quest'
     members: Yes
     QP: '3'
     date: '2021-02-22'
     possible: Yes
--
+
+backtomyroots:
     name: 'Back to my Roots'
     members: Yes
     QP: '1'
     date: '2007-10-09'
     possible: Yes
--
+
+backtothefreezer:
     name: 'Back to the Freezer'
     members: Yes
     QP: '1'
     date: '2017-02-27'
     possible: Yes
--
+
+barcrawl:
     name: 'Bar Crawl (miniquest)'
     members: Yes
     QP: '0'
     date: '2002-03-25'
     possible: Yes
--
+
+battleofthemonolith:
     name: 'Battle of the Monolith'
     members: Yes
     QP: '0'
     date: '2021-05-24'
     possible: Yes
--
+
+beneathcursedtides:
     name: 'Beneath Cursed Tides'
     members: No
     QP: '1'
     date: '2015-12-14'
     possible: Yes
--
+
+benedictsworldtour:
     name: 'Benedict''s World Tour (miniquest)'
     members: No
     QP: '0'
     date: '2016-04-18'
     possible: Yes
--
+
+betweenarock:
     name: 'Between a Rock...'
     members: Yes
     QP: '2'
     date: '2005-03-21'
     possible: Yes
--
+
+bigchompybirdhunting:
     name: 'Big Chompy Bird Hunting'
     members: Yes
     QP: '2'
     date: '2004-05-18'
     possible: Yes
--
+
+biohazard:
     name: 'Biohazard'
     members: Yes
     QP: '3'
     date: '2002-10-23'
     possible: Yes
--
+
+birthrightofthedwarves:
     name: 'Birthright of the Dwarves'
     members: Yes
     QP: '2'
     date: '2013-10-02'
     possible: Yes
--
+
+thebloodpact:
     name: 'Blood Pact, The'
     members: No
     QP: '1'
     date: '2010-03-15'
     possible: Yes
--
+
+bloodrunsdeep:
     name: 'Blood Runs Deep'
     members: Yes
     QP: '2'
     date: '2009-12-15'
     possible: 'Block'
--
+
+boricstaski:
     name: 'Boric''s Task I (miniquest)'
     members: Yes
     QP: '0'
     date: '2012-10-17'
     possible: Yes
--
+
+boricstaskii:
     name: 'Boric''s Task II (miniquest)'
     members: Yes
     QP: '0'
     date: '2012-10-17'
     possible: Yes
--
+
+boricstaskiii:
     name: 'Boric''s Task III (miniquest)'
     members: Yes
     QP: '0'
     date: '2012-10-17'
     possible: Yes
--
+
+thebranchesofdarkmeyer:
     name: 'Branches of Darkmeyer, The'
     members: Yes
     QP: '2'
     date: '2011-08-31'
     possible: Yes
--
+
+bringinghomethebacon:
     name: 'Bringing Home the Bacon'
     members: Yes
     QP: '1'
     date: '2013-07-09'
     possible: Yes
--
+
+thebrinkofextinction:
     name: 'Brink of Extinction, The'
     members: Yes
     QP: '3'
     date: '2012-12-04'
     possible: Yes
--
+
+brokenhome:
     name: 'Broken Home'
     members: No
     QP: '1'
     date: '2014-10-27'
     possible: Yes
--
+
+buyersandcellars:
     name: 'Buyers and Cellars'
     members: Yes
     QP: '1'
     date: '2010-04-28'
     possible: Yes
--
+
+cabinfever:
     name: 'Cabin Fever'
     members: Yes
     QP: '2'
     date: '2006-02-07'
     possible: Yes
--
+
+calloftheancestors:
     name: 'Call of the Ancestors'
     members: Yes
     QP: '1'
     date: '2015-10-12'
     possible: Yes
--
+
+carnilleanrising:
     name: 'Carnillean Rising'
     members: Yes
     QP: '1'
     date: '2012-07-03'
     possible: Yes
--
+
+catapultconstruction:
     name: 'Catapult Construction'
     members: Yes
     QP: '2'
     date: '2008-02-13'
     possible: Yes
--
+
+challengingchat:
    name: 'Challenging Chat (miniquest)'
    members: Yes
    QP: '0'
    date: '2013-07-03'
    possible: Yes
--
+
+chefsassistant:
     name: 'Chef''s Assistant'
     members: No
     QP: '1'
     date: '2019-02-11'
     possible: Yes
--
+
+childrenofmah:
     name: 'Children of Mah'
     members: Yes
     QP: '2'
     date: '2016-11-21'
     possible: Yes
--
+
+thechosencommander:
     name: 'Chosen Commander, The'
     members: Yes
     QP: '3'
     date: '2009-03-17'
     possible: Yes
--
+
+cityofsenntisten:
     name: 'City of Senntisten'
     members: Yes
     QP: '3'
     date: '2021-06-21'
     possible: Yes
--
+
+civilwari:
     name: 'Civil War I (miniquest)'
     members: Yes
     QP: '0'
     date: '2022-10-17'
     possible: Yes
--
+
+civilwarii:
     name: 'Civil War II (miniquest)'
     members: Yes
     QP: '0'
     date: '2022-10-17'
     possible: Yes
--
+    
+civilwariii:
     name: 'Civil War III (miniquest)'
     members: Yes
     QP: '0'
     date: '2022-11-07'
     possible: Yes
--
+
+clocktower:
     name: 'Clock Tower'
     members: Yes
     QP: '1'
     date: '2002-06-17'
     possible: Yes
--
+
+aclockworksyringe:
     name: 'Clockwork Syringe, A'
     members: Yes
     QP: '1'
     date: '2011-03-28'
     possible: Yes
--
+    
+coldwar:
     name: 'Cold War'
     members: Yes
     QP: '1'
     date: '2007-01-29'
     possible: Yes
--
+    
+contact:
     name: 'Contact!'
     members: Yes
     QP: '1'
     possible: Yes
     date: '2007-01-10'
-    id: 'contact'
--
+    questReq:
+      - icthlarinslittlehelper
+    lampsRew:
+      cmb: '14,000'
+
+cooksassistant:
     name: 'Cook''s Assistant'
     members: No
     QP: '1'
     date: '2001-01-04'
     possible: Yes
--
+
+creatureoffenkenstrain:
     name: 'Creature of Fenkenstrain'
     members: Yes
     QP: '2'
