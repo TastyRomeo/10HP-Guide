@@ -27,9 +27,9 @@ title: Quests
 	        {% assign data = quest | last %}
 		<!-- data: {{ data }} -->
                 <tr class="gradeA">
-                  <td><a href="quest?id={{ quest | first }}">{{ quest | inspect }}</a></td>
+                  <td><a href="quest?id={{ quest | first }}">{{ data.name }}</a></td>
                   <td class="center">
-                    {% if quest.members %}
+                    {% if data[members] %}
                       <img src="img/20px-P2P_icon.png" alt=""/> Yes
                     {% else %}
                       <img src="img/20px-F2P_icon.png" alt=""/> No
