@@ -6,9 +6,13 @@ title: Quests
 <script>
   let params = new URLSearchParams( window.location.search );
   if ( params.has( "id" ) ) {
-    $( "#questGuide" ).load( "quests/"+params.get( "id" ) ).fail( function(){
-      $( "#questGuide" ).html( "Under construction" );
-    });
+    $( "#questGuide" ).load( 
+      "quests/"+params.get( "id" ),
+      function( responseText, textStatus, jqXHR ){
+        if (responseText==="error") {
+          $( "#questGuide" ).html( "Under construction" );
+        }
+    );
   } else {
     $( "#questGuide" ).html( "404!");
   }
