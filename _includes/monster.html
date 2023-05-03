@@ -88,22 +88,28 @@
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.recoil == true %}
             Immune
+          {% elsif include.monster.immunity.recoil == false %}
+            Not Immune
           {% else %}
-            Not immune
+            ?
           {% endif %}
         </td>
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.poison == true %}
             Immune
+          {% elsif include.monster.immunity.poison == false %}
+            Not Immune
           {% else %}
-            Not immune
+            ?
           {% endif %}
         </td>
         <td style="width:calc(100% / 3);text-align:center;">
           {% if include.monster.immunity.dart == true%}
             Immune
+          {% elsif include.monster.immunity.dart == false %}
+            Not Immune
           {% else %}
-            Not immune
+            ?
           {% endif %}
         </td>
       </tr>
