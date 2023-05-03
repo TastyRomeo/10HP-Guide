@@ -417,7 +417,10 @@ deathtothedorgeshuun:
     QP: '1'
     possible: Yes
     date: '2006-06-21'
-    id: 'deathtothedorgeshuun'
+    questReq:
+      - thelosttribe
+    lampsRew:
+      cmb: '2,000'
 
 defenderofvarrock:
     name: 'Defender of Varrock'
@@ -481,7 +484,11 @@ diamondintherough:
     QP: '1'
     possible: Yes
     date: '2012-09-26'
-    id: 'diamondintherough'
+    questReq:
+      - stolenhearts
+    lampsRew:
+      con: '250'
+      cmb: '250'
 
 thedigsite:
     name: 'Dig Site, The'
