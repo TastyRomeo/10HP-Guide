@@ -24,7 +24,7 @@ title: Quests
               {% for quest in site.data.quests %}
 	        <!-- {{ quest }} -->
                 <tr class="gradeA">
-                  <td><a href="quest?id=">{{ quest.name }}</a></td>
+                  <td><a href="quest?id=">{{ quest[name] }}</a></td>
                   <td class="center">
                     {% if quest.members %}
                       <img src="img/20px-P2P_icon.png" alt=""/> Yes
