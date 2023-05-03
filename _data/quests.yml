@@ -1198,7 +1198,8 @@ kingsransom:
     QP: '1'
     date: '2007-07-24'
     possible: Yes
--
+
+theknightssword:
     name: 'Knight''s Sword, The'
     members: No
     QP: '1'
