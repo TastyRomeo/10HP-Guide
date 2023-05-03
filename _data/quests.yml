@@ -365,7 +365,7 @@
     members: Yes
     difficulty: Master
     QP: '2'
-    possible: No
+    possible: Block
 -
     name: 'Druidic Ritual'
     members: No
@@ -603,7 +603,7 @@
     members: Yes
     difficulty: Master
     QP: '1'
-    possible: No
+    possible: Block
 -
     name: 'Gunnar''s Ground'
     members: No
@@ -804,7 +804,7 @@
     members: Yes
     difficulty: Master
     QP: '2'
-    possible: No
+    possible: Yes
 -
     name: 'Lunar Diplomacy'
     members: Yes
@@ -918,7 +918,7 @@
     members: Yes
     difficulty: Grandmaster
     QP: '3'
-    possible: No
+    possible: Yes
 -
     name: 'Observatory Quest'
     members: Yes
@@ -1069,7 +1069,7 @@
     members: Yes
     difficulty: Special
     QP: '10'
-    possible: No
+    possible: Yes
 -
     name: 'Recipe for Disaster: Another Cook''s Quest'
     members: Yes
@@ -1081,7 +1081,7 @@
     members: Yes
     difficulty: Experienced
     QP: '1'
-    possible: No
+    possible: Yes
 -
     name: 'Recipe for Disaster: Freeing Evil Dave'
     members: Yes
@@ -1105,7 +1105,7 @@
     members: Yes
     difficulty: Experienced
     QP: '1'
-    possible: No
+    possible: Block
 -
     name: 'Recipe for Disaster: Freeing Skrach Uglogwee'
     members: Yes
@@ -1123,7 +1123,7 @@
     members: Yes
     difficulty: Intermediate
     QP: '1'
-    possible: No
+    possible: Yes
 -
     name: 'Recipe for Disaster: Freeing the Mountain Dwarf'
     members: Yes
@@ -1154,7 +1154,7 @@
     members: Yes
     difficulty: Grandmaster
     QP: '3'
-    possible: No
+    possible: Yes
 -
     name: 'River of Blood'
     members: Yes
@@ -1485,13 +1485,13 @@
     members: Yes
     difficulty: Grandmaster
     QP: '5'
-    possible: No
+    possible: Yes
 -
     name: 'Witch''s House'
     members: No
     difficulty: Intermediate
     QP: '4'
-    possible: No
+    possible: Yes
 -
     name: 'Within the Light'
     members: Yes
@@ -1737,7 +1737,7 @@
     members: Yes
     difficulty: Grandmaster
     QP: '0'
-    possible: No
+    possible: Yes
 -
     name: 'Lair of Tarn Razorlor (miniquest)'
     members: Yes
@@ -1761,7 +1761,7 @@
     members: Yes
     difficulty: Grandmaster
     QP: '0'
-    possible: No
+    possible: Yes
 -
     name: 'Nadir (saga)'
     members: Yes
@@ -1791,7 +1791,7 @@
     members: Yes
     difficulty: Grandmaster
     QP: '0'
-    possible: No
+    possible: Yes
 -
     name: 'Sheep Shearer (miniquest)'
     members: No
