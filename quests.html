@@ -24,6 +24,8 @@ title: Quests
               {% for quest in site.data.quests %}
 	        <!-- {{ quest }} -->
 	        <!-- {{ quest | first }} -->
+	        {% assign data = quest | last %}
+		<!-- data: {{ data }} -->
                 <tr class="gradeA">
                   <td><a href="quest?id={{ quest | first }}">{{ quest | inspect }}</a></td>
                   <td class="center">
