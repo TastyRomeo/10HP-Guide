@@ -268,6 +268,12 @@
     date: '2017-06-05'
     possible: Yes
 -
+    name: 'Cultist''s Journey'
+    members: Yes
+    QP: '0'
+    date: '2023-01-16'
+    possible: Yes
+-
     name: 'Curse of Arrav, The'
     members: Yes
     QP: '1'
@@ -720,7 +726,7 @@
     name: 'From Tiny Acorns (miniquest)'
     members: Yes
     QP: '0'
-    date: '2010-04-28
+    date: '2010-04-28'
     possible: Yes
 -
     name: 'Fur ''n Seek'
