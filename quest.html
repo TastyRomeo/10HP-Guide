@@ -7,13 +7,12 @@ title: Quests
   let params = new URLSearchParams( window.location.search );
   if ( params.has( "id" ) ) {
     $.ajax({
-	    url: "quests/"+params.get( "id" ),
-	    type: 'get',
-	    error: function(){alert("404")},
-	    success: function(){alert("GET!")}
+      url: "quests/"+params.get( "id" ),
+      type: 'get',
+      error: function() { $( "#questGuide" ).html( "Under construction" ); },
     }).done( function( data ) {
       $( "#questGuide" ).html( data );
-    };
+    });
   }
 </script>
 <br /><br />
