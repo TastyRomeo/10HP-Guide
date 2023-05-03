@@ -29,27 +29,19 @@
       <tbody>
         <tr>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.LP }}
+            {{ include.monster.LP | default: '?' }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.maxHit }}
+            {{ include.monster.maxHit | default: '?' }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.combatXP }}
+            {{ include.monster.combatXP | default: '?' }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.HPXP }}
+            {{ include.monster.HPXP | default: '?' }}
           </td>
           <td style="width:20%;text-align:center;">
-            {% unless include.monster.taggable == nil %}
-              {% if include.monster.taggable %}
-                Yes
-              {% else %}
-                No
-              {% endif %}
-            {% else %}
-              Yes
-            {% endunless %}
+            {{ include.monster.taggable | default: '?' }}
           </td>
         </tr>
       </tbody>
