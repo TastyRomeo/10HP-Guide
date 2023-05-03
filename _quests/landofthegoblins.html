@@ -2,8 +2,8 @@
 permalink: "/quests/landofthegoblins"
 layout: null
 ---
-{% include quest.html quest=site.data.questData.landofthegoblins %}
-<hr style="border-top: 2px solid #09192A">
+{% include quest.html quest=site.data.quests.landofthegoblins %}
+<hr>
 <h4>Goblin Priests</h4>
 You have to defeat 5 increasingly stronger goblin priests. You can kill them normally, they give no Combat XP. Ignore the skoblins spawned by Strongbones, as they do give Combat XP when killed.
 Using protect from summoning will prevent them from being spawned, or if already spawned, will nullify their damage.
@@ -20,7 +20,6 @@ Using protect from summoning will prevent them from being spawned, or if already
   </div>
 </div>
 <div class="row">
-
   <div class="col-md-4 col-sm-4">
     {% include monster.html monster=site.data.monsters.redeyes %}
   </div>
