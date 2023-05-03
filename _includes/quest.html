@@ -16,9 +16,9 @@
           {% for req in include.quest.questReq %}
             <li><a href="quest?id={{ req }}">
               {% for quest in site.data.quests %}
-	              {% assign qid = quest | first %}
-	              {% assign data = quest | last %}
-                {% if data.name==req %}
+                {% assign qid = quest | first %}
+                {% assign data = quest | last %}
+                {% if data.name == req %}
                   {{ data.name }}
                 {% endif %}
               {% endfor %}
