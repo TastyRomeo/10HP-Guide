@@ -16,6 +16,7 @@ title: Quests
                 <th>Name</th>
                 <th>Members</th>
                 <th>QP</th>
+	        <th>Release date</th>
                 <th>Possible</th>
               </tr>
             </thead>
@@ -31,6 +32,7 @@ title: Quests
                     {% endif %}
                   </td>
                   <td class="center">{{ quest.QP }}</td>
+	          <td class="center">{{ quest.date }}</td>
                   <td class="center">
 		    {% if quest.possible=='Block' %}
 		      <span class="mdi mdi-cancel" style="color:#8B4000"></span> Block
