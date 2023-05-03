@@ -321,517 +321,536 @@
 -
     name: 'Devious Minds'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2005-12-19'
     possible: Yes
 -
     name: 'Diamond in the Rough'
     members: Yes
-    difficulty: Novice
     QP: '1'
     possible: Yes
-    id: diamondintherough
+    date: '2012-09-26'
+    id: 'diamondintherough'
 -
     name: 'Dig Site, The'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
     possible: Yes
-    id: thedigsite
+    date: '2003-07-09'
+    id: 'thedigsite'
 -
     name: 'Dimension of Disaster'
     members: Yes
-    difficulty: Special
     QP: '10'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dimension of Disaster: Coin of the Realm'
     members: Yes
-    difficulty: Special
     QP: '1'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dimension of Disaster: Curse of Arrav'
     members: Yes
     difficulty: Master
     QP: '1'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dimension of Disaster: Defender of Varrock'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dimension of Disaster: Demon Slayer'
     members: Yes
-    difficulty: Intermediate
     QP: '3'
     possible: Yes
 -
     name: 'Dimension of Disaster: Shield of Arrav'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2015-03-23'
     possible: Yes
 -
     name: 'Dishonour among Thieves'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2015-02-23'
     possible: Yes
 -
     name: 'Do No Evil'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2010-12-01'
     possible: Yes
 -
     name: 'Dragon Slayer'
     members: No
-    difficulty: Experienced
     QP: '2'
     possible: Yes
+    date: '2001-09-23'
     id: 'dragonslayer'
 -
     name: 'Dream Mentor'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2007-05-15'
     possible: Block
 -
     name: 'Druidic Ritual'
     members: No
-    difficulty: Novice
     QP: '4'
+    date: '2012-01-31'
     possible: Yes
 -
     name: 'Dwarf Cannon'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2003-05-27'
     possible: Yes
 -
     name: 'Eadgar''s Ruse'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2004-10-05'
     possible: Yes
 -
     name: 'Eagles'' Peak'
     members: Yes
-    difficulty: Novice
     QP: '2'
+    date: '2006-11-28'
     possible: Yes
 -
     name: 'Elder Kiln, The'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2012-02-14'
     possible: Yes
 -
     name: 'Elemental Workshop I'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2004-06-02'
     possible: Yes
 -
     name: 'Elemental Workshop II'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2006-10-02'
     possible: Yes
 -
     name: 'Elemental Workshop III'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2010-05-25'
     possible: Yes
 -
     name: 'Elemental Workshop IV'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2011-03-01'
     possible: Yes
 -
     name: 'Enakhra''s Lament'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2006-01-23'
     possible: Yes
 -
     name: 'Enlightened Journey'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2006-11-06'
     possible: Yes
 -
     name: 'Ernest the Chicken'
     members: No
-    difficulty: Novice
     QP: '4'
     possible: Yes
+    date: '2001-01-21'
     id: 'ernestthechicken'
 -
     name: 'Evil Dave''s Big Day Out'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2017-11-27'
+    possible: Yes
+-
+    name: 'Extinction'
+    members: Yes
+    QP: '4'
+    date: '2022-04-04'
+    possible: Yes
+-
+    name: 'Eye of Het I'
+    members: Yes
+    QP: '0'
+    date: '2022-01-04'
+    possible: Yes
+-
+    name: 'Eye of Het II'
+    members: Yes
+    difficulty: Novice
+    QP: '0'
+    date: '2022-01-10'
     possible: Yes
 -
     name: 'Eyes of Glouphrie, The'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2006-08-15'
     possible: Yes
 -
     name: 'Fairy Tale I - Growing Pains, A'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2006-02-27'
     possible: Yes
 -
     name: 'Fairy Tale II - Cure a Queen, A'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2006-07-11'
     possible: Yes
 -
     name: 'Fairy Tale III - Battle at Ork''s Rift, A'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2010-05-13'
     possible: Yes
 -
     name: 'Family Crest'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2002-04-09'
     possible: Yes
 -
     name: 'Fate of the Gods'
     members: Yes
-    difficulty: Grandmaster
     QP: '2'
+    date: '2014-03-24'
     possible: Yes
 -
     name: 'Feud, The'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2005-04-04'
     possible: Yes
 -
     name: 'Fight Arena'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2002-07-23'
     possible: Yes
 -
     name: 'Firemaker''s Curse, The'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2012-01-11'
     possible: No
 -
     name: 'Fishing Contest'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2002-05-28'
     possible: Yes
     id: 'fishingcontest'
 -
     name: 'Forgettable Tale of a Drunken Dwarf'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-07-26'
     possible: Yes
 -
     name: 'Forgiveness of a Chaos Dwarf'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2009-09-09'
     possible: Yes
 -
     name: 'Fremennik Isles, The'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2007-02-06'
     possible: Yes
 -
     name: 'Fremennik Trials, The'
     members: Yes
-    difficulty: Intermediate
     QP: '3'
+    date: '2004-11-02'
     possible: Yes
 -
     name: 'Fur ''n Seek'
     members: Yes
-    difficulty: Novice
     QP: '2'
+    date: '2009-08-10'
     possible: Yes
 -
     name: 'Garden of Tranquillity'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-08-30'
     possible: Yes
 -
     name: 'Gertrude''s Cat'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2003-07-28'
     possible: Yes
     id: 'gertrudescat'
 -
     name: 'Ghosts Ahoy'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-02-15'
     possible: Yes
 -
     name: 'Giant Dwarf, The'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-05-31'
     possible: Yes
-    id: thegiantdwarf
+    id: 'thegiantdwarf'
 -
     name: 'Glorious Memories'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2009-04-01'
     possible: Yes
 -
     name: 'Goblin Diplomacy'
     members: No
-    difficulty: Novice
     QP: '5'
+    date: '2001-05-08'
     possible: Yes
 -
     name: 'Golem, The'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2005-04-11'
     possible: Yes
 -
     name: 'Gower Quest'
     members: No
-    difficulty: Experienced
     QP: '1'
+    date: '2016-06-20'
     possible: Yes
 -
     name: 'Grand Tree, The'
     members: Yes
-    difficulty: Experienced
     QP: '5'
+    date: '2002-12-12'
     possible: Yes
 -
     name: 'Great Brain Robbery, The'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2007-03-06'
     possible: Yes
 -
     name: 'Grim Tales'
     members: Yes
-    difficulty: Master
     QP: '1'
+    date: '2007-06-04'
     possible: Block
 -
     name: 'Gunnar''s Ground'
     members: No
-    difficulty: Novice
     QP: '5'
+    date: '2010-09-21'
     possible: Yes
 -
     name: 'Hand in the Sand, The'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2006-01-10'
     possible: Yes
 -
     name: 'Haunted Mine'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2004-12-21'
     possible: Yes
 -
     name: 'Hazeel Cult'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2002-08-15'
     possible: Yes
 -
     name: 'Heart of Stone'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2014-11-24'
     possible: Yes
 -
-    name: Heartstealer
+    name: 'Heartstealer'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2021-02-08'
     possible: Yes
 -
     name: 'Hero''s Welcome'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2015-06-29'
     possible: Yes
 -
     name: 'Heroes'' Quest'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2002-02-27'
     possible: Yes
 -
     name: 'Holy Grail'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2002-07-23'
     possible: Yes
 -
     name: 'Horror from the Deep'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2004-11-17'
     possible: Yes
 -
     name: 'Hunt for Red Raktuber'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2009-06-02'
     possible: Yes
 -
     name: 'Icthlarin''s Little Helper'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
     possible: Yes
+    date: '2005-04-26'
     id: 'icthlarinslittlehelper'
 -
     name: 'Imp Catcher'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2017-03-27'
     possible: Yes
 -
     name: 'Impressing the Locals'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2016-07-11'
     possible: Yes
 -
     name: 'In Aid of the Myreque'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2006-03-22'
     possible: Yes
 -
     name: 'In Pyre Need'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2009-01-06'
     possible: Yes
 -
     name: 'In Search of the Myreque'
     members: Yes
-    difficulty: Intermediate
     QP: '2'
+    date: '2005-01-10'
     possible: Yes
 -
     name: 'Jack of Spades, The'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2017-06-05'
     possible: Yes
 -
     name: 'Jungle Potion'
     members: Yes
-    difficulty: Novice
     QP: '1'
+    date: '2002-10-23'
     possible: Yes
 -
     name: 'Kennith''s Concerns'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2008-03-11'
     possible: Yes
 -
     name: 'Kindred Spirits'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2016-05-23'
     possible: Yes
 -
     name: 'King of the Dwarves'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2011-01-04'
     possible: Yes
 -
     name: 'King''s Ransom'
     members: Yes
-    difficulty: Experienced
     QP: '1'
+    date: '2007-07-24'
     possible: Yes
 -
     name: 'Knight''s Sword, The'
     members: No
-    difficulty: Intermediate
     QP: '1'
+    date: '2001-04-06'
     possible: Yes
 -
     name: 'Land of the Goblins'
     members: Yes
-    difficulty: Experienced
     QP: '1'
     possible: Yes
-    id: landofthegoblins
+    date: '2007-11-12'
+    id: 'landofthegoblins'
 -
     name: 'Legacy of Seergaze'
     members: Yes
-    difficulty: Experienced
     QP: '2'
+    date: '2008-04-22'
     possible: Yes
 -
     name: 'Legends'' Quest'
     members: Yes
-    difficulty: Master
     QP: '4'
+    date: '2003-08-20'
     possible: Yes
 -
     name: 'Let Them Eat Pie'
     members: No
-    difficulty: Novice
     QP: '1'
+    date: '2012-01-31'
     possible: Yes
 -
     name: 'Light Within, The'
     members: Yes
-    difficulty: Grandmaster
     QP: '2'
+    date: '2015-08-24'
     possible: Yes
 -
     name: 'Lord of Vampyrium, The'
     members: Yes
-    difficulty: Master
     QP: '2'
+    date: '2015-09-14'
     possible: No
 -
     name: 'Lost City'
     members: Yes
-    difficulty: Experienced
     QP: '3'
+    date: '2002-02-27'
     possible: Yes
 -
     name: 'Lost Tribe, The'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
+    date: '2005-05-31'
     possible: Yes
-    id: thelosttribe
+    id: 'thelosttribe'
 -
     name: 'Love Story'
     members: Yes
@@ -1655,18 +1674,6 @@
     name: 'Eye for an Eye (miniquest)'
     members: Yes
     difficulty: Grandmaster
-    QP: '0'
-    possible: Yes
--
-    name: 'Eye of Het I (miniquest)'
-    members: Yes
-    difficulty: Novice
-    QP: '0'
-    possible: Yes
--
-    name: 'Eye of Het II (miniquest)'
-    members: Yes
-    difficulty: Novice
     QP: '0'
     possible: Yes
 -
