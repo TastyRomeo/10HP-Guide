@@ -1018,13 +1018,19 @@
     members: Yes
     QP: '1'
     date: '2007-07-24'
-    possible: 'Block'
+    possible: Yes
 -
     name: 'Knight''s Sword, The'
     members: No
     QP: '1'
     date: '2001-04-06'
     possible: Yes
+-
+    name: 'Knight Waves training ground (miniquest)
+    members: Yes
+    QP: '0'
+    date: '2007-07-24'
+    possible: 'Block'
 -
     name: 'Koschei''s Troubles (miniquest)'
     members: Yes
