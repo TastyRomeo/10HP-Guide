@@ -41,7 +41,13 @@
             {{ include.monster.HPXP | default: '?' }}
           </td>
           <td style="width:20%;text-align:center;">
-            {{ include.monster.taggable | default: '?' }}
+            {% if include.monster.taggable == Yes %}
+              Yes
+            {% elsif include.monster.taggable == No %}
+              No
+            {% else %}
+              ?
+            {% endif %}
           </td>
         </tr>
       </tbody>
