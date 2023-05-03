@@ -1,14 +1,12 @@
 -
     name: 'All Fired Up'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
     possible: Yes
     id: allfiredup
 -
     name: 'Animal Magnetism'
     members: Yes
-    difficulty: Intermediate
     QP: '1'
     possible: Yes
     id: animalmagnetism
@@ -1491,7 +1489,7 @@
     members: No
     difficulty: Intermediate
     QP: '4'
-    possible: Yes
+    possible: Block
 -
     name: 'Within the Light'
     members: Yes
