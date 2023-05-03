@@ -1,0 +1,15 @@
+---
+permalink: "/quests/shieldofarrav"
+layout: null
+---
+{% include quest.html quest=site.data.quests.shieldofarrav %}
+<hr>
+<h4>Johnny the Beard</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    Since this quest was updated to no longer require a partner, the fight with Johnny the Beard is no longer avoidable. Recoil and poison should make quick work of him, though in the former case you may want to lower your defence.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.johnnythebeard %}
+  </div>
+</div>
