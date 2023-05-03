@@ -543,3 +543,16 @@ rat:
     poison: false
     dart: false
   taggable: true
+  
+gardener:
+  name: 'Gardener'
+  level: 4
+  LP: 150
+  maxHit: 12
+  combatXP: 25.5
+  HPXP: 8.4
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
