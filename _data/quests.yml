@@ -615,6 +615,11 @@ dragonslayer:
     QP: '2'
     possible: Yes
     date: '2001-09-23'
+    otherReq:
+      - '33 Quest Points'
+    lampsRew:
+      str: '18,650'
+      def: '18,650'
 
 dreammentor:
     name: 'Dream Mentor'
@@ -713,7 +718,6 @@ ernestthechicken:
     QP: '4'
     possible: Yes
     date: '2001-01-21'
-    id: 'ernestthechicken'
 
 evilsdavebigdayout:
     name: 'Evil Dave''s Big Day Out'
@@ -833,7 +837,6 @@ fishingcontest:
     QP: '1'
     date: '2002-05-28'
     possible: Yes
-    id: 'fishingcontest'
 
 flagfall:
     name: 'Flag Fall (miniquest)'
@@ -932,6 +935,10 @@ thegiantdwarf:
     QP: '2'
     date: '2005-05-31'
     possible: Yes
+    skillReq:
+      mgc: 33
+    skillRew:
+      mgc: '1,500'
 
 gloriousmemories:
     name: 'Glorious Memories'
@@ -1114,6 +1121,9 @@ icthlarinslittlehelper:
     QP: '2'
     possible: Yes
     date: '2005-04-26'
+    questReq:
+      - diamondintherough
+      - gertrudescat
 
 impcatcher:
     name: 'Imp Catcher'
@@ -1240,7 +1250,11 @@ landofthegoblins:
     QP: '1'
     possible: Yes
     date: '2007-11-12'
-    id: 'landofthegoblins'
+    questReq:
+      - anothersliceofham
+      - fishingcontest
+    skillReq:
+      pry: 30
 
 legacyofseergaze:
     name: 'Legacy of Seergaze'
@@ -1304,6 +1318,11 @@ thelosttribe:
     QP: '1'
     date: '2005-05-31'
     possible: Yes
+    questReq:
+      - goblindiplomacy
+    skillRew:
+      str: '3,000'
+      pry: '2,000'
 
 lovestory:
     name: 'Love Story'
@@ -1633,7 +1652,8 @@ priestinperil:
     QP: '1'
     possible: Yes
     date: '2004-06-29'
-    id: 'priestinperil'
+    lampsRew:
+      pry: '1,406'
 
 theprisonerofglouphrie:
     name: 'Prisoner of Glouphrie, The'
@@ -1788,6 +1808,10 @@ therestlessghost:
     QP: '1'
     possible: Yes
     date: '2001-01-04'
+    lampsRew:
+      pry: '125'
+    otherRew:
+      '5 ancient bones'
 
 ritualofthemahjarrat:
     name: 'Ritual of the Mahjarrat'
@@ -2012,6 +2036,9 @@ stolenhearts:
     QP: '3'
     date: '2012-09-26'
     possible: Yes
+    lampsRew:
+      con: '250'
+      cmb: '250'
 
 succession:
     name: 'Succession'
