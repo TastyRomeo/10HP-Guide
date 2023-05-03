@@ -186,7 +186,7 @@
    name: 'Challenging Chat (miniquest)'
    members: Yes
    QP: '0'
-   date: '2017-04-18'
+   date: '2013-07-03'
    possible: Yes
 -
     name: 'Chef''s Assistant'
@@ -277,7 +277,7 @@
     name: 'Cultist''s Journey, A (miniquest)'
     members: Yes
     QP: '0'
-    date: '2023-01-16'
+    date: '2021-08-23'
     possible: Yes
 -
     name: 'Curse of Arrav, The'
@@ -1122,7 +1122,7 @@
     name: 'Mage Arena (miniquest)'
     members: Yes
     QP: '0'
-    date: '2023-01-16'
+    date: '2003-09-22'
     possible: Yes
 -
     name: 'Mahjarrat Memories (miniquest)'
@@ -1170,7 +1170,7 @@
     name: 'Mogre (miniquest)'
     members: Yes
     QP: '0'
-    date: '2017-04-18'
+    date: '2005-10-24'
     possible: Yes
 -
     name: 'Monk''s Friend'
@@ -1971,7 +1971,7 @@
     name: 'Witch''s House'
     members: No
     QP: '4'
-    date: '2022-02-27'
+    date: '2002-02-27'
     possible: 'Block'
 -
     name: 'Witch''s Potion (miniquest)'
