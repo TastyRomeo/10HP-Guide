@@ -1079,6 +1079,20 @@ heroesquest:
     QP: '1'
     date: '2002-02-27'
     possible: Yes
+    questReq:
+      - shieldofarrav
+      - dragonslayer
+      - druidicritual
+      - lostcity
+      - merlinscrystal
+    otherReq:
+      - '56 Quest Points'
+    lampsRew:
+      att: '3,075'
+      str: '3,075'
+      def: '3,075'
+      con: '3,075'
+      rng: '2,075'
 
 holygrail:
     name: 'Holy Grail'
@@ -1811,7 +1825,7 @@ therestlessghost:
     lampsRew:
       pry: '125'
     otherRew:
-      '5 ancient bones'
+      - '5 ancient bones'
 
 ritualofthemahjarrat:
     name: 'Ritual of the Mahjarrat'
