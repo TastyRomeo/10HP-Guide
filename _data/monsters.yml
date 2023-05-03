@@ -327,4 +327,15 @@ scarabmage:
   combatXP: 201.3
   HPXP: 66.4
   
-  
+johnnythebeard:
+  name: 'Johnny the Beard'
+  level: 1
+  LP: 100
+  maxHit: 4
+  combatXP: 37.3
+  HPXP: 12.3
+  immunity:
+    recoil: No
+    poison: No
+    dart: No
+  taggable: Yes
