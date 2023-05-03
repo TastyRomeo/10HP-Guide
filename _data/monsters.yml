@@ -137,9 +137,9 @@ hamguard:
   HPXP: '?'
   immunity:
     recoil: false
-    poison: true
-    dart: '?'
-  taggable: '?'
+    poison: false
+    dart: false
+  taggable: true
   
 sigmunddttd:
   name: 'Sigmund'
