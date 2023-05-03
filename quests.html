@@ -16,13 +16,14 @@ title: Quests
                 <th>Name</th>
                 <th>Members</th>
                 <th>QP</th>
-	        <th>Release date</th>
+                <th>Release date</th>
                 <th>Possible</th>
               </tr>
             </thead>
             <tbody>
               {% for quest in site.data.quests %}
 	        <!-- {{ quest }} -->
+	        <!-- {{ quest | first }} -->
                 <tr class="gradeA">
                   <td><a href="quest?id=">{{ quest[name] }}</a></td>
                   <td class="center">
