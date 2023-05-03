@@ -18,6 +18,7 @@
               {% for quest in site.data.quests %}
                 {% assign qid = quest | first %}
                 {% assign data = quest | last %}
+                <!-- Comparison: {{ req }} vs {{ data.name }} -->
                 {% if data.name == req %}
                   {{ data.name }}
                 {% endif %}
