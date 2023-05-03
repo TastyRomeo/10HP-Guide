@@ -183,6 +183,12 @@
     date: '2008-02-13'
     possible: Yes
 -
+   name: 'Challenging Chat (miniquest)'
+   members: Yes
+   QP: '0'
+   date: '2017-04-18'
+   possible: Yes
+-
     name: 'Chef''s Assistant'
     members: No
     QP: '1'
@@ -268,7 +274,7 @@
     date: '2017-06-05'
     possible: Yes
 -
-    name: 'Cultist''s Journey'
+    name: 'Cultist''s Journey, A (miniquest)'
     members: Yes
     QP: '0'
     date: '2023-01-16'
@@ -735,6 +741,12 @@
     date: '2009-08-10'
     possible: Yes
 -
+    name: 'Fur ''n Seek/Wish list (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2009-08-10'
+    possible: Yes
+-
     name: 'Garden of Tranquillity'
     members: Yes
     QP: '2'
@@ -783,6 +795,12 @@
     members: No
     QP: '5'
     date: '2001-05-08'
+    possible: Yes
+-
+    name: 'God Emissaries (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '201-04-18'
     possible: Yes
 -
     name: 'Golem, The'
@@ -1094,11 +1112,17 @@
     date: '2006-07-24'
     possible: Yes
 -
+    name: 'Mage Arena (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2023-01-16'
+    possible: Yes
+-
     name: 'Mahjarrat Memories (miniquest)'
     members: Yes
     QP: '0'
     date: '2014-03-17'
-    possible: Yes
+    possible: 'Block'
 -
     name: 'Making History'
     members: Yes
@@ -1134,6 +1158,12 @@
     members: No
     QP: '2'
     date: '2013-10-15'
+    possible: Yes
+-
+    name: 'Mogre (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2017-04-18'
     possible: Yes
 -
     name: 'Monk''s Friend'
@@ -1377,6 +1407,12 @@
     date: '2006-04-10'
     possible: Yes
 -
+    name: 'Rag and Bone Man/Wish list (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2006-04-10'
+    possible: Yes
+-
     name: 'Raksha, the Shadow Colossus'
     members: Yes
     QP: '0'
@@ -1498,6 +1534,12 @@
     date: '2008-06-11'
     possible: Yes
 -
+    name: 'Rogue Trader (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2005-04-04'
+    possible: Yes
+-
     name: 'Roving Elves'
     members: Yes
     QP: '1'
@@ -1598,6 +1640,12 @@
     members: Yes
     QP: '0'
     date: '2020-09-14'
+    possible: Yes
+-
+    name: 'Skeletal Wishes (miniquest)'
+    members: Yes
+    QP: '0'
+    date: '2009-08-10'
     possible: Yes
 -
     name: 'Sliske''s Endgame'
