@@ -133,13 +133,13 @@ hamguard:
   level: 36
   LP: '1,300'
   maxHit: 104
-  combatXP: 56.1
-  HPXP: 18.5
+  combatXP: '?'
+  HPXP: '?'
   immunity:
     recoil: false
-    poison: false
-    dart: false
-  taggable: true
+    poison: true
+    dart: ?
+  taggable: ?
   
 sigmunddttd:
   name: 'Sigmund'
