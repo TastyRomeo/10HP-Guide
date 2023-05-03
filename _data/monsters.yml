@@ -6,9 +6,10 @@ wormbrain:
   combatXP: 24.9
   HPXP: 8.3
   immunity:
-    recoil: No
-    poison: No
-    dart: No
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
     
 zombierat:
   name: 'Zombie Rat'
@@ -17,6 +18,11 @@ zombierat:
   maxHit: 8
   combatXP: 24.9
   HPXP: 8.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 ghostmelzar:
   name: 'Ghost'
@@ -25,8 +31,11 @@ ghostmelzar:
   maxHit: 36
   combatXP: 30.9
   HPXP: 10.1
-  immunity: 
-    poison: Yes
+  immunity:
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 skeletonmelzar:
   name: 'Skeleton'
@@ -35,6 +44,11 @@ skeletonmelzar:
   maxHit: 36
   combatXP: 30.9
   HPXP: 10.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 zombiemelzar:
   name: 'Zombie'
@@ -43,6 +57,11 @@ zombiemelzar:
   maxHit: 36
   combatXP: 30.9
   HPXP: 10.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 melzarthemad:
   name: 'Melzar the Mad'
@@ -52,7 +71,10 @@ melzarthemad:
   combatXP: 51.5
   HPXP: 20.2
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 lesserdemonmelzar:
   name: "Lesser Demon"
@@ -61,6 +83,11 @@ lesserdemonmelzar:
   maxHit: 160
   combatXP: 103.8
   HPXP: 34.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 elvarg:
   name: 'Elvarg'
@@ -69,6 +96,11 @@ elvarg:
   maxHit: '1,500'
   combatXP: 0
   HPXP: 0
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 cerberus:
   name: 'Cerberus'
@@ -78,8 +110,10 @@ cerberus:
   combatXP: 51.9
   HPXP: 17.1
   immunity:
-    poison: Yes
-  taggable: No
+    recoil: false
+    poison: true
+    dart: false
+  taggable: false
   
 monkofzamorakpaterdomus:
   name: 'Monk of Zamorak'
@@ -89,8 +123,10 @@ monkofzamorakpaterdomus:
   combatXP: 39.6
   HPXP: 13
   immunity:
-    poison: Yes
-  taggable: No
+    recoil: false
+    poison: true
+    dart: false
+  taggable: false
   
 hamguard:
   name: 'Guard'
@@ -99,6 +135,11 @@ hamguard:
   maxHit: 104
   combatXP: 56.1
   HPXP: 18.5
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 sigmunddttd:
   name: 'Sigmund'
@@ -107,6 +148,11 @@ sigmunddttd:
   maxHit: 120
   combatXP: 0
   HPXP: 0
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 hammage:
   name: 'H.A.M. Mage'
@@ -115,6 +161,11 @@ hammage:
   maxHit: 144
   combatXP: 66.6
   HPXP: 21.9
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 hamarcher:
   name: 'H.A.M. Archer'
@@ -123,6 +174,11 @@ hamarcher:
   maxHit: 96
   combatXP: 66.6
   HPXP: 21.9
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 sigmundasoh:
   name: 'Sigmund'
@@ -131,6 +187,11 @@ sigmundasoh:
   maxHit: 240
   combatXP: 0
   HPXP: 0
+  immunity:
+    recoil: true
+    poison: true
+    dart: true
+  taggable: true
   
 snothead:
   name: 'Snothead'
@@ -140,7 +201,10 @@ snothead:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 snailfeet:
   name: 'Snailfeet'
@@ -150,7 +214,10 @@ snailfeet:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 mosschin:
   name: 'Mosschin'
@@ -160,7 +227,10 @@ mosschin:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 redeyes:
   name: 'Redeyes'
@@ -170,7 +240,10 @@ redeyes:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 strongbones:
   name: 'Strongbones'
@@ -180,7 +253,10 @@ strongbones:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 skoblin:
   name: 'Skoblin'
@@ -189,6 +265,11 @@ skoblin:
   maxHit: 40
   combatXP: 32.1
   HPXP: 10.5
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 skeletondraynormanor:
   name: 'Skeleton'
@@ -197,6 +278,11 @@ skeletondraynormanor:
   maxHit: 32
   combatXP: 29.7
   HPXP: 9.8
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
 
 skeletonwarlock:
   name: 'Skeleton Warlock'
@@ -205,6 +291,11 @@ skeletonwarlock:
   maxHit: 20
   combatXP: 40
   HPXP: 13.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
 
 mercenaryjoe: 
   name: 'Mercenary Joe'
@@ -214,7 +305,10 @@ mercenaryjoe:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
   
 skullsmercenary: 
   name: 'Skulls Mercenary'
@@ -223,6 +317,11 @@ skullsmercenary:
   maxHit: 14
   combatXP: 0
   HPXP: 0
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
 
 banditditr:
   name: 'Bandit'
@@ -231,6 +330,11 @@ banditditr:
   maxHit: 72
   combatXP: 0
   HPXP: 0
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 banditking:
   name: 'Bandit king'
@@ -240,7 +344,10 @@ banditking:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
   
 apep:
   name: 'Apep'
@@ -250,7 +357,10 @@ apep:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
   
 heru:
   name: 'Apep'
@@ -260,7 +370,10 @@ heru:
   combatXP: 0
   HPXP: 0
   immunity:
-    poison: Yes
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
     
 apmeken:
   name: 'Apmeken'
@@ -269,6 +382,11 @@ apmeken:
   maxHit: 384
   combatXP: 103.8
   HPXP: 34.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 crondis:
   name: 'Crondis'
@@ -277,6 +395,11 @@ crondis:
   maxHit: 394
   combatXP: 108.9
   HPXP: 35.9
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 het:
   name: 'Het'
@@ -285,6 +408,11 @@ het:
   maxHit: 160
   combatXP: 259.5
   HPXP: 85.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 scabaras:
   name: 'Scabaras'
@@ -293,6 +421,11 @@ scabaras:
   maxHit: 403
   combatXP: 114.6
   HPXP: 37.8
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 possessedpriest:
   name: 'Possessed Priest'
@@ -301,6 +434,11 @@ possessedpriest:
   maxHit: 160
   combatXP: 103.8
   HPXP: 34.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 giantscarab:
   name: 'Giant Scarab'
@@ -309,7 +447,11 @@ giantscarab:
   maxHit: 372
   combatXP: 0
   HPXP: 0
-  taggable: No
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: false
   
 locustrider:
   name: 'Locust Rider'
@@ -318,6 +460,11 @@ locustrider:
   maxHit: 810
   combatXP: 201.3
   HPXP: 66.4
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 scarabmage:
   name: 'Scarab Mage'
@@ -326,6 +473,11 @@ scarabmage:
   maxHit: 810
   combatXP: 201.3
   HPXP: 66.4
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
   
 johnnythebeard:
   name: 'Johnny the Beard'
@@ -335,7 +487,7 @@ johnnythebeard:
   combatXP: 37.3
   HPXP: 12.3
   immunity:
-    recoil: No
-    poison: No
-    dart: No
-  taggable: Yes
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
