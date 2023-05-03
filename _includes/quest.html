@@ -14,7 +14,7 @@
         {% if include.quest.questReq %}
           <ul>
           {% for req in include.quest.questReq %}
-            <li><a href="quest?id={{ req }}">{{ req.name }}</a></li>
+            <li><a href="quest?id={{ req }}">{{ site.data.quests | where_exp: req }}</a></li>
           {% endfor %}
           </ul>
         {% else %}
