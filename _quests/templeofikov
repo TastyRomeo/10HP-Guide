@@ -1,0 +1,18 @@
+---
+permalink: "/quests/templeofikov"
+layout: null
+---
+{% include quest.html quest=site.data.quests.templeofikov %}
+<hr>
+<h4>Fire Warrior of Lesarkus</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You can use recoil and poison against the Fire Warrior of Lesarkus, but you have to be wielding Ice Arrows to be able to damage him. Make sure to <b>not</b> wield a bow, to prevent accidentally attacking him normally.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.firewarrioroflesarkus %}
+  </div>
+</div>
+<hr>
+<h4>Guardians of Armadyl & Lucien</h4>
+To avoid combat in the remainder of the quest, side with <b>Lucien</b>. To steal the Staff of Armadyl, there cannot be any Guardians of Armadyl in the same room as the staff. Simply let someone else kill them for you.
