@@ -1,0 +1,15 @@
+---
+permalink: "/quests/biohazard"
+layout: null
+---
+{% include quest.html quest=site.data.quests.biohazard %}
+<hr>
+<h4>Mourner</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You will have to kill a Mourner for a key drop. Recoil should do the trick.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.mourner %}
+  </div>
+</div>
