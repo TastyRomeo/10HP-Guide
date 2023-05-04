@@ -556,3 +556,42 @@ gardener:
     poison: false
     dart: false
   taggable: true
+
+icequeen:
+  name: 'Ice Queen'
+  level: 77
+  LP: '5,500'
+  maxHit: 440
+  combatXP: 317.2
+  HPXP: 104.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+jailer:
+  name: 'Jailer'
+  level: 39
+  LP: '1,400'
+  maxHit: 168
+  combatXP: 61.5
+  HPXP: 20.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+entrananfirebird:
+  name: 'Entranan firebird'
+  level: 1
+  LP: '50'
+  maxHit: 4
+  combatXP: 24.9
+  HPXP: 8.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
