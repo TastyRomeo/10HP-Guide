@@ -634,3 +634,55 @@ thrantaxthemighty:
     poison: false
     dart: false
   taggable: true
+
+witchsexperiment1:
+  name: 'Witch''s experiment'
+  level: 16
+  LP: '2,000'
+  maxHit: 172
+  combatXP: 89.2
+  HPXP: 29.4
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+
+witchsexperiment2:
+  name: 'Witch''s experiment'
+  level: 23
+  LP: '4,000'
+  maxHit: 244
+  combatXP: 99
+  HPXP: 32.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+ 
+witchsexperiment3:
+  name: 'Witch''s experiment'
+  level: 37
+  LP: '6,000'
+  maxHit: 388
+  combatXP: 146.2
+  HPXP: 48.2
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+witchsexperiment4:
+  name: 'Witch''s experiment'
+  level: 49
+  LP: '8,000'
+  maxHit: 504
+  combatXP: 207.7
+  HPXP: 68.5
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
