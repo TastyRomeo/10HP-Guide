@@ -1,0 +1,29 @@
+---
+permalink: "/quests/fightarena"
+layout: null
+---
+{% include quest.html quest=site.data.quests.fightarena %}
+<hr>
+<h4>Saving Justin Servil</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    When running into the Arena, you will have to save Justin Servil from a Khazard ogre. Recoil and poison work fine.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.khazardogre %}
+  </div>
+</div>
+<hr>
+<h4>More battles</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    After talking to Hengrad in your cell, you will have to fight two enemies back-to-back: a Khazard Scorpion and Bouncer. Recoil and poison work for both.
+    Once Bouncer is dead, General Khazard will attack you, but you can simply run away.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.khazardscorpion %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.bouncer %}
+  </div>
+</div>
