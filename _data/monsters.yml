@@ -1,16 +1,3 @@
-wormbrain:
-  name: 'Wormbrain'
-  level: 1
-  LP: 50
-  maxHit: 4
-  combatXP: 24.9
-  HPXP: 8.3
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-    
 zombierat:
   name: 'Zombie Rat'
   level: 2
@@ -270,32 +257,6 @@ skoblin:
     poison: false
     dart: false
   taggable: true
-  
-skeletondraynormanor:
-  name: 'Skeleton'
-  level: 11
-  LP: 400
-  maxHit: 32
-  combatXP: 29.7
-  HPXP: 9.8
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-
-skeletonwarlock:
-  name: 'Skeleton Warlock'
-  level: 7
-  LP: 500
-  maxHit: 20
-  combatXP: 40
-  HPXP: 13.2
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
 
 mercenaryjoe: 
   name: 'Mercenary Joe'
@@ -453,32 +414,6 @@ giantscarab:
     dart: false
   taggable: false
   
-locustrider:
-  name: 'Locust Rider'
-  level: 75
-  LP: '2,700'
-  maxHit: 810
-  combatXP: 201.3
-  HPXP: 66.4
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-  
-scarabmage:
-  name: 'Scarab Mage'
-  level: 75
-  LP: '2,700'
-  maxHit: 810
-  combatXP: 201.3
-  HPXP: 66.4
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-  
 johnnythebeard:
   name: 'Johnny the Beard'
   level: 1
@@ -505,32 +440,6 @@ countdraynor:
     dart: '?'
   taggable: true
 
-icewarrior:
-  name: 'Ice warrior'
-  level: 54
-  LP: '1,950'
-  maxHit: 156
-  combatXP: 99.3
-  HPXP: 32.7
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-  
-icegiant:
-  name: 'Ice giant'
-  level: 51
-  LP: '3,700'
-  maxHit: 185
-  combatXP: 136.3
-  HPXP: 44.9
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-
 rat:
   name: 'Rat'
   level: 1
@@ -538,19 +447,6 @@ rat:
   maxHit: 4
   combatXP: 24.9
   HPXP: 8.2
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-  
-gardener:
-  name: 'Gardener'
-  level: 4
-  LP: 150
-  maxHit: 12
-  combatXP: 25.5
-  HPXP: 8.4
   immunity:
     recoil: false
     poison: false
@@ -622,19 +518,6 @@ sirmordred:
     dart: false
   taggable: true
 
-thrantaxthemighty:
-  name: 'Thrantax the Mighty'
-  level: 70
-  LP: '5,000'
-  maxHit: 200
-  combatXP: 250.2
-  HPXP: 82.5
-  immunity:
-    recoil: false
-    poison: false
-    dart: false
-  taggable: true
-
 witchsexperiment1:
   name: 'Witch''s experiment'
   level: 16
@@ -694,6 +577,19 @@ chronozon:
   maxHit: 480
   combatXP: 404.1
   HPXP: 133.3
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+firewarrioroflesarkus:
+  name: 'Fire Warrior of Lesarkus'
+  level: 77
+  LP: '2,750'
+  maxHit: 220
+  combatXP: 211.5
+  HPXP: 69.7
   immunity:
     recoil: false
     poison: false
