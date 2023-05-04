@@ -14,17 +14,17 @@
         {% if include.quest.questReq %}
           <ul>
           {% for req in include.quest.questReq %}
-            <li><a href="quest?id={{ req }}">
+            <li>
               {% for quest in site.data.quests %}
                 {% assign qid = quest | first %}
                 {% assign data = quest | last %}
                 {% if qid == req %}
-                  {{ data.name }} 
-                  {% if data.possible == "Yes" or data.possible == Yes %}
+                  <a href="quest?id={{ req }}">{{ data.name }}</a>
+                  {% if data.possible == "Yes" or data.possible == true %}
                     <span class="mdi mdi-check" style="color:#5cb85c"></span>
-                  {% elsif data.possible == "Maybe" or data.possible == Maybe %}
+                  {% elsif data.possible == "Maybe" %}
                     <span class="mdi mdi-check" style="color:#182338"></span>
-                  {% elsif data.possible == "Block" or data.possible == Block %}
+                  {% elsif data.possible == "Block" %}
                     <span class="mdi mdi-cancel" style="color:#8B4000"></span>
                   {% else %}
                     <span class="mdi mdi-close" style="color:#F0433D"></span>
@@ -32,7 +32,7 @@
                   {% break %}
                 {% endif %}
               {% endfor %}
-            </a></li>
+            </li>
           {% endfor %}
           </ul>
         {% else %}
