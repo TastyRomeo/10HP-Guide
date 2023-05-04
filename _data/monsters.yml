@@ -635,3 +635,15 @@ bouncer:
     dart: false
   taggable: true
   
+blackknighttitan:
+  name: 'Black Knight Titan'
+  level: 28
+  LP: '2,500'
+  maxHit: 120
+  combatXP: 63.9
+  HPXP: 21
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
