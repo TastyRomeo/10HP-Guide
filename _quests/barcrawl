@@ -1,0 +1,7 @@
+---
+permalink: "/quests/barcrawl"
+layout: null
+---
+{% include quest.html quest=site.data.quests.barcrawl %}
+<hr>
+This miniquest does not involve any combat.
