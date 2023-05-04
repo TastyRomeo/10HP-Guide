@@ -1,0 +1,15 @@
+---
+permalink: "/quests/lostcity"
+layout: null
+---
+{% include quest.html quest=site.data.quests.lostcity %}
+<hr>
+<h4>Dramen tree spirit</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You will have to defeat the Dramen tree spirit. It <i>should</i> be possible to use TFK, although you can use recoil if necessary.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.dramentreespirit %}
+  </div>
+</div>
