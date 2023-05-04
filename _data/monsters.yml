@@ -645,5 +645,5 @@ blackknighttitan:
   immunity:
     recoil: false
     poison: false
-    dart: false
+    dart: '?'
   taggable: false
