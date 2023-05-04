@@ -1,0 +1,25 @@
+---
+permalink: "/quests/merlinscrystal"
+layout: null
+---
+{% include quest.html quest=site.data.quests.merlinscrystal %}
+<hr>
+<h4>Keep Le Faye</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    When infiltrating Keep le Faye, you will have to defeat Sir Mordred. When he is about to die, the fight will be interrupted. Thus, you can just fight him normally, but make sure to agree to spare his life when you get the dialogue option. Using poison is discouraged, since it may interrupt the dialogue.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.sirmordred %}
+  </div>
+</div>
+<hr>
+<h4>Summonning Thrantax</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    When summonning Thrantax the Mighty, make sure use the correct incantation: <b>Snarthon Candtrick Termanto</b>. Otherwise, you will be attacked by Thrantax the Mighty. It should be possible to just run away and wait for him to despawn rather than fight.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.thrantaxthemighty %}
+  </div>
+</div>
