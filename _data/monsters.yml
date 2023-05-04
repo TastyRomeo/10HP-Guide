@@ -686,3 +686,16 @@ witchsexperiment4:
     poison: false
     dart: false
   taggable: true
+  
+chronozon:
+  name: 'Chronozon'
+  level: 84
+  LP: '6,000'
+  maxHit: 480
+  combatXP: 404.1
+  HPXP: 133.3
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
