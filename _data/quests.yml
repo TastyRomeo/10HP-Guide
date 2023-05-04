@@ -1102,6 +1102,11 @@ holygrail:
     QP: '2'
     date: '2002-07-23'
     possible: Yes
+    skillReq:
+      att: 30
+    skillRew:
+      pry: '11,000'
+      def: '15,300'
 
 hopespearswill:
     name: 'Hopespear''s Will (miniquest)'
