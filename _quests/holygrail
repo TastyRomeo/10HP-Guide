@@ -1,0 +1,15 @@
+---
+permalink: "/quests/holygrail"
+layout: null
+---
+{% include quest.html quest=site.data.quests.holygrail %}
+<hr>
+<h4>Black Knight Titan</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    The Black Knight Titan is not a difficult opponent, but it can be difficult to do correctly. You can use recoil and poison, but the moment he dies, you must be wielding Excalibur (and possibly be targetting him). If you leave the castle before being given the mission to find Sir Percival, you will have to defeat the Black Knight Titan again. 
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.blackknighttitan %}
+  </div>
+</div>
