@@ -647,3 +647,16 @@ blackknighttitan:
     poison: false
     dart: '?'
   taggable: false
+
+khazardwarlord:
+  name: 'Khazard warlord'
+  level: 53
+  LP: '1,900'
+  maxHit: 152
+  combatXP: 95.4
+  HPXP: 31.4
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
