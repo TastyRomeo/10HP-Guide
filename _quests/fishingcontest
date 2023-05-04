@@ -1,0 +1,7 @@
+---
+permalink: "/quests/fishingcontest"
+layout: null
+---
+{% include quest.html quest=site.data.quests.fishingcontest %}
+<hr>
+This quest does not involve any combat.
