@@ -595,3 +595,43 @@ firewarrioroflesarkus:
     poison: false
     dart: false
   taggable: true
+  
+khazardogre:
+  name: 'Khazard ogre'
+  level: 64
+  LP: '2,300'
+  maxHit: 18
+  combatXP: 138.3
+  HPXP: 45.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+
+khazardscorpion:
+  name: 'Khazard scorpion'
+  level: 50
+  LP: '1,800'
+  maxHit: 14
+  combatXP: 86.7
+  HPXP: 28.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+bouncer:
+  name: 'Bouncer'
+  level: 77
+  LP: '5,500'
+  maxHit: 440
+  combatXP: 317.2
+  HPXP: 104.6
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
