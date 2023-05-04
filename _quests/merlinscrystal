@@ -15,11 +15,5 @@ layout: null
 </div>
 <hr>
 <h4>Summonning Thrantax</h4>
-<div class="row">
-  <div class="col-md-8 col-sm-8">
-    When summonning Thrantax the Mighty, make sure use the correct incantation: <b>Snarthon Candtrick Termanto</b>. Otherwise, you will be attacked by Thrantax the Mighty. It should be possible to just run away and wait for him to despawn rather than fight.
-  </div>
-  <div class="col-md-4 col-sm-4">
-    {% include monster.html monster=site.data.monsters.thrantaxthemighty %}
-  </div>
-</div>
+When summonning Thrantax the Mighty, make sure use the correct incantation: <b>Snarthon Candtrick Termanto</b>. Otherwise, you will be attacked by Thrantax the Mighty. It should be possible to just run away and wait for him to despawn rather than fight.
+
