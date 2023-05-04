@@ -816,6 +816,8 @@ fightarena:
     QP: '2'
     date: '2002-07-23'
     possible: Yes
+    skillRew:
+      att: '12,175'
 
 finaldestination:
     name: 'Final Destination (miniquest)'
