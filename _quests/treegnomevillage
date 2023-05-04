@@ -1,0 +1,15 @@
+---
+permalink: "/quests/treegnomevillage"
+layout: null
+---
+{% include quest.html quest=site.data.quests.treegnomevillage %}
+<hr>
+<h4>Ambush</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    The only enemy you actually have to defeat, is the Khazard warlord. Recoil and poison should work fine.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.khazardwarlord %}
+  </div>
+</div>
