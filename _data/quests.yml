@@ -2347,6 +2347,9 @@ waterfallquest:
     QP: '1'
     date: '2002-09-24'
     possible: Yes
+    skillRew:
+      att: '13,750'
+      str: '13,750'
 
 whatliesbelow:
     name: 'What Lies Below'
