@@ -1,0 +1,15 @@
+---
+permalink: "/quests/scorpioncatcher"
+layout: null
+---
+{% include quest.html quest=site.data.quests.scorpioncatcher %}
+<hr>
+<h4>Taverley Dungeon</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+   This quest does not involve any combat, however, if you do not have 70 agility or a Dusty Key you will have to defeat the Jailer in the Taverley dungeon.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.jailer %}
+  </div>
+</div>
