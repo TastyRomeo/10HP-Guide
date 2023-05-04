@@ -2,27 +2,31 @@
 permalink: "/quests/heroesquest"
 layout: null
 ---
-{% include quest.html quest=site.data.quests.deathtothedorgeshuun %}
+{% include quest.html quest=site.data.quests.heroesquest %}
 <hr>
 <h4>Entranan firebird</h4>
 <div class="row">
-  <div class="col-md-8 col-sm-8">
-    Avoid ice giants and ice warriors, get to ice queen and kill for ice gloves. WIP.
+  <div class="col-md-4 col-sm-4">
+    <p>For this part of the quest, you will need ice gloves, which are dropped by the Ice Queen. If you do not own this item yet, you will have have to defeat her. Recoil and poison work fine.</p>
+    <p>The Entranan firebird is somewhat more difficult, due to the restrictions on Entrana. You can bring runes and recoil rings normally, which allows you to tag and recoil the bird. Alternatively, you can bring the ingredients for a few poison bombs. For safety reasons, you may want to bring a bowstring and logs, and craft a bow while on Entrana. Wielding this bow without ammo will prevent you from accidentally attacking the firebird normally.</p>
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.entrananfirebird %}
   </div>
   <div class="col-md-4 col-sm-4">
     {% include monster.html monster=site.data.monsters.icequeen %}
   </div>
 </div>
+<hr>
+<h4>Lava eel</h4>
 <div class="row">
-  <div class="col-md-8 col-sm-8">
-    Kill firebird on entrana. Can create poison bombs on island itself.
+  <div class="col-md-4 col-sm-4">
+    No combat in this section, apart from actually getting to the fishing spot. If you do not have 70 agility and do not yet own a Dusty Key, you will have to defeat the Jailer.
   </div>
   <div class="col-md-4 col-sm-4">
-    {% include monster.html monster=site.data.monsters.entrananfirebird %}
+    {% include monster.html monster=site.data.monsters.jailer %}
   </div>
 </div>
 <hr>
-<h4>Lava eel</h4>
-No combat in this section, apart from actually getting to the fishing spot. If you can boost to 70 agility, you can avoid all aggressive mosnters by taking the agility shortcut.
 <h4>Master thief's armband</h4>
-You should do this quest <b>solo</b> as part of the <b>Phoenix Gang</b>. This way, there are no combat requirents nor any combat.
+You should do this quest <b>solo</b> as part of the <b>Phoenix Gang</b>. This way, there are no level requirements nor any combat.
