@@ -1,0 +1,7 @@
+---
+permalink: "/quests/junglepotion"
+layout: null
+---
+{% include quest.html quest=site.data.quests.junglepotion %}
+<hr>
+This quest does not involve any combat.
