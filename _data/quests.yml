@@ -2217,6 +2217,8 @@ treegnomevillage:
     QP: '2'
     date: '2002-07-23'
     possible: Yes
+    skillRew:
+      att: '11,450'
 
 tribaltotem:
     name: 'Tribal Totem'
