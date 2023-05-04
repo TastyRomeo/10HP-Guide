@@ -4,4 +4,4 @@ layout: null
 ---
 {% include quest.html quest=site.data.quests.piratestreasure %}
 <hr>
-This quest does not involve any combat. While you will get attack by an angry Gardener, you can just let him lose aggression before digging up the treasure.
+This quest does not involve any combat. While you will get attacked by an angry Gardener, you can just let him lose aggression before digging up the treasure.
