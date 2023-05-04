@@ -1,0 +1,16 @@
+---
+permalink: "/quests/familycrest"
+layout: null
+---
+{% include quest.html quest=site.data.quests.familycrest %}
+<hr>
+<h4>Chronozon</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    <p>To defeat Chronozon, he must be hit with all four elemental blast spells, otherwise he will completely heal instead of dying. This is problematic, because hitting him will ensure you get the XP drop.</p>
+    <p>The only (known) way to kill him without gaining Constitution XP, is to use a Deathtouched Dart. You do <b>not</b> need to use the blast spells when darting.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.chronozon %}
+  </div>
+</div>
