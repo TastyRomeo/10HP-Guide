@@ -119,6 +119,8 @@ biohazard:
     QP: '3'
     date: '2002-10-23'
     possible: Yes
+    questReq:
+     - plaguecity
 
 birthrightofthedwarves:
     name: 'Birthright of the Dwarves'
@@ -1102,6 +1104,8 @@ holygrail:
     QP: '2'
     date: '2002-07-23'
     possible: Yes
+    questReq:
+     - merlinscrystal
     skillReq:
       att: 30
     skillRew:
