@@ -595,3 +595,16 @@ entrananfirebird:
     poison: false
     dart: false
   taggable: true
+
+dramentreespirit:
+  name: 'Dramen tree spirit'
+  level: 63
+  LP: '4,000'
+  maxHit: 384
+  combatXP: 132
+  HPXP: 43.5
+  immunity:
+    recoil: false
+    poison: true
+    dart: false
+  taggable: true
