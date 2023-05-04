@@ -2143,7 +2143,11 @@ templeofikov:
     QP: '1'
     date: '2002-06-17'
     possible: Yes
-
+    skillReq:
+      rng: 40
+    skillRew:
+      rng: '10,500'
+      
 thokittoem:
     name: 'Thok It To ''Em (saga)'
     members: Yes
