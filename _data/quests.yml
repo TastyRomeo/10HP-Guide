@@ -2356,6 +2356,8 @@ witchshouse:
     QP: '4'
     date: '2002-02-27'
     possible: 'Block'
+    skillRew:
+      con: '6,325'
 
 witchspotion:
     name: 'Witch''s Potion (miniquest)'
