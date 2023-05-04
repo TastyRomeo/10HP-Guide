@@ -19,7 +19,16 @@
                 {% assign qid = quest | first %}
                 {% assign data = quest | last %}
                 {% if qid == req %}
-                  {{ data.name }}
+                  {{ data.name }} 
+                  ({%- if data.possible == "Yes" -%}
+                    <span class="mdi mdi-check" style="color:#5cb85c"></span>
+                  {%- elsif data.possible == "Maybe" -%}
+                    <span class="mdi mdi-check" style="color:#182338"></span>
+                  {%- elsif data.possible == "Block" -%}
+                    <span class="mdi mdi-cancel" style="color:#8B4000"></span>
+                  {%- else -%}
+                    <span class="mdi mdi-close" style="color:#F0433D"></span>
+                  {%- endif -%})
                   {% break %}
                 {% endif %}
               {% endfor %}
@@ -35,47 +44,47 @@
           <ul>
             {% if include.quest.skillReq.att %}
               <li>
-                {{ include.quest.skillReq.att }} <img src="img/attack.png" alt=""/> Attack
+                {{ include.quest.skillReq.att }} <img src="img/attack.png" alt=""/> Attack <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.str %}
               <li>
-                {{ include.quest.skillReq.str }} <img src="img/strength.png" alt=""/> Strength
+                {{ include.quest.skillReq.str }} <img src="img/strength.png" alt=""/> Strength <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.def %}
               <li>
-                {{ include.quest.skillReq.def }} <img src="img/defence.png" alt=""/> Defence
+                {{ include.quest.skillReq.def }} <img src="img/defence.png" alt=""/> Defence <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.mgc %}
               <li>
-                {{ include.quest.skillReq.mgc }} <img src="img/magic.png" alt=""/> Magic
+                {{ include.quest.skillReq.mgc }} <img src="img/magic.png" alt=""/> Magic <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.rng %}
               <li>
-                {{ include.quest.skillReq.rng }} <img src="img/ranged.png" alt=""/> Ranged
+                {{ include.quest.skillReq.rng }} <img src="img/ranged.png" alt=""/> Ranged <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.con %}
               <li>
-                {{ include.quest.skillReq.con }} <img src="img/constitution.png" alt=""/> Constitution
+                {{ include.quest.skillReq.con }} <img src="img/constitution.png" alt=""/> Constitution <span class="mdi mdi-close" style="color:#F0433D"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.pry %}
               <li>
-                {{ include.quest.skillReq.pry }} <img src="img/prayer.png" alt=""/> Prayer
+                {{ include.quest.skillReq.pry }} <img src="img/prayer.png" alt=""/> Prayer <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.sum %}
               <li>
-                {{ include.quest.skillReq.sum }} <img src="img/summoning.png" alt=""/> Summoning
+                {{ include.quest.skillReq.sum }} <img src="img/summoning.png" alt=""/> Summoning <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
             {% if include.quest.skillReq.cmb %}
               <li>
-                {{ include.quest.skillReq.cmb }} <img src="img/multicombat.png" alt=""/> Combat
+                {{ include.quest.skillReq.cmb }} <img src="img/multicombat.png" alt=""/> Combat <span class="mdi mdi-check" style="color:#5cb85c"></span>
               </li>
             {% endif %}
           </ul>
