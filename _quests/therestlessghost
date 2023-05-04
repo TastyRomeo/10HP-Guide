@@ -1,0 +1,7 @@
+---
+permalink: "/quests/therestlessghost"
+layout: null
+---
+{% include quest.html quest=site.data.quests.therestlessghost %}
+<hr>
+This miniquest does not involve any combat. You will be attacked by a Skeleton Warlock when finding the skull, but you can just ignore it.
