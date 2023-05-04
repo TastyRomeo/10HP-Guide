@@ -1,0 +1,7 @@
+---
+permalink: "/quests/tribaltotem"
+layout: null
+---
+{% include quest.html quest=site.data.quests.tribaltotem %}
+<hr>
+This quest does not involve any combat.
