@@ -1,0 +1,7 @@
+---
+permalink: "/quests/sheepherder"
+layout: null
+---
+{% include quest.html quest=site.data.quests.sheepherder %}
+<hr>
+This quest does not involve any combat.
