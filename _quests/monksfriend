@@ -1,0 +1,7 @@
+---
+permalink: "/quests/monksfriend"
+layout: null
+---
+{% include quest.html quest=site.data.quests.monksfriend %}
+<hr>
+This quest does not involve any combat.
