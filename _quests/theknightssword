@@ -1,0 +1,8 @@
+---
+permalink: "/quests/theknightssword"
+layout: null
+---
+{% include quest.html quest=site.data.quests.theknightssword %}
+<hr>
+This quest does not involve any combat.
+
