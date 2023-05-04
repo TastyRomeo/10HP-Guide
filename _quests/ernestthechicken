@@ -4,4 +4,4 @@ layout: null
 ---
 {% include quest.html quest=site.data.questData.ernestthechicken %}
 <hr>
-This quest does not involve any combat.
+This quest does not involve any combat. You can ignore the Skeleton that attacks you when picking up the Rubber Tube.
