@@ -1,0 +1,7 @@
+---
+permalink: "/quests/clocktower"
+layout: null
+---
+{% include quest.html quest=site.data.quests.clocktower %}
+<hr>
+This quest does not involve any combat.
