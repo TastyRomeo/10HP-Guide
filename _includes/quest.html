@@ -20,15 +20,15 @@
                 {% assign data = quest | last %}
                 {% if qid == req %}
                   {{ data.name }} 
-                  ({%- if data.possible == "Yes" -%}
+                  {% if data.possible == "Yes" or data.possible == Yes %}
                     <span class="mdi mdi-check" style="color:#5cb85c"></span>
-                  {%- elsif data.possible == "Maybe" -%}
+                  {% elsif data.possible == "Maybe" or data.possible == Maybe %}
                     <span class="mdi mdi-check" style="color:#182338"></span>
-                  {%- elsif data.possible == "Block" -%}
+                  {% elsif data.possible == "Block" or data.possible == Block %}
                     <span class="mdi mdi-cancel" style="color:#8B4000"></span>
-                  {%- else -%}
+                  {% else %}
                     <span class="mdi mdi-close" style="color:#F0433D"></span>
-                  {%- endif -%})
+                  {% endif %}
                   {% break %}
                 {% endif %}
               {% endfor %}
