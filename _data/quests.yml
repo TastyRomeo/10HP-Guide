@@ -1910,6 +1910,12 @@ scorpioncatcher:
     QP: '1'
     date: '2002-03-25'
     possible: Yes
+    questReq:
+      - barcrawl
+    skillReq:
+      pry: 31
+    skillRew:
+      str: '6,625'
 
 seaslug:
     name: 'Sea Slug'
