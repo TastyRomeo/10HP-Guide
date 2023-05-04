@@ -1,0 +1,7 @@
+---
+permalink: "/quests/hazeelcult"
+layout: null
+---
+{% include quest.html quest=site.data.quests.hazeelcult %}
+<hr>
+This quest does not involve any combat, but you must side with the cultists.
