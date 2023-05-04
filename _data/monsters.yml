@@ -608,3 +608,16 @@ dramentreespirit:
     poison: true
     dart: false
   taggable: true
+
+thrantaxthemighty:
+  name: 'Thrantax the Mighty'
+  level: 70
+  LP: '5,000'
+  maxHit: 200
+  combatXP: 250.2
+  HPXP: 82.5
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
