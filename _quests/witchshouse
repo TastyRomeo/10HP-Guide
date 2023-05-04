@@ -1,0 +1,29 @@
+---
+permalink: "/quests/witchshouse"
+layout: null
+---
+{% include quest.html quest=site.data.quests.witchshouse %}
+<hr>
+<h4>Witch's Exerpiment</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    Once you pick up the Ball in the shed, the Witch's experiment will attack you. It has 4 forms, each stronger than the previous one. You must kill all of them in one sitting so prepare accordingly. Recoil and poison work. 
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.witchsexperiment1 %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.witchsexperiment2 %}
+  </div>
+    <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.witchsexperiment3 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.witchsexperiment4 %}
+  </div>
+</div>
+<hr>
+<h4>Warning</4>
+Make sure you have blocked Constitution reward XP using Nastroth before giving the Ball back to Harvey.
