@@ -5,14 +5,7 @@ layout: null
 {% include quest.html quest=site.data.questData.dragonslayer %}
 <hr>
 <h4>Lozar's Map Piece</h4>
-<div class="row">
-  <div class="col-md-8 col-sm-8">
-    When trying to obtain Lozar's map piece, you will have to deal with Wormbrain. Simply pay him 10,000 Coins for the map piece.
-  </div>
-  <div class="col-md-4 col-sm-4">
-    {% include monster.html monster=site.data.monsters.wormbrain %}
-  </div>
-</div>
+When trying to obtain Lozar's map piece, you will have to deal with Wormbrain. Simply pay him 10,000 Coins for the map piece to avoid any combat.
 <hr>
 <h4>Melzar's Map Piece</h4>
 Obtaining Melzar's map piece means you have to go through Melzar's Maze. Only specific pre-determined monsters drop keys:
