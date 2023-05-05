@@ -673,3 +673,16 @@ mourner:
     poison: '?'
     dart: '?'
   taggable: true
+  
+blackdemon:
+  name: 'Black demon'
+  level: 98
+  LP: '7,000'
+  maxHit: 560
+  combatXP: 661
+  HPXP: 218.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
