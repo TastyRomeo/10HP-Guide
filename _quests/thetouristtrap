@@ -1,0 +1,15 @@
+---
+permalink: "/quests/thetouristtrap"
+layout: null
+---
+{% include quest.html quest=site.data.quests.thetouristtrap %}
+<hr>
+<h4>Mercenary Captain</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You must choose the correct dialogue options to actually fight the Mercenary Captain. When fighting, recoil and poison will suffice, though if using Poison Bombs you may also be attacked by other mercenaries.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.mercenarycaptain %}
+  </div>
+</div>
