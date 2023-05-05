@@ -2270,6 +2270,12 @@ undergroundpass:
     QP: '5'
     date: '2003-03-03'
     possible: Yes
+    questReq:
+      - biohazard
+    skillReq:
+      rng: 25
+    skillRew:
+      att: '3,000'
 
 unwelcomeguests:
     name: 'Unwelcome Guests'
