@@ -2360,6 +2360,10 @@ watchtower:
     QP: '4'
     date: '2003-05-07'
     possible: Yes
+    skillReq:
+      mgc: 14
+    skillRew:
+      mgc: '15,250'
 
 waterfallquest:
     name: 'Waterfall Quest'
