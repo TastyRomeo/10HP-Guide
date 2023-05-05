@@ -842,3 +842,16 @@ mercenarycaptain:
     poison: false
     dart: false
   taggable: true
+  
+gorad:
+  name: 'Gorad'
+  level: 53
+  LP: '7,600'
+  maxHit: 182
+  combatXP: 238.5
+  HPXP: 78.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
