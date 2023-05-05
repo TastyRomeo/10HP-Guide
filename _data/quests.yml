@@ -1297,6 +1297,24 @@ legendsquest:
     QP: '4'
     date: '2003-08-20'
     possible: Yes
+    questReq:
+      - heroesquest
+      - familycrest
+      - undergroundpass
+      - waterfallquest
+      - shilovillage
+    otherReq:
+      - '107 Quest Points'
+    skillReq:
+      mgc: 56
+      pry: 42
+      str: 50
+    lampsRew:
+      anyMult:
+        - '7,650'
+        - '7,650'
+        - '7,650'
+        - '7,650'
 
 letthemeatpie:
     name: 'Let Them Eat Pie'
