@@ -1,0 +1,7 @@
+---
+permalink: "/quests/murdermystery"
+layout: null
+---
+{% include quest.html quest=site.data.quests.murdermystery %}
+<hr>
+This quest does not involve any combat.
