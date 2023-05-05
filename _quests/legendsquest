@@ -1,0 +1,33 @@
+---
+permalink: "/quests/legendsquest"
+layout: null
+---
+{% include quest.html quest=site.data.quests.legendsquest %}
+<hr>
+<h4>Nezikchened: first fight</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    At the start of the first fight, Nezikchened will drain your prayer. Kill him with recoil and poison. You must kill him fast enough, however, or he will despawn.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.nezikchened %}
+  </div>
+</div>
+<hr>
+<h4>Three guardians</h4>
+<p>To go deeper in the cave, you will have to defeat Ranalph Devere, Irvig Senay and San Tojalon. Recoil and poison.</p>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.ralphdevere %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.irvigsenay %}
+  </div>
+    <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.santojalon %}
+  </div>
+</div>
+<hr>
+<h4>Nezikchened: second and thirdfight</h4>
+<p>Before the second fight, follow the "long and easy path", which means you do <b>not</b> kill Viyeldi. The fight is identical to the first, except that your prayer will not be drained.</p>
+<p>The third fight is again similar, but at the start of the fight Nezikchened will be able to hit you a few times while you cannot do anything. This is incredibly dangerous for HCIM, so prepare accordingly and activate Protect from Melee <b>before</b> using the new totem on the old one.</p>
