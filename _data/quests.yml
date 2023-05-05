@@ -985,6 +985,9 @@ thegrandtree:
     QP: '5'
     date: '2002-12-12'
     possible: Yes
+    lampsRew:
+      mgc: '2,150'
+      cmb: '18,400'
 
 thegreatbrainrobbery:
     name: 'Great Brain Robbery, The'
