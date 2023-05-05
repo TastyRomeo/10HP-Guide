@@ -1,0 +1,15 @@
+---
+permalink: "/quests/thegrandtree"
+layout: null
+---
+{% include quest.html quest=site.data.quests.thegrandtree %}
+<hr>
+<h4>Ambush</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    After going down the trapdoor in Glough's house, you will be ambushed by a Black demon. Poison and recoil will do fine.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.blackdemon %}
+  </div>
+</div>
