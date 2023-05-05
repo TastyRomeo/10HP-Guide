@@ -1,0 +1,53 @@
+---
+permalink: "/quests/undergroundpass"
+layout: null
+---
+{% include quest.html quest=site.data.quests.undergroundpass %}
+<hr>
+<h4>The Three Paladins</h4>
+The first enemies to defeat are Sir Carl, Sir Jerro and Sir Harry, as you need the badges they drop. Poison and recoil work fine. 
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.sircarl %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.sirjerro %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.sirharry %}
+  </div>
+</div>
+<hr>
+<h4>The three demons</h4>
+The next three enemies to defeat are three demons named Doomion, Othainian and Holthion. Again, poison and recoil work fine.
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.doomion %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.othainian %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.holthion %}
+  </div>
+</div>
+<hr>
+<h4>The big spider</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    Next up is a big spider, Kalrag. Once again, poison and recoil. After defeating it the other (small) spiders will attack you, just ignore them and run away.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kalrag %}
+  </div>
+</div>
+<hr>
+<h4>Zamorak robes</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    For the final part of the quest, you will need a set of Zamorak robes. You can kill a Disciple of Iban for them inside the underground pass (recoil and poison, as per usual), though it is possible to bring robes obtained beforehand.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.discipleofiban %}
+  </div>
+</div>
