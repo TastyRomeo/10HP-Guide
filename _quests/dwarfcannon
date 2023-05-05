@@ -1,0 +1,7 @@
+---
+permalink: "/quests/dwarfcannon"
+layout: null
+---
+{% include quest.html quest=site.data.quests.dwarfcannon %}
+<hr>
+This quest does not involve any combat.
