@@ -1986,6 +1986,8 @@ shilovillage:
     QP: '2'
     date: '2003-01-27'
     possible: Yes
+    questReq:
+     - junglepotion
 
 sinsofthefather:
     name: 'Sins of the Father'
