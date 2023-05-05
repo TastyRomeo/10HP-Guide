@@ -1,0 +1,15 @@
+---
+permalink: "/quests/watchtower"
+layout: null
+---
+{% include quest.html quest=site.data.quests.watchtower %}
+<hr>
+<h4>Gorad</h4>
+<div class="row">
+  <div class="col-md-8 col-sm-8">
+    You will have to kill Gorad to obtain his tooth. Killing him is easy, as recoil and poison both work, but getting him to drop the tooth is not. Make sure to complete the dialogue with him before fighting, and use either Bolas, Revenge or Provoke on him shortly before he dies to ensure the drop.
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.gorad %}
+  </div>
+</div>
