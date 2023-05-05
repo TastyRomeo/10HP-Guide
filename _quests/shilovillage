@@ -1,0 +1,19 @@
+---
+permalink: "/quests/shilovillage"
+layout: null
+---
+{% include quest.html quest=site.data.quests.shilovillage %}
+<hr>
+<h4>Nazastarool</h4>
+<p>You will have defeat a boss with three forms. Each form is susceptible to both recoil and poison, but must be defeated rather quickly - otherwise, it will despawn. Combine as many forms of recoil and poison damage as possible.</p>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.nazastarool1 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.nazastarool2 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.nazastarool3 %}
+  </div>
+</div>
