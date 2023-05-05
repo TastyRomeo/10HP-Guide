@@ -1,0 +1,8 @@
+---
+permalink: "/quests/observatoryquest"
+layout: null
+---
+{% include quest.html quest=site.data.quests.observatoryquest %}
+<hr>
+<p>This quest does not involve any combat. You can just lure away the Goblin guard, there is no need to kill him.</p>
+<p>The reward of this quest depends on the constellation you see. Aries, Capricorn, Leo and Virgo will result in Attack, Strength, Constitution and Defence XP lamps respectively.</p>
