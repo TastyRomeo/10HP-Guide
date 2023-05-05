@@ -1,7 +1,0 @@
----
-permalink: "/quests/waterfall"
-layout: null
----
-{% include quest.html quest=site.data.quests.waterfall %}
-<hr>
-This quest does not involve any combat.
