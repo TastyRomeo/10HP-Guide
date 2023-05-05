@@ -725,3 +725,108 @@ nazastarool3:
     poison: false
     dart: false
   taggable: true
+  
+sirharry:
+  name: 'Sir Harry'
+  level: 81
+  LP: '2,900'
+  maxHit: 550
+  combatXP: 244.8
+  HPXP: 80.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+sirjerro:
+  name: 'Sir Jerro'
+  level: 81
+  LP: '2,900'
+  maxHit: 550
+  combatXP: 244.8
+  HPXP: 80.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+sircarl:
+  name: 'Sir Carl'
+  level: 81
+  LP: '2,900'
+  maxHit: 550
+  combatXP: 244.8
+  HPXP: 80.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+doomion:
+  name: 'Doomion'
+  level: 78
+  LP: '2,800'
+  maxHit: 224
+  combatXP: 221.7
+  HPXP: 73.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+othainian:
+  name: 'Othainian'
+  level: 78
+  LP: '2,800'
+  maxHit: 224
+  combatXP: 221.7
+  HPXP: 73.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+holthion:
+  name: 'Holthion'
+  level: 78
+  LP: '2,800'
+  maxHit: 224
+  combatXP: 221.7
+  HPXP: 73.1
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+kalrag:
+  name: 'Kalrag'
+  level: 81
+  LP: '2,900'
+  maxHit: 232
+  combatXP: 244.8
+  HPXP: 80.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+discipleofiban:
+  name: 'Disciple of Iban'
+  level: 44
+  LP: '1,600'
+  maxHit: 128
+  combatXP: 72.6
+  HPXP: 23.9
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
