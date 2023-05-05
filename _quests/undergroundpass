@@ -5,7 +5,7 @@ layout: null
 {% include quest.html quest=site.data.quests.undergroundpass %}
 <hr>
 <h4>The Three Paladins</h4>
-The first enemies to defeat are Sir Carl, Sir Jerro and Sir Harry, as you need the badges they drop. Poison and recoil work fine. 
+<p>The first enemies to defeat are Sir Carl, Sir Jerro and Sir Harry, as you need the badges they drop. Poison and recoil work fine.</p>
 <div class="row">
   <div class="col-md-4 col-sm-4">
     {% include monster.html monster=site.data.monsters.sircarl %}
@@ -19,7 +19,7 @@ The first enemies to defeat are Sir Carl, Sir Jerro and Sir Harry, as you need t
 </div>
 <hr>
 <h4>The three demons</h4>
-The next three enemies to defeat are three demons named Doomion, Othainian and Holthion. Again, poison and recoil work fine.
+<p>The next three enemies to defeat are three demons named Doomion, Othainian and Holthion. Again, poison and recoil work fine.</p>
 <div class="row">
   <div class="col-md-4 col-sm-4">
     {% include monster.html monster=site.data.monsters.doomion %}
