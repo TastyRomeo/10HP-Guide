@@ -1540,6 +1540,11 @@ observatoryquest:
     QP: '2'
     date: '2003-03-17'
     possible: Yes
+    lampsRew:
+      att: 875
+      str: 875
+      def: 875
+      con: 875
 
 olafsquest:
     name: 'Olaf''s Quest'
