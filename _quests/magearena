@@ -1,0 +1,29 @@
+---
+permalink: "/quests/magearena"
+layout: null
+---
+{% include quest.html quest=site.data.quests.magearena %}
+<hr>
+<h4>Kolodion</h4>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    You have to defeat Kolodion using only Magic. Fortunately, recoil and poison both work, so this isn't very difficult. He does have 5 forms which are fought sequentially (man, ogre, troll, dark beast and black demon), so bring enough supplies and use the Protect from Magic prayer if necessary. 
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kolodion1 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kolodion2 %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kolodion3 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kolodion4 %}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    {% include monster.html monster=site.data.monsters.kolodion5 %}
+  </div>
+</div>
