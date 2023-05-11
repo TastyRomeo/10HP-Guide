@@ -18,7 +18,7 @@ layout: null
 <p>To go deeper in the cave, you will have to defeat Ranalph Devere, Irvig Senay and San Tojalon. Recoil and poison.</p>
 <div class="row">
   <div class="col-md-4 col-sm-4">
-    {% include monster.html monster=site.data.monsters.ralphdevere %}
+    {% include monster.html monster=site.data.monsters.ranalphdevere %}
   </div>
   <div class="col-md-4 col-sm-4">
     {% include monster.html monster=site.data.monsters.irvigsenay %}
