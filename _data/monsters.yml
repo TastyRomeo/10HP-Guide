@@ -855,3 +855,56 @@ gorad:
     poison: false
     dart: false
   taggable: true
+
+nezikchened:
+  name: 'Nezikchened'
+  level: 84
+  LP: '15,000'
+  maxHit: 735
+  combatXP: 808.2
+  HPXP: 266.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: '?'
+  
+ranalphdevere:
+  name: 'Ranalph Devere'
+  level: 63
+  LP: '3,375'
+  maxHit: 270
+  combatXP: 132
+  HPXP: 43.5
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: '?'
+  
+irvigsenay:
+  name: 'Irvig Senay'
+  level: 70
+  LP: '3,750'
+  maxHit: 300
+  combatXP: 166.8
+  HPXP: 55
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: '?'
+  
+santojalon:
+  name: 'San Tojalon'
+  level: 70
+  LP: '3,750'
+  maxHit: 300
+  combatXP: 166.8
+  HPXP: 55
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: '?'
+  
