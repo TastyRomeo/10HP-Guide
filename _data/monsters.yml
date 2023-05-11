@@ -908,3 +908,68 @@ santojalon:
     dart: false
   taggable: '?'
   
+kolodion1:
+  name: 'Kolodion (man)'
+  level: 'N/A'
+  LP: '3,000'
+  maxHit: '?'
+  combatXP: '?'
+  HPXP: '?'
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+kolodion2:
+  name: 'Kolodion (ogre)'
+  level: 'N/A'
+  LP: '3,200'
+  maxHit: 208
+  combatXP: 183
+  HPXP: 60.3
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+kolodion3:
+  name: 'Kolodion (troll)'
+  level: 'N/A'
+  LP: '3,500'
+  maxHit: 220
+  combatXP: 211.5
+  HPXP: 69.7
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+kolodion4:
+  name: 'Kolodion (dark beast)'
+  level: 'N/A'
+  LP: '4,500'
+  maxHit: 228
+  combatXP: 233.1
+  HPXP: 76.9
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
+kolodion5:
+  name: 'Kolodion (black demon)'
+  level: 84
+  LP: '6,000'
+  maxHit: 240
+  combatXP: 404.1
+  HPXP: 133.3
+  immunity:
+    recoil: false
+    poison: false
+    dart: false
+  taggable: true
+  
